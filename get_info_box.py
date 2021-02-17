@@ -2,14 +2,16 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 
-def get_info_box(url):
+def scrape_info_box(url):
     r = requests.get(url)
     soup = bs(r.content, features='html.parser')
+
     # contents = soup.prettify()
     info_box_ = soup.find(class_='infobox vevent')
     # info_box_ = info_box_.prettify()
     info_rows = info_box_.find_all('tr')
     movie_info = {}  # dictionary
+
     for index, row in enumerate(info_rows):
         if index == 0:  # title
             movie_info['title'] = row.find('th').get_text(' ', strip=True)
