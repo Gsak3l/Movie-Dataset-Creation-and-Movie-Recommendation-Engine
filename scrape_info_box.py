@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 
-def get_info_box():
-    r = requests.get('https://en.wikipedia.org/wiki/Toy_Story_3')
+def get_info_box(url):
+    r = requests.get(url)
     soup = bs(r.content, features='html.parser')
     # contents = soup.prettify()
     info_box_ = soup.find(class_='infobox vevent')
