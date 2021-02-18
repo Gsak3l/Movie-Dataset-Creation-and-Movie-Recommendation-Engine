@@ -1,16 +1,20 @@
 import requests
 from bs4 import BeautifulSoup as bs
+from data_clean import clean_tags
 
 
 def scrape_info_box(url):
+    movie_info = {}  # dictionary
+
     r = requests.get(url)
     soup = bs(r.content, features='html.parser')
+
+    clean_tags(soup)
 
     # contents = soup.prettify()
     info_box_ = soup.find(class_='infobox vevent')
     # info_box_ = info_box_.prettify()
     info_rows = info_box_.find_all('tr')
-    movie_info = {}  # dictionary
 
     for index, row in enumerate(info_rows):
         if index == 0:  # title
