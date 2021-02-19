@@ -32,5 +32,7 @@ def scrape_info_box(url):
 def get_content_value(row_data):
     if row_data.find('li'):
         return [li.get_text(' ', strip=True).replace('\u00a0', ' ') for li in row_data.find_all('li')]
+    elif row_data.find('br'):
+        return [text for text in row_data.stripped_strings]
     else:
         return row_data.get_text(' ', strip=True).replace('\u00a0', ' ')
