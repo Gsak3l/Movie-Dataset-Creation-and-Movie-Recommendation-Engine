@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
-from data_clean import clean_tags
+from data_clean import clean_tags, remove_parentheses
 
 
 def scrape_info_box(url):
@@ -19,12 +19,13 @@ def scrape_info_box(url):
     for index, row in enumerate(info_rows):
         if index == 0:  # title
             movie_info['title'] = row.find('th').get_text(' ', strip=True)
-        elif index == 1:  # picture
-            continue
         else:
-            content_key = row.find('th').get_text(' ', strip=True)
-            content_value = get_content_value(row.find('td'))
-            movie_info[content_key] = content_value
+            header = row.find('th')
+            if header:
+                content_key = row.find('th').get_text(' ', strip=True)
+                content_value = get_content_value(row.find('td'))
+                # content_value = remove_parentheses(content_value)
+                movie_info[content_key] = content_value
 
     return movie_info
 

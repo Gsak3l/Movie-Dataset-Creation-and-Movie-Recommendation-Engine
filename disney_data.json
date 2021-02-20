@@ -5,7 +5,7 @@
     "Release date": [
       "May 19, 1937"
     ],
-    "Running time": "41 minutes (74 minutes 1966 release)",
+    "Running time": "41 minutes ",
     "Country": "United States",
     "Language": "English",
     "Box office": "$45.472"
@@ -13,7 +13,7 @@
   {
     "title": "Snow White and the Seven Dwarfs",
     "Directed by": [
-      "David Hand (supervising)",
+      "David Hand ",
       "William Cottrell",
       "Wilfred Jackson",
       "Larry Morey",
@@ -57,7 +57,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "December 21, 1937 ( Carthay Circle Theatre , Los Angeles , CA , premiere)"
+      "December 21, 1937 "
     ],
     "Running time": "83 minutes",
     "Country": "United States",
@@ -109,8 +109,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "February 7, 1940 ( Center Theatre )",
-      "February 23, 1940 (United States)"
+      "February 7, 1940 ",
+      "February 23, 1940 "
     ],
     "Running time": "88 minutes",
     "Country": "United States",
@@ -164,15 +164,15 @@
     "title": "The Reluctant Dragon",
     "Directed by": [
       "Alfred Werker",
-      "(live action)",
+      "",
       "Hamilton Luske",
-      "(animation)",
+      "",
       "Jack Cutting",
       ",",
       "Ub Iwerks",
       ",",
       "Jack Kinney",
-      "(sequence directors)"
+      ""
     ],
     "Produced by": "Walt Disney",
     "Written by": [
@@ -186,7 +186,7 @@
       "The Reluctant Dragon",
       "segment:",
       "Kenneth Grahame",
-      "(original book)",
+      "",
       "Erdman Penner",
       "T. Hee",
       "Baby Weems",
@@ -216,13 +216,13 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$600,000",
-    "Box office": "$960,000 (worldwide rentals)"
+    "Box office": "$960,000 "
   },
   {
     "title": "Dumbo",
     "Directed by": [
       "Ben Sharpsteen",
-      "(supervising director)",
+      "",
       "Norman Ferguson",
       "Wilfred Jackson",
       "Bill Roberts",
@@ -260,14 +260,14 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "October 23, 1941 (New York City)",
-      "October 31, 1941 (U.S.)"
+      "October 23, 1941 ",
+      "October 31, 1941 "
     ],
     "Running time": "64 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$950,000",
-    "Box office": "$1.3 million (est. United States/Canada rentals, 1941)"
+    "Box office": "$1.3 million "
   },
   {
     "title": "Bambi",
@@ -308,9 +308,9 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "August 9, 1942 (World Premiere-London)",
-      "August 13, 1942 (Premiere-New York City)",
-      "August 21, 1942 (U.S.)"
+      "August 9, 1942 ",
+      "August 13, 1942 ",
+      "August 21, 1942 "
     ],
     "Running time": "70 minutes",
     "Country": "United States",
@@ -358,18 +358,18 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "August 24, 1942 (World Premiere-Rio de Janeiro)",
-      "February 6, 1943 (U.S. Premiere-Boston)",
-      "February 19, 1943 (U.S.)"
+      "August 24, 1942 ",
+      "February 6, 1943 ",
+      "February 19, 1943 "
     ],
     "Running time": "42 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Portuguese",
       "Spanish"
     ],
-    "Box office": "$1,135,000 (worldwide rentals)"
+    "Box office": "$1,135,000 "
   },
   {
     "title": "Victory Through Air Power",
@@ -417,11 +417,11 @@
   {
     "title": "The Three Caballeros",
     "Directed by": [
-      "Norman Ferguson (supervising director)",
+      "Norman Ferguson ",
       "Clyde Geronimi",
       "Jack Kinney",
       "Bill Roberts",
-      "Harold Young (sequence directors)"
+      "Harold Young "
     ],
     "Produced by": "Walt Disney",
     "Story by": [
@@ -449,17 +449,17 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "December 21, 1944 (Mexico City)",
-      "February 3, 1945 (US)"
+      "December 21, 1944 ",
+      "February 3, 1945 "
     ],
     "Running time": "71 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Spanish",
       "Portuguese"
     ],
-    "Box office": "$3,355,000 (worldwide rentals)"
+    "Box office": "$3,355,000 "
   },
   {
     "title": "Make Mine Music",
@@ -511,14 +511,14 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
     "Release date": [
-      "April 20, 1946 (New York City premiere)",
-      "August 15, 1946 (U.S.)"
+      "April 20, 1946 ",
+      "August 15, 1946 "
     ],
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.35 million",
-    "Box office": "$3.275 million (worldwide rentals)"
+    "Box office": "$3.275 million "
   },
   {
     "title": "Song of the South",
@@ -562,7 +562,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "November 12, 1946 (Premiere: Atlanta, Georgia)",
+      "November 12, 1946 ",
       "November 20, 1946"
     ],
     "Running time": "94 minutes",
@@ -574,9 +574,9 @@
   {
     "title": "Fun and Fancy Free",
     "Directed by": [
-      "Jack Kinney (animation)",
-      "Bill Roberts (animation)",
-      "Hamilton Luske (animation)",
+      "Jack Kinney ",
+      "Bill Roberts ",
+      "Hamilton Luske ",
       "William Morgan"
     ],
     "Produced by": "Walt Disney",
@@ -589,8 +589,8 @@
       "Ted Sears"
     ],
     "Based on": [
-      "Sinclair Lewis ( Bongo )",
-      "Jack and the Beanstalk ( Mickey and the Beanstalk )"
+      "Sinclair Lewis ",
+      "Jack and the Beanstalk "
     ],
     "Starring": [
       "Cliff Edwards",
@@ -604,8 +604,8 @@
       "Anita Gordon"
     ],
     "Narrated by": [
-      "Dinah Shore ( Bongo )",
-      "Edgar Bergen ( Mickey and the Beanstalk )"
+      "Dinah Shore ",
+      "Edgar Bergen "
     ],
     "Music by": [
       "Oliver Wallace",
@@ -622,7 +622,7 @@
     "Running time": "73 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,165,000 (worldwide rentals)"
+    "Box office": "$3,165,000 "
   },
   {
     "title": "Melody Time",
@@ -679,7 +679,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million",
-    "Box office": "$2,560,000 (worldwide rentals)"
+    "Box office": "$2,560,000 "
   },
   {
     "title": "So Dear to My Heart",
@@ -719,14 +719,14 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
     "Release date": [
-      "November 29, 1948 (Chicago, Illinois)",
-      "January 19, 1949 (Indianapolis, Indiana)"
+      "November 29, 1948 ",
+      "January 19, 1949 "
     ],
     "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million",
-    "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental)"
+    "Box office": "$3.7 million  $575,000 "
   },
   {
     "title": "The Adventures of Ichabod and Mr. Toad",
@@ -734,7 +734,7 @@
       "Jack Kinney",
       "Clyde Geronimi",
       "James Algar",
-      "Ben Sharpsteen (production supervisor)"
+      "Ben Sharpsteen "
     ],
     "Produced by": "Walt Disney",
     "Story by": [
@@ -765,8 +765,8 @@
       "The Rhythmaires"
     ],
     "Narrated by": [
-      "Basil Rathbone ( The Wind in the Willows )",
-      "Bing Crosby ( The Legend of Sleepy Hollow )"
+      "Basil Rathbone ",
+      "Bing Crosby "
     ],
     "Music by": "Oliver Wallace",
     "Edited by": "John O. Young",
@@ -778,7 +778,7 @@
     "Running time": "68 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,625,000 (worldwide rentals)"
+    "Box office": "$1,625,000 "
   },
   {
     "title": "Cinderella",
@@ -786,7 +786,7 @@
       "Clyde Geronimi",
       "Hamilton Luske",
       "Wilfred Jackson",
-      "Ben Sharpsteen (production supervisor)"
+      "Ben Sharpsteen "
     ],
     "Produced by": "Walt Disney",
     "Story by": [
@@ -799,7 +799,7 @@
       "Harry Reeves",
       "Joe Rinaldi",
       "Ted Sears",
-      "Maurice Rapf (uncredited)"
+      "Maurice Rapf "
     ],
     "Based on": [
       "Cinderella",
@@ -827,8 +827,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "February 15, 1950 (Boston)",
-      "March 4, 1950 (United States)"
+      "February 15, 1950 ",
+      "March 4, 1950 "
     ],
     "Running time": "74 minutes",
     "Country": "United States",
@@ -861,17 +861,17 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "June 22, 1950 (World Premiere- London )",
-      "July 29, 1950 ( US )"
+      "June 22, 1950 ",
+      "July 29, 1950 "
     ],
     "Running time": "96 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom"
     ],
     "Language": "English",
     "Budget": "$1,800,000",
-    "Box office": "$4,100,000 (worldwide rentals)"
+    "Box office": "$4,100,000 "
   },
   {
     "title": "Alice in Wonderland",
@@ -921,14 +921,14 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "July 26, 1951 (London, premiere)",
-      "July 28, 1951 (New York City, premiere)"
+      "July 26, 1951 ",
+      "July 28, 1951 "
     ],
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$5.6 million (US, 1951)"
+    "Box office": "$5.6 million "
   },
   {
     "title": "The Story of Robin Hood and His Merrie Men",
@@ -945,22 +945,22 @@
     ],
     "Music by": "Clifton Parker",
     "Cinematography": "Guy Green",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Productions",
       "RKO Radio Pictures, Inc."
     ],
     "Distributed by": "RKO Radio Pictures, Inc.",
     "Release date": [
-      "March 13, 1952 (Premiere- London )",
-      "June 26, 1952 ( US )"
+      "March 13, 1952 ",
+      "June 26, 1952 "
     ],
     "Running time": "84 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom"
     ],
     "Language": "English",
-    "Box office": "$2.1 million (US rentals)"
+    "Box office": "$2.1 million "
   },
   {
     "title": "Peter Pan",
@@ -997,7 +997,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "February 5, 1953 (United States)"
+      "February 5, 1953 "
     ],
     "Running time": "77 minutes",
     "Country": "United States",
@@ -1014,9 +1014,9 @@
     ],
     "Written by": [
       "Lawrence Edward Watkin",
-      "(screenplay)",
+      "",
       "Charles Major",
-      "(novel \"When Knighthood was in Flower\")"
+      ""
     ],
     "Starring": [
       "Glynis Johns",
@@ -1040,16 +1040,16 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "August 8, 1953 ( US )"
+      "August 8, 1953 "
     ],
     "Running time": "92 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
     "Language": "English",
     "Budget": "$2 million",
-    "Box office": "$1 million (US)"
+    "Box office": "$1 million "
   },
   {
     "title": "The Living Desert",
@@ -1076,7 +1076,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$300,000",
-    "Box office": "$2.6 million (US)"
+    "Box office": "$2.6 million "
   },
   {
     "title": "Rob Roy, the Highland Rogue",
@@ -1100,11 +1100,11 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": [
-      "26 October 1953 (Premiere- London )",
-      "4 February 1954 ( US )"
+      "26 October 1953 ",
+      "4 February 1954 "
     ],
     "Running time": "81 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -1113,6 +1113,7 @@
   },
   {
     "title": "The Vanishing Prairie",
+    "Directed by": "James Algar",
     "Produced by": [
       "Ben Sharpsteen",
       "Walt Disney"
@@ -1131,12 +1132,12 @@
       "August 17, 1954"
     ],
     "Running time": [
-      "60 minutes (VHS version)",
-      "71 minutes (original)"
+      "60 minutes ",
+      "71 minutes "
     ],
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US and Canadian rentals)"
+    "Box office": "$1.75 million "
   },
   {
     "title": "20,000 Leagues Under the Sea",
@@ -1157,7 +1158,7 @@
     "Music by": [
       "Paul Smith",
       "Joseph S. Dubin",
-      "(orchestration)"
+      ""
     ],
     "Cinematography": "Franz Planer",
     "Edited by": "Elmo Williams",
@@ -1182,10 +1183,10 @@
       "Buddy Ebsen"
     ],
     "Music by": [
-      "Thomas W. Blackburn (lyrics)",
+      "Thomas W. Blackburn ",
       "George Bruns",
       "Edward H. Plumb",
-      "(orchestration)"
+      ""
     ],
     "Cinematography": "Charles P. Boyle",
     "Edited by": "Chester W. Schaeffer",
@@ -1195,7 +1196,7 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,150,000 (US)"
+    "Box office": "$2,150,000 "
   },
   {
     "title": "Lady and the Tramp",
@@ -1262,7 +1263,7 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.1 million (US)"
+    "Box office": "$2.1 million "
   },
   {
     "title": "The Littlest Outlaw",
@@ -1276,9 +1277,9 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": "December 22, 1955",
     "Running time": "73 minutes",
-    "Country": "United States, Mexico",
-    "Language": "English, Spanish",
-    "Box office": "$1.6 million (US)"
+    "Countries": "United States, Mexico",
+    "Languages": "English, Spanish",
+    "Box office": "$1.6 million "
   },
   {
     "title": "The Great Locomotive Chase",
@@ -1304,7 +1305,7 @@
     "Running time": "85 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.7 million (US)"
+    "Box office": "$1.7 million "
   },
   {
     "title": "Davy Crockett and the River Pirates",
@@ -1320,10 +1321,10 @@
       "Jeff York"
     ],
     "Music by": [
-      "Thomas W. Blackburn (lyrics)",
+      "Thomas W. Blackburn ",
       "George Bruns",
       "Edward H. Plumb",
-      "(orchestration)"
+      ""
     ],
     "Edited by": "Stanley Johnson",
     "Production company": "Walt Disney Productions",
@@ -1394,7 +1395,7 @@
     "Running time": "90 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.75 million (US)"
+    "Box office": "$2.75 million "
   },
   {
     "title": "Johnny Tremain",
@@ -1412,7 +1413,7 @@
     ],
     "Music by": [
       "George Bruns",
-      "Tom Blackburn (lyrics) Song \"Liberty Tree\" by George Bruns and Tom Blackburn"
+      "Tom Blackburn  Song \"Liberty Tree\" by George Bruns and Tom Blackburn"
     ],
     "Cinematography": "Charles P. Boyle",
     "Edited by": "Stanley E. Johnson",
@@ -1463,7 +1464,7 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US rentals)"
+    "Box office": "$1.75 million "
   },
   {
     "title": "Old Yeller",
@@ -1499,7 +1500,7 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,250,000 (US/Canada rentals)"
+    "Box office": "$6,250,000 "
   },
   {
     "title": "The Light in the Forest",
@@ -1516,7 +1517,7 @@
     ],
     "Music by": [
       "Paul J. Smith",
-      "Franklyn Marks (orchestration)"
+      "Franklyn Marks "
     ],
     "Cinematography": "Ellsworth Fredericks",
     "Production company": "Walt Disney Productions",
@@ -1542,12 +1543,12 @@
       "August 12, 1958"
     ],
     "Running time": "72 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$1.8 million (est. US/ Canada rentals)"
+    "Box office": "$1.8 million "
   },
   {
     "title": "Tonka",
@@ -1587,12 +1588,12 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.5 million (est. US/ Canada rentals)"
+    "Box office": "$2.5 million "
   },
   {
     "title": "Sleeping Beauty",
     "Directed by": [
-      "Clyde Geronimi (supervising)",
+      "Clyde Geronimi ",
       "Eric Larson",
       "Wolfgang Reitherman",
       "Les Clark"
@@ -1623,7 +1624,7 @@
       "Bill Thompson"
     ],
     "Narrated by": "Marvin Miller",
-    "Music by": "George Bruns (adapted from Tchaikovsky's Sleeping Beauty Ballet )",
+    "Music by": "George Bruns ",
     "Edited by": [
       "Roy M. Brewer Jr.",
       "Donald Halliday"
@@ -1637,7 +1638,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$6 million",
-    "Box office": "$51.6 million (United States/Canada)"
+    "Box office": "$51.6 million "
   },
   {
     "title": "The Shaggy Dog",
@@ -1662,7 +1663,7 @@
       "Annette Funicello",
       "Tim Considine"
     ],
-    "Narrated by": "Paul Frees (opening only)",
+    "Narrated by": "Paul Frees ",
     "Music by": "Paul J. Smith",
     "Cinematography": "Edward Colman",
     "Edited by": "James Ballas",
@@ -1675,7 +1676,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "under $1 million or $1,250,000",
-    "Box office": "$12.3 million (US and Canada rentals)"
+    "Box office": "$12.3 million "
   },
   {
     "title": "Darby O'Gill and the Little People",
@@ -1686,7 +1687,7 @@
     ],
     "Written by": [
       "H. T. Kavanagh",
-      "(stories)",
+      "",
       "Lawrence Edward Watkin"
     ],
     "Starring": [
@@ -1704,8 +1705,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 24, 1959 (Dublin)",
-      "June 26, 1959 (Los Angeles)"
+      "June 24, 1959 ",
+      "June 26, 1959 "
     ],
     "Running time": "93 minutes",
     "Country": "United States",
@@ -1713,10 +1714,10 @@
     "Box office": [
       "Original release",
       ":",
-      "$2.6 million (est. US/ Canada rentals)",
+      "$2.6 million ",
       "1969 re-release",
       ":",
-      "$2.3 million  (US/ Canada rentals)"
+      "$2.3 million  "
     ]
   },
   {
@@ -1747,7 +1748,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2 million",
-    "Box office": "$1,700,000 (US/Canada rentals)"
+    "Box office": "$1,700,000 "
   },
   {
     "title": "Toby Tyler",
@@ -1768,11 +1769,11 @@
     "Music by": "Buddy Baker",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 21, 1960 ( Sarasota, FL )",
+    "Release date": "January 21, 1960 ",
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,100,000 (US/Canada rentals)"
+    "Box office": "$3,100,000 "
   },
   {
     "title": "Kidnapped",
@@ -1799,7 +1800,7 @@
     ],
     "Running time": "97 minutes",
     "Country": "United States",
-    "Language": "English, Scots"
+    "Languages": "English, Scots"
   },
   {
     "title": "Pollyanna",
@@ -1820,7 +1821,7 @@
       "Adolphe Menjou",
       "Agnes Moorehead"
     ],
-    "Music by": "Paul Smith (Score)",
+    "Music by": "Paul Smith ",
     "Cinematography": "Russell Harlan",
     "Edited by": "Frank Gross",
     "Production company": "Walt Disney Productions",
@@ -1830,7 +1831,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.5 million",
-    "Box office": "$3.75 million (US and Canadian rentals)"
+    "Box office": "$3.75 million "
   },
   {
     "title": "Jungle Cat",
@@ -1848,13 +1849,13 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 1960 ( Berlin )",
-      "August 10, 1960 (US)"
+      "June 1960 ",
+      "August 10, 1960 "
     ],
     "Running time": "69 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.3 million (US and Canadian rentals)"
+    "Box office": "$2.3 million "
   },
   {
     "title": "Ten Who Dared",
@@ -1916,9 +1917,9 @@
     ],
     "Music by": [
       "William Alwyn",
-      "(composer)",
+      "",
       "Muir Mathieson",
-      "(conductor)"
+      ""
     ],
     "Cinematography": "Harry Waxman",
     "Edited by": "Peter Boita",
@@ -1952,7 +1953,7 @@
       "Cate Bauer",
       "Betty Lou Gerson",
       "Ben Wright",
-      "Bill Lee (singing voice)",
+      "Bill Lee ",
       "Lisa Davis",
       "Martha Wentworth"
     ],
@@ -2134,7 +2135,7 @@
     "Music by": [
       "Victor Herbert",
       "George Bruns",
-      "Mel Leven (new lyrics)"
+      "Mel Leven "
     ],
     "Cinematography": "Edward Colman",
     "Edited by": "Robert Stafford",
@@ -2147,7 +2148,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$4.6 million (U.S./Canada rentals)"
+    "Box office": "$4.6 million "
   },
   {
     "title": "Moon Pilot",
@@ -2169,7 +2170,7 @@
     "Music by": [
       "Robert B. Sherman",
       "Richard M. Sherman",
-      "(songs)",
+      "",
       "Paul J. Smith"
     ],
     "Cinematography": "William E. Snyder",
@@ -2209,7 +2210,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$5 million (rentals)"
+    "Box office": "$5 million "
   },
   {
     "title": "Big Red",
@@ -2217,7 +2218,7 @@
     "Produced by": "Walt Disney",
     "Written by": [
       "Jim Kjelgaard",
-      "(novel)",
+      "",
       "Louis Pelletier"
     ],
     "Starring": [
@@ -2271,19 +2272,19 @@
     "Written by": [
       "Dwight Hauser and James Algar",
       "Ernest Thompson Seton",
-      "(source author)"
+      ""
     ],
     "Narrated by": "Rex Allen",
     "Music by": [
       "Oliver Wallace",
-      "(score)",
+      "",
       "Richard M. Sherman",
       "and",
       "Robert B. Sherman",
-      "(title song)",
+      "",
       "Sons of the Pioneers",
-      "(title song performers)",
-      "Walter Sheets (orchestrator)"
+      "",
+      "Walter Sheets "
     ],
     "Cinematography": [
       "Lloyd Beebe",
@@ -2293,7 +2294,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "November 7, 1962 (Los Angeles)"
+      "November 7, 1962 "
     ],
     "Running time": "67 minutes",
     "Country": "United States",
@@ -2331,8 +2332,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "November 14, 1962 (London, premiere)",
-      "December 19, 1962 (US)"
+      "November 14, 1962 ",
+      "December 19, 1962 "
     ],
     "Running time": "98 minutes",
     "Country": "United States",
@@ -2398,12 +2399,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "March 29, 1963 (U.S.)"
+      "March 29, 1963 "
     ],
     "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,550,000 (US/ Canada)"
+    "Box office": "$2,550,000 "
   },
   {
     "title": "Savage Sam",
@@ -2431,7 +2432,7 @@
     "Running time": "103 Minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada)"
+    "Box office": "$3,000,000 "
   },
   {
     "title": "Summer Magic",
@@ -2468,7 +2469,7 @@
     "Running time": "110 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,350,000 (US/ Canada rentals)"
+    "Box office": "$4,350,000 "
   },
   {
     "title": "The Incredible Journey",
@@ -2498,12 +2499,12 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": "November 20, 1963",
     "Running time": "80 min.",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$4.2 million (US/Canada) (rentals)"
+    "Box office": "$4.2 million  "
   },
   {
     "title": "The Sword in the Stone",
@@ -2563,7 +2564,7 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "est. $1,600,000 (US/ Canada)"
+    "Box office": "est. $1,600,000 "
   },
   {
     "title": "The Misadventures of Merlin Jones",
@@ -2590,12 +2591,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "February 11, 1964 (Los Angeles)"
+      "February 11, 1964 "
     ],
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)"
+    "Box office": "$4,000,000 "
   },
   {
     "title": "The Three Lives of Thomasina",
@@ -2603,7 +2604,7 @@
     "Produced by": [
       "Ron Miller",
       "Walt Disney",
-      "(uncredited)"
+      ""
     ],
     "Written by": [
       "Robert Westerby",
@@ -2627,18 +2628,18 @@
       "New York City, New York",
       ")",
       "4 June 1964",
-      "(United States)"
+      ""
     ],
     "Running time": "97 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
-    "Language": [
+    "Languages": [
       "English",
       "Gaelic"
     ],
-    "Box office": "$2,250,000 (US/ Canada)"
+    "Box office": "$2,250,000 "
   },
   {
     "title": "The Moon-Spinners",
@@ -2666,7 +2667,7 @@
     ],
     "Running time": "118 minutes",
     "Language": "English",
-    "Box office": "est. $3,500,000 (US/ Canada)"
+    "Box office": "est. $3,500,000 "
   },
   {
     "title": "Mary Poppins",
@@ -2771,7 +2772,7 @@
     "Running time": "131 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,500,000 (US/ Canada rentals)"
+    "Box office": "$3,500,000 "
   },
   {
     "title": "The Monkey's Uncle",
@@ -2795,12 +2796,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "August 18, 1965 (Los Angeles)"
+      "August 18, 1965 "
     ],
     "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/Canada rentals)"
+    "Box office": "$4,000,000 "
   },
   {
     "title": "That Darn Cat!",
@@ -2861,13 +2862,13 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
       "February 4, 1966",
-      "(premiere)",
+      "",
       "February 16, 1966"
     ],
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.2 million (est. US/ Canada rentals)"
+    "Box office": "$6.2 million "
   },
   {
     "title": "Lt. Robin Crusoe, U.S.N.",
@@ -2876,14 +2877,14 @@
       "Ron W. Miller",
       "Bill Walsh",
       "Walt Disney",
-      "(uncredited)"
+      ""
     ],
     "Written by": [
       "Walt Disney",
       "Don DaGradi",
       "Bill Walsh",
       "Daniel Defoe",
-      "(novel)"
+      ""
     ],
     "Starring": [
       "Dick Van Dyke",
@@ -2895,8 +2896,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 25, 1966 (San Diego)",
-      "June 29, 1966 (U.S.)"
+      "June 25, 1966 ",
+      "June 29, 1966 "
     ],
     "Running time": "110 min.",
     "Country": "United States",
@@ -2926,7 +2927,7 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": "October 1, 1966",
     "Running time": "110 min.",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -2942,7 +2943,7 @@
     "Screenplay by": "Norman Tokar",
     "Based on": [
       "God and My Country",
-      "(1954 novel)",
+      "",
       "by",
       "MacKinlay Kantor"
     ],
@@ -2989,12 +2990,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "February 8, 1967 (San Francisco)"
+      "February 8, 1967 "
     ],
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada)"
+    "Box office": "$3,000,000 "
   },
   {
     "title": "The Adventures of Bullwhip Griffin",
@@ -3022,12 +3023,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "March 8, 1967 (United States)"
+      "March 8, 1967 "
     ],
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,900,000 (US/ Canada)"
+    "Box office": "$1,900,000 "
   },
   {
     "title": "The Gnome-Mobile",
@@ -3064,7 +3065,7 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)"
+    "Box office": "$4,000,000 "
   },
   {
     "title": "The Jungle Book",
@@ -3185,7 +3186,7 @@
       "New York City",
       "premiere)",
       "118 minutes",
-      "(General release)",
+      "",
       "172 minutes",
       "(",
       "Director's Cut",
@@ -3194,7 +3195,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$5 million (U.S./Canada rentals)"
+    "Box office": "$5 million "
   },
   {
     "title": "Blackbeard's Ghost",
@@ -3256,12 +3257,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "March 21, 1968 ( Radio City Music Hall )"
+      "March 21, 1968 "
     ],
     "Running time": "110 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,250,000 (US/ Canada)"
+    "Box office": "$2,250,000 "
   },
   {
     "title": "Never a Dull Moment",
@@ -3269,9 +3270,9 @@
     "Produced by": "Ron Miller",
     "Written by": [
       "AJ Carothers",
-      "(screenplay)",
+      "",
       "John Godey",
-      "(book)"
+      ""
     ],
     "Starring": [
       "Dick Van Dyke",
@@ -3289,7 +3290,7 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,150,000 (US/ Canada rentals)"
+    "Box office": "$4,150,000 "
   },
   {
     "title": "The Horse in the Gray Flannel Suit",
@@ -3297,7 +3298,7 @@
     "Produced by": "Winston Hibler",
     "Written by": [
       "Eric Hatch",
-      "(book)",
+      "",
       "Louis Pelletier"
     ],
     "Starring": [
@@ -3320,7 +3321,7 @@
     "Running time": "113 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.3 million  (US/ Canada rentals)"
+    "Box office": "$3.3 million  "
   },
   {
     "title": "The Love Bug",
@@ -3343,8 +3344,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "December 24, 1968 (limited)",
-      "March 13, 1969 (wide)"
+      "December 24, 1968 ",
+      "March 13, 1969 "
     ],
     "Running time": "108 minutes",
     "Country": "United States",
@@ -3369,7 +3370,7 @@
     "Running time": "112 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.3 million (US/ Canada rentals)"
+    "Box office": "$1.3 million "
   },
   {
     "title": "Rascal",
@@ -3384,7 +3385,7 @@
     "Starring": [
       "Bill Mumy",
       "Walter Pidgeon",
-      "(voice)",
+      "",
       "Steve Forrest",
       "Pamela Toll"
     ],
@@ -3422,7 +3423,7 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.5 million (US/ Canada rentals)"
+    "Box office": "$5.5 million "
   },
   {
     "title": "King of the Grizzlies",
@@ -3454,7 +3455,7 @@
       "February 11, 1970"
     ],
     "Running time": "93 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
@@ -3507,13 +3508,13 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "December 15, 1970 (original release)",
+      "December 15, 1970 ",
       "January 20, 1971"
     ],
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)"
+    "Box office": "$4 million  "
   },
   {
     "title": "The Aristocats",
@@ -3552,8 +3553,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "December 11, 1970 (premiere)",
-      "December 24, 1970 (United States)"
+      "December 11, 1970 ",
+      "December 24, 1970 "
     ],
     "Running time": "79 minutes",
     "Country": "United States",
@@ -3634,7 +3635,7 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.1 million (North America) (rentals)"
+    "Box office": "$5.1 million  "
   },
   {
     "title": "Bedknobs and Broomsticks",
@@ -3665,12 +3666,12 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "October 7, 1971 (United Kingdom)",
-      "December 13, 1971 (United States)"
+      "October 7, 1971 ",
+      "December 13, 1971 "
     ],
     "Running time": [
-      "118 minutes (1971 original version)",
-      "139 minutes (1996 reconstruction version)"
+      "118 minutes ",
+      "139 minutes "
     ],
     "Country": "United States",
     "Language": "English",
@@ -3695,7 +3696,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "March 22, 1972 (US)"
+      "March 22, 1972 "
     ],
     "Running time": "92 minutes",
     "Country": "United States",
@@ -3723,7 +3724,7 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,610,000 (US/Canada) (rentals)"
+    "Box office": "$4,610,000  "
   },
   {
     "title": "Napoleon and Samantha",
@@ -3785,8 +3786,8 @@
       "Tom Leetch"
     ],
     "Written by": [
-      "Frankie O'Rear (book \"Chateau Bon Vivant\")",
-      "John O'Rear (book \"Chateau Bon Vivant\")",
+      "Frankie O'Rear ",
+      "John O'Rear ",
       "Don Tait",
       "Jim Parker",
       "Arnold Margolin"
@@ -3817,7 +3818,7 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,100,000 (US/ Canada rentals)"
+    "Box office": "$6,100,000 "
   },
   {
     "title": "The World's Greatest Athlete",
@@ -3850,8 +3851,8 @@
     "Produced by": "Bill Anderson",
     "Written by": [
       "Will Stanton",
-      "(book author)",
-      "Roswell Rogers (film writer)"
+      "",
+      "Roswell Rogers "
     ],
     "Starring": [
       "Fred MacMurray",
@@ -3877,6 +3878,31 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English"
+  },
+  {
+    "title": "One Little Indian",
+    "Directed by": "Bernard McEveety",
+    "Produced by": "Winston Hibler",
+    "Written by": "Harry Spalding",
+    "Starring": [
+      "James Garner",
+      "Vera Miles",
+      "Pat Hingle",
+      "Morgan Woodward",
+      "Jodie Foster"
+    ],
+    "Music by": "Jerry Goldsmith",
+    "Cinematography": "Charles F. Wheeler",
+    "Edited by": "Robert Stafford",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "June 20, 1973"
+    ],
+    "Running time": "90 Minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$2 million"
   },
   {
     "title": "Robin Hood",
@@ -3944,7 +3970,7 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7 million (US/Canada rentals)"
+    "Box office": "$7 million "
   },
   {
     "title": "Herbie Rides Again",
@@ -3975,8 +4001,8 @@
     "Country": "United States",
     "Language": "English",
     "Box office": [
-      "$38,229,000 (US/Canada gross)",
-      "$30.8 million (worldwide rentals)"
+      "$38,229,000 ",
+      "$30.8 million "
     ]
   },
   {
@@ -4007,7 +4033,7 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)"
+    "Box office": "$4 million  "
   },
   {
     "title": "The Castaway Cowboy",
@@ -4041,9 +4067,9 @@
     "Produced by": "Winston Hibler",
     "Written by": [
       "Ian Cameron",
-      "(novel)",
+      "",
       "John Whedon",
-      "(screenplay)"
+      ""
     ],
     "Starring": [
       "Donald Sinden",
@@ -4057,10 +4083,10 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 20, 1974 (with Winnie the Pooh and Tigger Too )",
+    "Release date": "December 20, 1974 ",
     "Running time": "93 mins",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Swedish",
       "Norwegian",
@@ -4068,7 +4094,7 @@
       "Icelandic"
     ],
     "Budget": "$8 million",
-    "Box office": "$10 million (US/Canada rentals)"
+    "Box office": "$10 million "
   },
   {
     "title": "The Strongest Man in the World",
@@ -4096,7 +4122,7 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.6 million (US/Canada rentals)"
+    "Box office": "$6.6 million "
   },
   {
     "title": "Escape to Witch Mountain",
@@ -4124,7 +4150,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "March 21, 1975 (U.S.)"
+      "March 21, 1975 "
     ],
     "Running time": "97 min.",
     "Country": "United States",
@@ -4152,7 +4178,7 @@
       "Paul J. Smith",
       "Buddy Baker",
       "Joseph S. Dubin",
-      "(orchestration)"
+      ""
     ],
     "Cinematography": "Frank V. Phillips",
     "Edited by": "Ray de Leuw",
@@ -4187,15 +4213,16 @@
       "July 9, 1975"
     ],
     "Running time": "100 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
     "Language": "English",
-    "Box office": "$5.5 million (North American rentals)"
+    "Box office": "$5.5 million "
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
+    "Directed by": "James Algar",
     "Produced by": [
       "Ben Sharpsteen",
       "James Algar"
@@ -4245,7 +4272,7 @@
     "Written by": "Rosemary Anne Sisson",
     "Based on": [
       "A Sporting Proposition",
-      "(novel)",
+      "",
       "by",
       "James Aldridge"
     ],
@@ -4260,13 +4287,13 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": [
       "Buena Vista Distribution",
-      "(US)",
+      "",
       "British Empire Films",
-      "(Australia)"
+      ""
     ],
     "Release date": "December 25, 1975",
     "Running time": "91 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Australia"
     ],
@@ -4297,7 +4324,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "February 11, 1976 (Los Angeles)"
+      "February 11, 1976 "
     ],
     "Running time": "112 minutes",
     "Country": "United States",
@@ -4398,7 +4425,7 @@
     "Running time": "91 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$10.5 million (US and Canada rentals)"
+    "Box office": "$10.5 million "
   },
   {
     "title": "Freaky Friday: THe Movie",
@@ -4452,12 +4479,12 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
       "May 26, 1976",
-      "(UK)",
+      "",
       "March 12, 1977",
-      "(US)"
+      ""
     ],
     "Running time": "104 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -4499,9 +4526,9 @@
     "Music by": [
       "Richard M. Sherman",
       "Robert B. Sherman",
-      "(songs)",
+      "",
       "Buddy Baker",
-      "(score)"
+      ""
     ],
     "Edited by": [
       "Tom Acosta",
@@ -4737,7 +4764,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 30, 1978 (New York)"
+      "June 30, 1978 "
     ],
     "Running time": "104 minutes",
     "Country": "United States",
@@ -4823,7 +4850,7 @@
       "Paul J. Smith",
       "Buddy Baker",
       "Joseph S. Dubin",
-      "(orchestration)"
+      ""
     ],
     "Cinematography": "Frank V. Phillips",
     "Edited by": "Gordon Brenner",
@@ -4856,11 +4883,11 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "July 19, 1979 (London)",
-      "August 3, 1979 (Los Angeles)"
+      "July 19, 1979 ",
+      "August 3, 1979 "
     ],
     "Running time": "93 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -4897,8 +4924,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "December 18, 1979 (United Kingdom)",
-      "December 21, 1979 (United States)"
+      "December 18, 1979 ",
+      "December 21, 1979 "
     ],
     "Running time": "98 minutes",
     "Country": "United States",
@@ -4974,7 +5001,7 @@
     "title": "The Watcher in the Woods",
     "Directed by": [
       "John Hough",
-      "Vincent McEveety (uncredited)"
+      "Vincent McEveety "
     ],
     "Produced by": "Ron Miller",
     "Screenplay by": [
@@ -5000,8 +5027,8 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "April 17, 1980 (New York City)",
-      "October 9, 1981 (U.S.)"
+      "April 17, 1980 ",
+      "October 9, 1981 "
     ],
     "Running time": "84 minutes",
     "Country": "United States",
@@ -5074,7 +5101,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "July 9, 1980 (Los Angeles)"
+      "July 9, 1980 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -5102,21 +5129,21 @@
       "John W. Holmes",
       "David A. Simmons"
     ],
-    "Production company": [
+    "Production companies": [
       "Paramount Pictures",
       "Walt Disney Productions",
       "Robert Evans Productions",
       "King Features Entertainment"
     ],
     "Distributed by": [
-      "Paramount Pictures (North America)",
-      "(North America)",
-      "Buena Vista International Distribution (International)",
-      "(International)"
+      "Paramount Pictures ",
+      "",
+      "Buena Vista International Distribution ",
+      ""
     ],
     "Release date": [
-      "December 6, 1980 ( Los Angeles )",
-      "December 12, 1980 ( United States )"
+      "December 6, 1980 ",
+      "December 12, 1980 "
     ],
     "Running time": "114 minutes",
     "Country": "United States",
@@ -5146,17 +5173,17 @@
     "Music by": [
       "Buddy Baker",
       "Joseph S. Dubin",
-      "(orchestration)"
+      ""
     ],
     "Cinematography": "Howard Schwartz",
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1981 (Los Angeles)",
+    "Release date": "February 11, 1981 ",
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16 million (USA)"
+    "Box office": "$16 million "
   },
   {
     "title": "Amy",
@@ -5206,7 +5233,7 @@
     "Music by": "Alex North",
     "Cinematography": "Derek Vanlint",
     "Edited by": "Tony Lawson",
-    "Production company": [
+    "Production companies": [
       "Paramount Pictures",
       "Walt Disney Productions"
     ],
@@ -5334,7 +5361,7 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": "February 5, 1982",
     "Running time": "107 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -5400,7 +5427,7 @@
     "Music by": "Pino Donaggio",
     "Cinematography": "Ric Waite",
     "Edited by": "Howard E. Smith",
-    "Production company": "Walt Disney Productions (promoted under the auspices of Touchstone Films )",
+    "Production company": "Walt Disney Productions ",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "July 30, 1982",
     "Running time": "103 minutes",
@@ -5436,7 +5463,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "unknown",
-    "Box office": "$4,304,286 (US)"
+    "Box office": "$4,304,286 "
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -5459,13 +5486,13 @@
       "Barry Mark Gordon",
       "Art J. Nelson"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Productions",
       "Bryna Productions"
     ],
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "April 29, 1983 (United States)"
+      "April 29, 1983 "
     ],
     "Running time": "95 minutes",
     "Country": "United States",
@@ -5501,18 +5528,18 @@
       "Michael Chandler",
       "Peter Parasheles"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Amarok Productions Ltd."
     ],
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "October 7, 1983 (limited)",
-      "January 27, 1984 (release)"
+      "October 7, 1983 ",
+      "January 27, 1984 "
     ],
     "Running time": "105 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Inuktitut"
     ],
@@ -5545,25 +5572,25 @@
     "Cinematography": [
       "David Watkin",
       "Freddie Francis",
-      "(uncredited)"
+      ""
     ],
     "Edited by": "Leslie Hodgson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners"
     ],
     "Distributed by": "Buena Vista Distribution",
     "Release date": [
-      "June 21, 1985 (United States)"
+      "June 21, 1985 "
     ],
     "Running time": "113 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom"
     ],
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$11.1 million (USA)"
+    "Box office": "$11.1 million "
   },
   {
     "title": "The Black Cauldron",
@@ -5611,7 +5638,7 @@
       "Armetta Jackson",
       "Jeffrey Katzenberg"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation",
       "Silver Screen Partners II"
@@ -5647,7 +5674,7 @@
       "David Holden",
       "Steven Rosenblum"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners II"
     ],
@@ -5658,7 +5685,7 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9.7 million (U.S. and Canada only)"
+    "Box office": "$9.7 million "
   },
   {
     "title": "One Magic Christmas",
@@ -5681,7 +5708,7 @@
     "Music by": "Michael Conway Baker",
     "Cinematography": "Frank Tidy",
     "Edited by": "Sidney Wolinsky",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners II",
       "Telefilm Canada"
@@ -5691,7 +5718,7 @@
       "November 22, 1985"
     ],
     "Running time": "89 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
@@ -5737,7 +5764,7 @@
       "Alan Young"
     ],
     "Music by": "Henry Mancini",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation",
       "Silver Screen Partners II"
@@ -5770,25 +5797,25 @@
     "Music by": "Alan Silvestri",
     "Cinematography": [
       "James Glennon",
-      "Eric McGraw (uncredited)"
+      "Eric McGraw "
     ],
     "Edited by": [
       "Jeff Gourson",
       "Janice Parker"
     ],
-    "Production company": [
+    "Production companies": [
       "PSO Productions",
       "Viking Film AS"
     ],
     "Distributed by": [
-      "PSO Productions (outside North America)",
+      "PSO Productions ",
       "Buena Vista Distribution"
     ],
     "Release date": [
       "August 1, 1986"
     ],
     "Running time": "90 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Norway"
     ],
@@ -5812,7 +5839,7 @@
     ],
     "Cinematography": "Don Reddy",
     "Edited by": "Karen Thorndike",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mulberry Square Productions",
       "Silver Screen Partners III"
@@ -5832,9 +5859,9 @@
     "Produced by": "Geoff Burrowes",
     "Written by": [
       "Banjo Paterson",
-      "(poem)",
+      "",
       "Geoff Burrowes",
-      "(story)",
+      "",
       "John Dixon"
     ],
     "Starring": [
@@ -5848,7 +5875,7 @@
     "Music by": "Bruce Rowland",
     "Cinematography": "Keith Wagstaff",
     "Edited by": "Gary Woodyard",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners III",
       "Burrowes Film Group",
@@ -5856,8 +5883,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "24 March 1988 (Australia)",
-      "15 April 1988 (United States)"
+      "24 March 1988 ",
+      "15 April 1988 "
     ],
     "Running time": "110 minutes",
     "Country": "Australia",
@@ -5905,7 +5932,7 @@
       "Sheryl Lee Ralph"
     ],
     "Music by": "J. A. C. Redford",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation",
       "Silver Screen Partners III"
@@ -5942,7 +5969,7 @@
     "Music by": "James Horner",
     "Cinematography": "Hiro Narita",
     "Edited by": "Michael A. Stevenson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners III"
     ],
@@ -5982,7 +6009,7 @@
     "Music by": "Bruce Rowland",
     "Cinematography": "Thomas Burstyn",
     "Edited by": "Eric Albertson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners III"
     ],
@@ -5992,7 +6019,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$8,153,677 (United States)"
+    "Box office": "$8,153,677 "
   },
   {
     "title": "The Little Mermaid",
@@ -6113,7 +6140,7 @@
     ],
     "Music by": "Bruce Broughton",
     "Edited by": "Michael Kelly",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation",
       "Silver Screen Partners IV"
@@ -6151,11 +6178,11 @@
     "Music by": [
       "Basil Poledouris",
       "Hans Zimmer",
-      "(additional music)"
+      ""
     ],
     "Cinematography": "Tony Pierce-Roberts",
     "Edited by": "Lisa Day",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Silver Screen Partners IV"
     ],
@@ -6178,7 +6205,7 @@
     ],
     "Written by": [
       "O.V. Falck-Ytter",
-      "(novel)",
+      "",
       "Nils Gaup",
       "Bob Foss",
       "Greg Dinner",
@@ -6191,7 +6218,7 @@
     "Music by": "Patrick Doyle",
     "Cinematography": "Erling Thurmann-Andersen",
     "Edited by": "Nils Pagh Andersen",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "AB Svensk Filmindustri"
     ],
@@ -6200,16 +6227,16 @@
       "3 October 1990"
     ],
     "Running time": "93 minutes",
-    "Country": [
+    "Countries": [
       "Norway",
       "Sweden",
       "United States"
     ],
-    "Language": [
+    "Languages": [
       "Norwegian",
       "English"
     ],
-    "Budget": "60 million Norwegian Kroner (around $8.7 million in 1989)",
+    "Budget": "60 million Norwegian Kroner ",
     "Box office": "$15.1 million"
   },
   {
@@ -6278,8 +6305,8 @@
       "Arthur Schmidt"
     ],
     "Production companies": [
-      "Walt Disney Pictures (United States)",
-      "Touchstone Pictures (International)",
+      "Walt Disney Pictures ",
+      "Touchstone Pictures ",
       "Silver Screen Partners IV",
       "Gordon Company"
     ],
@@ -6291,7 +6318,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35-40 million",
-    "Box office": "$46.7 million (USA)"
+    "Box office": "$46.7 million "
   },
   {
     "title": "Beauty and the Beast",
@@ -6338,8 +6365,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "September 29, 1991 ( NYFF )",
-      "November 22, 1991 (United States)"
+      "September 29, 1991 ",
+      "November 22, 1991 "
     ],
     "Running time": "84 minutes",
     "Country": "United States",
@@ -6421,7 +6448,7 @@
       "Harry Hitner",
       "Michael A. Stevenson"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Touchwood Pacific Partners"
     ],
@@ -6454,7 +6481,7 @@
       "Larry Brock",
       "John F. Link"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Avnet– Kerner Productions",
       "Touchwood Pacific Partners"
@@ -6642,7 +6669,7 @@
     "Music by": "James Horner",
     "Cinematography": "Juan Ruiz Anchía",
     "Edited by": "Ray Lovejoy",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Amblin Entertainment",
       "Touchwood Pacific Partners"
@@ -6787,17 +6814,17 @@
     "Music by": "Michael Kamen",
     "Cinematography": "Dean Semler",
     "Edited by": "John F. Link",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures",
-      "Avnet–Kerner Productions (uncredited)"
+      "Avnet–Kerner Productions "
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
       "November 12, 1993"
     ],
     "Running time": "105 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Austria"
     ],
@@ -6899,7 +6926,7 @@
       "John F. Link",
       "Eric Sears"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Avnet–Kerner Productions"
     ],
@@ -6934,7 +6961,7 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$8,878,839 (US)"
+    "Box office": "$8,878,839 "
   },
   {
     "title": "The Lion King",
@@ -6986,13 +7013,13 @@
     ],
     "Music by": "Hans Zimmer",
     "Edited by": "Ivan Bilancio",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "June 15, 1994 (United States)"
+      "June 15, 1994 "
     ],
     "Running time": "88 minutes",
     "Country": "United States",
@@ -7026,7 +7053,7 @@
     "Music by": "Randy Edelman",
     "Cinematography": "Matthew F. Leonetti",
     "Edited by": "Bruce Green",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures"
     ],
@@ -7063,7 +7090,7 @@
       "October 28, 1994"
     ],
     "Running time": "102 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
@@ -7093,7 +7120,7 @@
     "Music by": "Michael Convertino",
     "Cinematography": "Walt Lloyd",
     "Edited by": "Larry Bock",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Hollywood Pictures",
       "Outlaw Productions"
@@ -7148,9 +7175,9 @@
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(North America and other select territories)",
+      "",
       "MDP Worldwide",
-      "(all other territories)"
+      ""
     ],
     "Release date": [
       "December 25, 1994"
@@ -7195,7 +7222,7 @@
     "Music by": "J. A. C. Redford",
     "Cinematography": "Victor Hammer",
     "Edited by": "C. Timothy O'Meara",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures"
     ],
@@ -7233,7 +7260,7 @@
     "Music by": "Mark Mancina",
     "Cinematography": "Jamie Anderson",
     "Edited by": "Harry Keramidas",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "All Girl Productions",
       "Orr & Cruickshank Productions"
@@ -7271,7 +7298,7 @@
     "Music by": "Randy Edelman",
     "Cinematography": "Janusz Kamiński",
     "Edited by": "Richard Chew",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures"
     ],
@@ -7284,7 +7311,7 @@
     "Language": "English",
     "Budget": [
       "$32 million",
-      "(estimated)"
+      ""
     ],
     "Box office": "$11 million"
   },
@@ -7368,7 +7395,7 @@
     ],
     "Music by": "Alan Menken",
     "Edited by": "H. Lee Peterson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -7404,7 +7431,7 @@
     "Music by": "David Newman",
     "Cinematography": "Russell Boyd",
     "Edited by": "O. Nicholas Brown",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Interscope Communications",
       "PolyGram Filmed Entertainment"
@@ -7414,7 +7441,7 @@
       "July 28, 1995"
     ],
     "Running time": "108 minutes",
-    "Language": [
+    "Languages": [
       "English",
       "Vietnamese"
     ],
@@ -7444,27 +7471,27 @@
       "Anita Brandt-Burgoyne",
       "Michael Ripps"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Trimark Pictures",
       "Tapestry Films"
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(United States)",
-      "Trimark Pictures (International)"
+      "",
+      "Trimark Pictures "
     ],
     "Release date": [
       "August 11, 1995"
     ],
     "Running time": "89 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$13.4 million (domestic)"
+    "Box office": "$13.4 million "
   },
   {
     "title": "The Big Green",
@@ -7482,7 +7509,7 @@
     "Music by": "Randy Edelman",
     "Cinematography": "Ralf D. Bode",
     "Edited by": "John F. Link",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures",
       "Roger Birnbaum Productions"
@@ -7512,14 +7539,14 @@
     "Music by": "John Reynolds",
     "Cinematography": "Erik Daarstad",
     "Edited by": "Kathryn Camp",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Theodore Thomas Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "January 22, 1995 ( Sundance Film Festival )",
-      "October 20, 1995 (U.S.)"
+      "January 22, 1995 ",
+      "October 20, 1995 "
     ],
     "Running time": "89 minutes",
     "Country": "United States",
@@ -7566,8 +7593,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "November 19, 1995 ( El Capitan Theatre )",
-      "November 22, 1995 (United States)"
+      "November 19, 1995 ",
+      "November 22, 1995 "
     ],
     "Running time": "81 minutes",
     "Country": "United States",
@@ -7636,7 +7663,7 @@
     "Music by": "Hans Zimmer",
     "Cinematography": "John Fenner",
     "Edited by": "Michael Jablow",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jim Henson Productions"
     ],
@@ -7648,7 +7675,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
-    "Box office": "$34.3 million (North America)"
+    "Box office": "$34.3 million "
   },
   {
     "title": "Homeward Bound II: Lost in San Francisco",
@@ -7723,23 +7750,23 @@
       "Hiro Narita"
     ],
     "Edited by": "Stan Webb",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Allied Filmmakers",
       "Skellington Productions"
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(Global)",
+      "",
       "Guild Film Distribution",
-      "(United Kingdom)"
+      ""
     ],
     "Release date": [
-      "April 12, 1996 (United States)",
-      "August 2, 1996 (United Kingdom)"
+      "April 12, 1996 ",
+      "August 2, 1996 "
     ],
     "Running time": "79 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -7780,7 +7807,7 @@
     ],
     "Music by": "Alan Menken",
     "Edited by": "Ellen Keneshea",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -7807,7 +7834,7 @@
     "Music by": "Richard Gibbs",
     "Cinematography": "Anthony B. Richmond",
     "Edited by": "Harry Keramidas",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures",
       "Roger Birnbaum Productions"
@@ -7850,7 +7877,7 @@
     "Music by": "J. A. C. Redford",
     "Cinematography": "David Hennings",
     "Edited by": "Patrick Lussier",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Avnet-Kerner Productions"
     ],
@@ -7885,7 +7912,7 @@
     "Music by": "Michael Kamen",
     "Cinematography": "Adrian Biddle",
     "Edited by": "Trudy Ship",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Great Oaks Entertainment"
     ],
@@ -7928,7 +7955,7 @@
     "Music by": "Richard Kendall Gibbs",
     "Cinematography": "Jerzy Zielinski",
     "Edited by": "Roger Barton",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Robert Simonds Productions"
     ],
@@ -7962,22 +7989,22 @@
     "Music by": "Michael Convertino",
     "Cinematography": "Tony Pierce-Roberts",
     "Edited by": "Michael A. Stevenson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "TF1 International"
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(United States)",
+      "",
       "Ariane Films",
-      "(France)"
+      ""
     ],
     "Release date": [
-      "March 7, 1997 (US)",
-      "August 5, 1997 (France)"
+      "March 7, 1997 ",
+      "August 5, 1997 "
     ],
     "Running time": "105 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "France"
     ],
@@ -8033,8 +8060,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "June 13, 1997 (limited release)",
-      "June 27, 1997 (wide release)"
+      "June 13, 1997 ",
+      "June 27, 1997 "
     ],
     "Running time": "93 minutes",
     "Country": "United States",
@@ -8076,7 +8103,7 @@
       "Roger Bondelli",
       "Stuart Pappé"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films",
       "Jay Ward Productions",
@@ -8114,19 +8141,19 @@
     "Music by": "Brahm Wenger",
     "Cinematography": "Mike Southon",
     "Edited by": "Alison Grace",
-    "Production company": [
+    "Production companies": [
       "Keystone Pictures",
       "Buddy Films, Inc."
     ],
     "Distributed by": [
       "Buena Vista Pictures Distribution",
-      "(United States)",
+      "",
       "Malofilm",
-      "(Canada)"
+      ""
     ],
     "Release date": "August 1, 1997",
     "Running time": "98 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
@@ -8153,7 +8180,7 @@
     "Music by": "Michael Tavera",
     "Cinematography": "Steven Poster",
     "Edited by": "William D. Gordean",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures",
       "Roger Birnbaum Productions"
@@ -8180,7 +8207,7 @@
     ],
     "Based on": [
       "\"A Situation of Gravity\" by Samuel W. Taylor",
-      "The Absent-Minded Professor (1961) by Bill Walsh"
+      "The Absent-Minded Professor  by Bill Walsh"
     ],
     "Starring": [
       "Robin Williams",
@@ -8197,14 +8224,14 @@
       "Harvey Rosenstock",
       "Michael A. Stevenson"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Great Oaks"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "November 16, 1997 ( Pennsylvania )",
-      "November 26, 1997 (United States)"
+      "November 16, 1997 ",
+      "November 26, 1997 "
     ],
     "Running time": "93 minutes",
     "Country": "United States",
@@ -8241,7 +8268,7 @@
       "Stuart Pappé",
       "David Rawlins"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "UPA Productions"
     ],
@@ -8274,14 +8301,14 @@
     "Music by": "Steve Bartek",
     "Cinematography": "David Hennings",
     "Edited by": "Alan Cody",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "DIC Entertainment",
       "Peak Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "March 27, 1998 (United States)"
+      "March 27, 1998 "
     ],
     "Running time": "93 minutes",
     "Country": "United States",
@@ -8317,7 +8344,7 @@
     ],
     "Music by": "Jerry Goldsmith",
     "Edited by": "Michael Kelly",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -8356,7 +8383,7 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "July 29, 1998 (United States)"
+      "July 29, 1998 "
     ],
     "Running time": "128 minutes",
     "Country": "United States",
@@ -8388,7 +8415,7 @@
     "Music by": "John Debney",
     "Cinematography": "Hiro Narita",
     "Edited by": "Anita Brandt-Burgoyne",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
@@ -8427,7 +8454,7 @@
     "Music by": "Randy Newman",
     "Cinematography": "Sharon Calahan",
     "Edited by": "Lee Unkrich",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -8472,7 +8499,7 @@
       "Oliver Wood"
     ],
     "Edited by": "Paul Hirsch",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "RKO Pictures",
       "The Jacobson Company"
@@ -8485,7 +8512,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million",
-    "Box office": "$50.6 million (US)"
+    "Box office": "$50.6 million "
   },
   {
     "title": "My Favorite Martian",
@@ -8557,11 +8584,11 @@
       "Alysha Cohen",
       "Christopher Gee"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jumbo Pictures",
       "Walt Disney Television Animation",
-      "-----(as a joint company)",
+      "-----",
       "Plus One Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
@@ -8605,7 +8632,7 @@
       "May 14, 1999"
     ],
     "Running time": "83 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom",
       "Germany"
@@ -8672,8 +8699,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "June 12, 1999 ( El Capitan Theatre )",
-      "June 16, 1999 (United States )"
+      "June 12, 1999 ",
+      "June 16, 1999 "
     ],
     "Running time": "88 minutes",
     "Country": "United States",
@@ -8757,7 +8784,7 @@
     "Music by": "Angelo Badalamenti",
     "Cinematography": "Freddie Francis",
     "Edited by": "Mary Sweeney",
-    "Production company": [
+    "Production companies": [
       "Asymmetrical Productions",
       "Canal+",
       "FilmFour Productions",
@@ -8766,17 +8793,17 @@
     ],
     "Distributed by": [
       "Buena Vista Pictures",
-      "(United States)",
-      "FilmFour Distributors (United Kingdom)",
+      "",
+      "FilmFour Distributors ",
       "Bac Films",
-      "(France)"
+      ""
     ],
     "Release date": [
-      "May 1999 ( Cannes )",
-      "October 15, 1999 (United States)"
+      "May 1999 ",
+      "October 15, 1999 "
     ],
     "Running time": "112 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom",
       "France"
@@ -8821,8 +8848,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "November 13, 1999 ( El Capitan Theatre )",
-      "November 24, 1999 (United States)"
+      "November 13, 1999 ",
+      "November 24, 1999 "
     ],
     "Running time": "92 minutes",
     "Country": "United States",
@@ -8859,15 +8886,15 @@
       "Jessica Ambinder-Rojas",
       "Lois Freeman-Fox"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "December 16, 1999 ( Carnegie Hall )",
-      "January 1, 2000 ( IMAX )",
-      "June 15, 2000 (United States)"
+      "December 16, 1999 ",
+      "January 1, 2000 ",
+      "June 15, 2000 "
     ],
     "Running time": "74 minutes",
     "Country": "United States",
@@ -8902,14 +8929,14 @@
       "Makoto Arai",
       "Robert Fisher, Jr."
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Television Animation",
       "Walt Disney Animation Japan",
       "Walt Disney Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "February 11, 2000 (United States)"
+      "February 11, 2000 "
     ],
     "Running time": "78 minutes",
     "Country": "United States",
@@ -8952,14 +8979,14 @@
       "S. Douglas Smith"
     ],
     "Edited by": "H. Lee Peterson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation",
       "The Secret Lab"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "May 19, 2000 (United States)"
+      "May 19, 2000 "
     ],
     "Running time": "82 minutes",
     "Country": "United States",
@@ -9022,7 +9049,7 @@
     "Music by": "Trevor Rabin",
     "Cinematography": "Philippe Rousselot",
     "Edited by": "Michael Tronick",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Technical Black Films"
@@ -9061,7 +9088,7 @@
     "Music by": "David Newman",
     "Cinematography": "Adrian Biddle",
     "Edited by": "Gregory Perler",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Cruella Productions",
       "Kanzaman S.A.M. Films"
@@ -9100,7 +9127,7 @@
     ],
     "Music by": "John Debney",
     "Edited by": "Pamela Ziegenhagen-Shefland",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -9154,7 +9181,7 @@
     ],
     "Music by": "Denis M. Hannigan",
     "Edited by": "Tony Mizgalski",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Television Animation",
       "Walt Disney Television Animation Digital Production",
@@ -9163,8 +9190,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "February 10, 2001 (premiere)",
-      "February 16, 2001 (United States)"
+      "February 10, 2001 ",
+      "February 16, 2001 "
     ],
     "Running time": "83 minutes",
     "Country": "United States",
@@ -9205,14 +9232,14 @@
     ],
     "Music by": "James Newton Howard",
     "Edited by": "Ellen Keneshea",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "June 3, 2001 (Premiere)",
-      "June 15, 2001 (United States)"
+      "June 3, 2001 ",
+      "June 15, 2001 "
     ],
     "Running time": "96 minutes",
     "Country": "United States",
@@ -9246,7 +9273,7 @@
     "Music by": "John Debney",
     "Cinematography": "Karl Walter Lindenlaub",
     "Edited by": "Bruce Green",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "BrownHouse Productions"
     ],
@@ -9288,7 +9315,7 @@
       "Tony Lombardo",
       "Peck Prior"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Karz Entertainment"
     ],
@@ -9329,14 +9356,14 @@
       "Robert Grahamjones",
       "Jim Stewart"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "October 28, 2001 ( El Capitan Theatre )",
-      "November 2, 2001 (United States)"
+      "October 28, 2001 ",
+      "November 2, 2001 "
     ],
     "Running time": "92 minutes",
     "Country": "United States",
@@ -9370,7 +9397,7 @@
     "Music by": "John Debney",
     "Cinematography": "Thomas E. Ackerman",
     "Edited by": "Roger Bondelli",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "The Kerner Entertainment Company"
     ],
@@ -9406,8 +9433,8 @@
     ],
     "Narrated by": "Clive Revill",
     "Music by": [
-      "Joel McNeely (Score)",
-      "They Might Be Giants (Songs)"
+      "Joel McNeely ",
+      "They Might Be Giants "
     ],
     "Edited by": "Antonio F. Rocco",
     "Production companies": [
@@ -9417,8 +9444,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "February 10, 2002 ( New York City )",
-      "February 15, 2002 (United States)"
+      "February 10, 2002 ",
+      "February 15, 2002 "
     ],
     "Running time": "73 minutes",
     "Country": "United States",
@@ -9480,7 +9507,7 @@
     ],
     "Music by": "Alan Silvestri",
     "Edited by": "Darren T. Holmes",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -9529,6 +9556,39 @@
     "Box office": "$18 million"
   },
   {
+    "title": "Spirited Away",
+    "Japanese": "",
+    "Hepburn": "Sen to Chihiro no Kamikakushi",
+    "Directed by": "Hayao Miyazaki",
+    "Produced by": "Toshio Suzuki",
+    "Written by": "Hayao Miyazaki",
+    "Starring": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takeshi Naito",
+      "Yasuko Sawaguchi",
+      "Tsunehiko Kamijō",
+      "Takehiko Ono",
+      "Bunta Sugawara"
+    ],
+    "Music by": "Joe Hisaishi",
+    "Cinematography": "Atsushi Okui",
+    "Edited by": "Takeshi Seyama",
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "July 20, 2001 "
+    ],
+    "Running time": "125 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": [
+      ""
+    ],
+    "Box office": ""
+  },
+  {
     "title": "Tuck Everlasting",
     "Directed by": "Jay Russell",
     "Produced by": [
@@ -9558,13 +9618,13 @@
     "Music by": "William Ross",
     "Cinematography": "James L. Carter",
     "Edited by": "Jay Cassidy",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Scholastic Studios"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "October 11, 2002 (U.S.)"
+      "October 11, 2002 "
     ],
     "Running time": "96 minutes",
     "Country": "United States",
@@ -9605,14 +9665,14 @@
     "Music by": "George S. Clinton",
     "Cinematography": "Adam Greenberg",
     "Edited by": "David Finfer",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Outlaw Productions",
       "Boxing Cat Films"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "November 1, 2002 (United States)"
+      "November 1, 2002 "
     ],
     "Running time": "104 minutes",
     "Country": "United States",
@@ -9659,7 +9719,7 @@
     ],
     "Music by": "James Newton Howard",
     "Edited by": "Michael Kelly",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -9699,7 +9759,7 @@
       "Christopher K. Gee",
       "Peter Lonsdale"
     ],
-    "Production company": [
+    "Production companies": [
       "DisneyToon Studios",
       "Walt Disney Pictures"
     ],
@@ -9708,7 +9768,7 @@
       "February 14, 2003"
     ],
     "Running time": "72 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Australia"
     ],
@@ -9747,15 +9807,15 @@
       "Carly Simon"
     ],
     "Edited by": "Ivan Bilancio",
-    "Production company": [
+    "Production companies": [
       "DisneyToon Studios",
       "Walt Disney Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "March 16, 2003 (premiere)",
-      "March 21, 2003 (United States)",
-      "July 2, 2003 ( Manila , Philippines )"
+      "March 16, 2003 ",
+      "March 21, 2003 ",
+      "July 2, 2003 "
     ],
     "Running time": "75 minutes",
     "Country": "United States",
@@ -9790,7 +9850,7 @@
       "Sven Pape",
       "John Refoua"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media",
       "Earthship Productions",
@@ -9801,8 +9861,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "March 31, 2003 (premiere)",
-      "April 11, 2003 (limited)"
+      "March 31, 2003 ",
+      "April 11, 2003 "
     ],
     "Running time": "61 minutes",
     "Country": "United States",
@@ -9837,7 +9897,7 @@
       "Thomas J. Nordberg",
       "Jeffrey Wolf"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media",
       "Phoenix Pictures",
@@ -9845,7 +9905,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "April 18, 2003 (United States)"
+      "April 18, 2003 "
     ],
     "Running time": "117 minutes",
     "Country": "United States",
@@ -9877,17 +9937,17 @@
     "Music by": "Cliff Eidelman",
     "Cinematography": "Jerzy Zieliński",
     "Edited by": "Margie Goodspeed",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Stan Rogow Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "May 2, 2003 (United States)"
+      "May 2, 2003 "
     ],
     "Running time": "94 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Italian"
     ],
@@ -9916,7 +9976,7 @@
       "Jeremy Lasky"
     ],
     "Edited by": "David Ian Salter",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -9972,8 +10032,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "June 28, 2003 ( Disneyland Resort )",
-      "July 9, 2003 (United States)"
+      "June 28, 2003 ",
+      "July 9, 2003 "
     ],
     "Running time": "142 minutes",
     "Country": "United States",
@@ -10004,14 +10064,14 @@
     "Music by": "Rolfe Kent",
     "Cinematography": "Oliver Wood",
     "Edited by": "Bruce Green",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gunn Films"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "August 4, 2003 ( Los Angeles )",
-      "August 6, 2003 (United States)"
+      "August 4, 2003 ",
+      "August 6, 2003 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -10057,7 +10117,7 @@
       "Mark Mancina"
     ],
     "Edited by": "Tim Mertens",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -10129,7 +10189,7 @@
       "Terry Blythe",
       "M. Scott Smith"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "The Kennedy/Marshall Company"
     ],
@@ -10165,7 +10225,7 @@
       "Rosalyn Landor"
     ],
     "Music by": "Stephen James Taylor",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Television Animation",
       "Toon City Animation"
@@ -10206,7 +10266,7 @@
       "John Gilroy",
       "Daric Loo"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mayhem Pictures"
     ],
@@ -10247,7 +10307,7 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "February 20, 2004 (United States)"
+      "February 20, 2004 "
     ],
     "Running time": "89 minutes",
     "Country": "United States",
@@ -10284,7 +10344,7 @@
     ],
     "Music by": "Alan Menken",
     "Edited by": "H. Lee Peterson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
@@ -10328,7 +10388,7 @@
       "April 22, 2004"
     ],
     "Running time": "40 minutes",
-    "Country": [
+    "Countries": [
       "Canada",
       "Malaysia",
       "United States"
@@ -10366,7 +10426,7 @@
     ],
     "Cinematography": "Phil Meheux",
     "Edited by": "Tom Lewis",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media",
       "Spanknyce Films",
@@ -10378,7 +10438,7 @@
     ],
     "Running time": "120 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "French",
       "Mandarin Chinese",
@@ -10397,7 +10457,7 @@
       "Brian Funck",
       "Tom McGah"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Blacklight Films"
     ],
@@ -10481,8 +10541,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "October 27, 2004 ( BFI London Film Festival )",
-      "November 5, 2004 (United States)"
+      "October 27, 2004 ",
+      "November 5, 2004 "
     ],
     "Running time": "115 minutes",
     "Country": "United States",
@@ -10519,7 +10579,7 @@
     "Music by": "Trevor Rabin",
     "Cinematography": "Caleb Deschanel",
     "Edited by": "William Goldenberg",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Junction Entertainment",
@@ -10563,7 +10623,7 @@
       "Matthew Kregor",
       "Fiona Wight"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media",
       "Earthship Productions"
@@ -10597,7 +10657,7 @@
       "Brenda Blethyn"
     ],
     "Music by": "Joel McNeely",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Disneytoon Studios"
     ],
@@ -10635,7 +10695,7 @@
     "Music by": "John Debney",
     "Cinematography": "Peter James",
     "Edited by": "Christopher Greenbury",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Spyglass Entertainment"
     ],
@@ -10667,7 +10727,7 @@
     "Music by": "Christophe Beck",
     "Cinematography": "David Hennings",
     "Edited by": "Janice Hampton",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Bridget Johnson Films",
       "On The Ice Productions"
@@ -10711,7 +10771,7 @@
     "Music by": "Mark Mothersbaugh",
     "Cinematography": "Greg Gardiner",
     "Edited by": "Wendy Greene Bricmont",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Robert Simonds Productions"
     ],
@@ -10724,6 +10784,46 @@
     "Language": "English",
     "Budget": "$50 million",
     "Box office": "$144.1 million"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "Japanese": "",
+    "Hepburn": "Hauru no Ugoku Shiro",
+    "Directed by": "Hayao Miyazaki",
+    "Produced by": "Toshio Suzuki",
+    "Screenplay by": "Hayao Miyazaki",
+    "Based on": [
+      "Howl's Moving Castle",
+      "by",
+      "Diana Wynne Jones"
+    ],
+    "Starring": [
+      "Chieko Baisho",
+      "Takuya Kimura",
+      "Akihiro Miwa"
+    ],
+    "Music by": "Joe Hisaishi",
+    "Cinematography": "Atsushi Okui",
+    "Edited by": "Takeshi Seyama",
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "5 September 2004 ",
+      "20 November 2004 "
+    ],
+    "Running time": "119 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": [
+      "¥",
+      "2.4 billion",
+      "US$24 million"
+    ],
+    "Box office": [
+      "¥",
+      "23.2 billion",
+      "US$236 million "
+    ]
   },
   {
     "title": "Sky High",
@@ -10744,7 +10844,7 @@
     "Music by": "Michael Giacchino",
     "Cinematography": "Shelly Johnson",
     "Edited by": "Peter Amundson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gunn Films"
     ],
@@ -10763,7 +10863,7 @@
     "Directed by": "Gary Chapman",
     "Produced by": [
       "John H. Williams",
-      "Barnaby Thompson (executive producer)"
+      "Barnaby Thompson "
     ],
     "Screenplay by": [
       "Jordan Katz",
@@ -10784,7 +10884,7 @@
       "Olivia Williams"
     ],
     "Music by": "George Fenton",
-    "Production company": [
+    "Production companies": [
       "Vanguard Animation",
       "Ealing Studios",
       "UK Film Council",
@@ -10792,15 +10892,15 @@
       "Odyssey Entertainment"
     ],
     "Distributed by": [
-      "Entertainment Film Distributors (UK)",
-      "Buena Vista Pictures (US)"
+      "Entertainment Film Distributors ",
+      "Buena Vista Pictures "
     ],
     "Release date": [
-      "March 25, 2005 (UK)",
-      "August 19, 2005 (US)"
+      "March 25, 2005 ",
+      "August 19, 2005 "
     ],
     "Running time": "76 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -10867,14 +10967,14 @@
     ],
     "Music by": "John Debney",
     "Edited by": "Dan Molina",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "October 30, 2005 ( El Capitan Theatre )",
-      "November 4, 2005 (United States)"
+      "October 30, 2005 ",
+      "November 4, 2005 "
     ],
     "Running time": "81 minutes",
     "Country": "United States",
@@ -10915,18 +11015,18 @@
       "Sim Evan-Jones",
       "Jim May"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "December 7, 2005 ( Royal Film Performance )",
-      "December 8, 2005 (United Kingdom)",
-      "December 9, 2005 (United States)"
+      "December 7, 2005 ",
+      "December 8, 2005 ",
+      "December 9, 2005 "
     ],
     "Running time": "143 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -10960,7 +11060,7 @@
       "Jason Hellmann",
       "John Wright"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Texas Western Productions",
@@ -10985,14 +11085,14 @@
       "Robert Andrus",
       "George Butler"
     ],
-    "Narrated by": "Paul Newman (introduction only)",
+    "Narrated by": "Paul Newman ",
     "Music by": [
       "Philip Glass",
       "Sigur Rós"
     ],
     "Cinematography": "T.C. Christensen",
     "Edited by": "Nancy Baker",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "White Mountain Films",
       "The Kennedy/Marshall Company"
@@ -11030,7 +11130,7 @@
     "Music by": "Mark Isham",
     "Cinematography": "Don Burgess",
     "Edited by": "Christopher Rouse",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Spyglass Entertainment",
       "Mandeville Films",
@@ -11038,7 +11138,7 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "February 17, 2006 (United States)"
+      "February 17, 2006 "
     ],
     "Running time": "120 minutes",
     "Country": "United States",
@@ -11076,7 +11176,7 @@
     "Music by": "Alan Menken",
     "Cinematography": "Gabriel Beristain",
     "Edited by": "Ned Bastille",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films",
       "Boxing Cat Films"
@@ -11123,7 +11223,7 @@
       "Scott Balcerek",
       "Steven L. Wagner"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Hoytyboy Pictures",
       "Sir Zip Productions",
@@ -11135,7 +11235,7 @@
       "April 14, 2006"
     ],
     "Running time": "82 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "Canada"
     ],
@@ -11172,14 +11272,14 @@
       "Jean Claude Kalache"
     ],
     "Edited by": "Ken Schretzmann",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "May 26, 2006 ( Lowe's Motor Speedway )",
-      "June 9, 2006 (United States)"
+      "May 26, 2006 ",
+      "June 9, 2006 "
     ],
     "Running time": "117 minutes",
     "Country": "United States",
@@ -11225,8 +11325,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "June 24, 2006 ( Disneyland Resort )",
-      "July 7, 2006 (United States)"
+      "June 24, 2006 ",
+      "July 7, 2006 "
     ],
     "Running time": "150 minutes",
     "Country": "United States",
@@ -11263,6 +11363,55 @@
     "Box office": "$58.5 million"
   },
   {
+    "title": "The Nightmare Before Christmas",
+    "Directed by": "Henry Selick",
+    "Produced by": [
+      "Tim Burton",
+      "Denise Di Novi"
+    ],
+    "Screenplay by": "Caroline Thompson",
+    "Adaptation by": [
+      "Michael McDowell"
+    ],
+    "Story by": "Tim Burton",
+    "Based on": [
+      "Characters",
+      "by Tim Burton"
+    ],
+    "Starring": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara",
+      "William Hickey",
+      "Glenn Shadix",
+      "Paul Reubens",
+      "Ken Page",
+      "Ed Ivory"
+    ],
+    "Music by": "Danny Elfman",
+    "Cinematography": "Pete Kozachik",
+    "Edited by": "Stan Webb",
+    "Animation by": [
+      "Joel Fletcher",
+      "Owen Klatte",
+      "Angie Glocka",
+      "Justin Khon"
+    ],
+    "Production companies": [
+      "Touchstone Pictures",
+      "Skellington Productions"
+    ],
+    "Distributed by": "Buena Vista Pictures Distribution",
+    "Release date": [
+      "October 29, 1993"
+    ],
+    "Running time": "76 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$26 million",
+    "Box office": "$91.5 million"
+  },
+  {
     "title": "The Santa Clause 3: The Escape Clause",
     "Directed by": "Michael Lembeck",
     "Produced by": [
@@ -11295,7 +11444,7 @@
     "Music by": "George S. Clinton",
     "Cinematography": "Robbie Greenberg",
     "Edited by": "David Finfer",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Outlaw Productions",
       "Boxing Cat Films"
@@ -11343,9 +11492,9 @@
     ],
     "Distributed by": [
       "Buena Vista Pictures Distribution",
-      "(United States)",
+      "",
       "Summit Entertainment",
-      "(International)"
+      ""
     ],
     "Release date": [
       "February 16, 2007"
@@ -11390,14 +11539,14 @@
     ],
     "Music by": "Danny Elfman",
     "Edited by": "Ellen Keneshea",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "March 23, 2007 (US)",
-      "March 30, 2007 (UK)"
+      "March 23, 2007 ",
+      "March 30, 2007 "
     ],
     "Running time": "94 minutes",
     "Country": "United States",
@@ -11445,8 +11594,8 @@
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "May 19, 2007 ( Disneyland Resort )",
-      "May 25, 2007 (United States)"
+      "May 19, 2007 ",
+      "May 25, 2007 "
     ],
     "Running time": "167 minutes",
     "Country": "United States",
@@ -11490,8 +11639,8 @@
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": [
-      "June 22, 2007 ( Kodak Theatre )",
-      "June 29, 2007 (United States)"
+      "June 22, 2007 ",
+      "June 29, 2007 "
     ],
     "Running time": "111 minutes",
     "Country": "United States",
@@ -11554,7 +11703,7 @@
       "Leslie Iwerks",
       "Stephen Myers, A.C.E"
     ],
-    "Production company": [
+    "Production companies": [
       "Leslie Iwerks Productions",
       "Pixar Animation Studios"
     ],
@@ -11594,14 +11743,14 @@
     "Music by": "Nathan Wang",
     "Cinematography": "Greg Gardiner",
     "Edited by": "Michael Jablow",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mayhem Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": [
-      "September 23, 2007 ( Hollywood )",
-      "September 28, 2007 (United States)"
+      "September 23, 2007 ",
+      "September 28, 2007 "
     ],
     "Running time": "110 minutes",
     "Country": "United States",
@@ -11639,8 +11788,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 20, 2007 ( London )",
-      "November 21, 2007 (United States)"
+      "October 20, 2007 ",
+      "November 21, 2007 "
     ],
     "Running time": "107 minutes",
     "Country": "United States",
@@ -11692,7 +11841,7 @@
       "William Goldenberg",
       "David Rennie"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Junction Entertainment",
@@ -11757,7 +11906,7 @@
     "Music by": "Edward Shearmur",
     "Cinematography": "Theo van de Sande",
     "Edited by": "Roger Bondelli",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gunn Films",
       "Head Gear Films"
@@ -11801,18 +11950,18 @@
     "Music by": "Harry Gregson-Williams",
     "Cinematography": "Karl Walter Lindenlaub",
     "Edited by": "Sim Evan-Jones",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walden Media"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "May 7, 2008 ( New York City )",
-      "May 16, 2008 (United States)",
-      "June 26, 2008 (United Kingdom)"
+      "May 7, 2008 ",
+      "May 16, 2008 ",
+      "June 26, 2008 "
     ],
     "Running time": "150 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -11853,8 +12002,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "June 23, 2008 ( Los Angeles )",
-      "June 27, 2008 (United States)"
+      "June 23, 2008 ",
+      "June 27, 2008 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -11886,7 +12035,7 @@
     "Music by": "Heitor Pereira",
     "Cinematography": "Phil Méheux",
     "Edited by": "Sabrina Plisco",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films",
       "Smart Entertainment"
@@ -11896,7 +12045,7 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "October 3, 2008 (United States)"
+      "October 3, 2008 "
     ],
     "Running time": "91 minutes",
     "Country": "United States",
@@ -11943,18 +12092,18 @@
     "Music by": "David Lawrence",
     "Cinematography": "Daniel Aranyò",
     "Edited by": "Don Brochu",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Borden & Rosenbush Entertainment"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 17, 2008 (London)",
-      "October 24, 2008 (United States)"
+      "October 17, 2008 ",
+      "October 24, 2008 "
     ],
     "Running time": [
-      "111 minutes (theatrical)",
-      "120 minutes (extended/Disney+)"
+      "111 minutes ",
+      "120 minutes "
     ],
     "Country": "United States",
     "Language": "English",
@@ -11978,7 +12127,7 @@
     ],
     "Music by": "John Powell",
     "Edited by": "Tim Mertens",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -12022,7 +12171,7 @@
     "Music by": "Rupert Gregson-Williams",
     "Cinematography": "Michael Barrett",
     "Edited by": "Tom Costain",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Happy Madison Productions",
       "Gunn Films",
@@ -12041,6 +12190,37 @@
     "Language": "English",
     "Budget": "$80 million",
     "Box office": "$212.9 million"
+  },
+  {
+    "title": "The Secret of the Magic Gourd",
+    "Traditional": "魔法南瓜的秘密",
+    "Simplified": "宝葫芦的秘密",
+    "Directed by": [
+      "John Chu",
+      "Frankie Chung"
+    ],
+    "Produced by": [
+      "Han San Ping",
+      "John Chu"
+    ],
+    "Written by": "Zhang Tianyi",
+    "Screenplay by": [
+      "John Chu",
+      "Lam Kee To"
+    ],
+    "Music by": "Zhang Hanyun - \" One Dream \" , Simplified Chinese= 張含韻《一人一夢》",
+    "Edited by": "Angie Lam",
+    "Production companies": [
+      "Walt Disney Pictures",
+      "Centro Digital Pictures Limited"
+    ],
+    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Release date": [
+      "June 29, 2007"
+    ],
+    "Running time": "85 minutes",
+    "Country": "China",
+    "Languages": "Chinese , English"
   },
   {
     "title": "Jonas Brothers: The 3D Concert Experience",
@@ -12064,7 +12244,7 @@
       "Reed Smoot"
     ],
     "Edited by": "Michael Tronick",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jonas Films"
     ],
@@ -12109,7 +12289,7 @@
     "Music by": "Trevor Rabin",
     "Cinematography": "Greg Gardiner",
     "Edited by": "David Rennie",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gunn Films"
     ],
@@ -12118,8 +12298,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "March 11, 2009 (Egypt)",
-      "March 13, 2009 (United States)"
+      "March 11, 2009 ",
+      "March 13, 2009 "
     ],
     "Running time": "98 minutes",
     "Country": "United States",
@@ -12157,7 +12337,7 @@
     "Music by": "John Debney",
     "Cinematography": "David Hennings",
     "Edited by": "Virginia Katz",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "It's a Laugh Productions",
       "Millar Gough Ink"
@@ -12202,29 +12382,29 @@
       "Martin Elsbury",
       "Vartan Nazarian"
     ],
-    "Production company": [
+    "Production companies": [
       "BBC Worldwide",
       "Greenlight Media",
       "Discovery Channel",
       "BBC Natural History Unit"
     ],
     "Distributed by": [
-      "Gaumount (France)",
-      "Lionsgate UK (United Kingdom)",
-      "Universum Film (Germany)",
-      "Walt Disney Studios Motion Pictures (United States)"
+      "Gaumount ",
+      "Lionsgate UK ",
+      "Universum Film ",
+      "Walt Disney Studios Motion Pictures "
     ],
     "Release date": [
-      "10 October 2007 (France)",
-      "16 November 2007 (United Kingdom)",
-      "12 January 2008 (Germany)",
-      "22 April 2009 (United States)"
+      "10 October 2007 ",
+      "16 November 2007 ",
+      "12 January 2008 ",
+      "22 April 2009 "
     ],
     "Running time": [
-      "99 minutes (UK)",
-      "90 minutes (U.S.)"
+      "99 minutes ",
+      "90 minutes "
     ],
-    "Country": [
+    "Countries": [
       "France",
       "United Kingdom",
       "Germany",
@@ -12258,7 +12438,7 @@
       "Jean-Claudie Kalache"
     ],
     "Edited by": "Kevin Nolting",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -12277,8 +12457,9 @@
   },
   {
     "title": "Lilly the Witch: The Dragon and the Magic Book",
+    "Directed by": "Stefan Ruzowitzky",
     "Music by": "Ian Honeyman",
-    "Country": [
+    "Countries": [
       "Germany",
       "Austria",
       "Italy",
@@ -12316,7 +12497,7 @@
       "Jason Hellmann",
       "Mark Goldblatt"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films"
     ],
@@ -12329,6 +12510,50 @@
     "Language": "English",
     "Budget": "$150 million",
     "Box office": "$292.8 million"
+  },
+  {
+    "title": "Ponyo",
+    "Japanese": "",
+    "Hepburn": "Gake no Ue no Ponyo",
+    "Directed by": "Hayao Miyazaki",
+    "Produced by": "Toshio Suzuki",
+    "Written by": "Hayao Miyazaki",
+    "Based on": [
+      "The Little Mermaid",
+      "by",
+      "Hans Christian Andersen"
+    ],
+    "Starring": [
+      "Tomoko Yamaguchi",
+      "Kazushige Nagashima",
+      "Yūki Amami",
+      "George Tokoro",
+      "Yuria Nara",
+      "Hiroki Doi",
+      "Rumi Hiiragi",
+      "Akiko Yano",
+      "Kazuko Yoshiyuki",
+      "Tomoko Naraoka"
+    ],
+    "Music by": "Joe Hisaishi",
+    "Cinematography": "Atsushi Okui",
+    "Edited by": "Takeshi Seyama",
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "July 19, 2008"
+    ],
+    "Running time": "101 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": [
+      "¥",
+      "3.4 billion",
+      "(",
+      "US$",
+      "34 million)"
+    ],
+    "Box office": "US$ 203.2 million"
   },
   {
     "title": "Walt & El Grupo",
@@ -12347,6 +12572,7 @@
   },
   {
     "title": "The Book of Masters",
+    "Directed by": "Vadim Sokolovsky",
     "Produced by": [
       "Leonid Vereshchagin,",
       "Marina Zhigalov-Ozkan"
@@ -12358,10 +12584,10 @@
     "Based on": "Russian fairy tales",
     "Music by": "Yuri Poteyenko",
     "Cinematography": "Archil Akhvlediani",
-    "Production company": [
+    "Production companies": [
       "The Walt Disney Company CIS",
-      "(Russia)",
-      "Trite (Russia)"
+      "",
+      "Trite "
     ],
     "Release date": [
       "2009"
@@ -12369,7 +12595,7 @@
     "Running time": "101 minutes",
     "Country": "Russia",
     "Language": "Russian",
-    "Budget": "$8 million ( ₽ 350 million)",
+    "Budget": "$8 million ",
     "Box office": "$11.3 million"
   },
   {
@@ -12397,14 +12623,14 @@
     "Music by": "Alan Silvestri",
     "Cinematography": "Robert Presley",
     "Edited by": "Jeremiah O'Driscoll",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "ImageMovers Digital"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 3, 2009 ( London )",
-      "November 6, 2009 (United States)"
+      "November 3, 2009 ",
+      "November 6, 2009 "
     ],
     "Running time": "96 minutes",
     "Country": "United States",
@@ -12439,7 +12665,7 @@
       "Tom Lewis",
       "Ryan Folsey"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Tapestry Films"
     ],
@@ -12493,7 +12719,7 @@
     ],
     "Music by": "Randy Newman",
     "Edited by": "Jeff Draheim",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -12502,8 +12728,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 25, 2009 (Los Angeles premiere)",
-      "December 11, 2009 (United States)"
+      "November 25, 2009 ",
+      "December 11, 2009 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -12543,7 +12769,7 @@
     "Music by": "Danny Elfman",
     "Cinematography": "Dariusz Wolski",
     "Edited by": "Chris Lebenzon",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Roth Films",
       "The Zanuck Company",
@@ -12551,8 +12777,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "February 25, 2010 ( Odeon Leicester Square )",
-      "March 5, 2010 (United States)"
+      "February 25, 2010 ",
+      "March 5, 2010 "
     ],
     "Running time": "108 minutes",
     "Country": "United States",
@@ -12565,7 +12791,7 @@
     "Directed by": [
       "Jacques Perrin",
       "Jacques Cluzaud",
-      "(co-director)"
+      ""
     ],
     "Produced by": [
       "Jacques Perrin",
@@ -12584,9 +12810,9 @@
     ],
     "Narrated by": [
       "Jacques Perrin",
-      "(French)",
+      "",
       "Pierce Brosnan",
-      "(English)"
+      ""
     ],
     "Music by": "Bruno Coulais",
     "Cinematography": "David Reichert",
@@ -12594,7 +12820,7 @@
       "Catherine Mauchain",
       "Vincent Schmidt"
     ],
-    "Production company": [
+    "Production companies": [
       "Pathé",
       "Participant Media",
       "Galatée Films",
@@ -12608,12 +12834,12 @@
     ],
     "Distributed by": "Pathé Distribution",
     "Release date": [
-      "October 17, 2009 ( Tokyo International Film Festival )",
-      "January 24, 2010 (France)"
+      "October 17, 2009 ",
+      "January 24, 2010 "
     ],
     "Running time": [
-      "104 minutes (Original cut)",
-      "84 minutes (Disney cut)"
+      "104 minutes ",
+      "84 minutes "
     ],
     "Country": "France",
     "Language": "French",
@@ -12657,8 +12883,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 9, 2010 (London premiere)",
-      "May 28, 2010 (United States)"
+      "May 9, 2010 ",
+      "May 28, 2010 "
     ],
     "Running time": "116 minutes",
     "Country": "United States",
@@ -12697,7 +12923,7 @@
       "Kim White"
     ],
     "Edited by": "Ken Schretzmann",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -12706,8 +12932,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 12, 2010 ( Taormina Film Fest )",
-      "June 18, 2010 (United States)"
+      "June 12, 2010 ",
+      "June 18, 2010 "
     ],
     "Running time": "103 minutes",
     "Country": "United States",
@@ -12744,7 +12970,7 @@
     "Music by": "Trevor Rabin",
     "Cinematography": "Bojan Bazelli",
     "Edited by": "William Goldenberg",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Saturn Films",
@@ -12755,7 +12981,7 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "July 8, 2010 (Fantasia Film Festival)",
+      "July 8, 2010 ",
       "July 14, 2010"
     ],
     "Running time": "109 minutes",
@@ -12763,6 +12989,43 @@
     "Language": "English",
     "Budget": "$150 million",
     "Box office": "$215.3 million"
+  },
+  {
+    "title": "Tales from Earthsea",
+    "Japanese": "",
+    "Hepburn": "Gedo Senki",
+    "Directed by": "Gorō Miyazaki",
+    "Produced by": [
+      "Toshio Suzuki",
+      "Tomohiko Ishii"
+    ],
+    "Screenplay by": [
+      "Gorō Miyazaki",
+      "Keiko Niwa"
+    ],
+    "Based on": [
+      "Earthsea",
+      "by",
+      "Ursula K. Le Guin"
+    ],
+    "Starring": [
+      "Bunta Sugawara",
+      "Junichi Okada",
+      "Aoi Teshima",
+      "Yūko Tanaka"
+    ],
+    "Music by": "Tamiya Terashima",
+    "Edited by": "Takeshi Seyama",
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "July 29, 2006"
+    ],
+    "Running time": "115 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": "$22 million",
+    "Box office": ""
   },
   {
     "title": "The Crimson Wing: Mystery of the Flamingos",
@@ -12774,8 +13037,8 @@
       "Matthew Aeberhard",
       "Leander Ward",
       "Paul Webster",
-      "(executive producer)",
-      "Stephen Garrett (executive producer)"
+      "",
+      "Stephen Garrett "
     ],
     "Written by": "Melanie Finn",
     "Narrated by": [
@@ -12791,18 +13054,18 @@
       ")"
     ],
     "Music by": "The Cinematic Orchestra and Claseria",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Natural Light Films",
       "Kudos Pictures"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "26 October 2008 ( France )",
-      "29 September 2009 ( United Kingdom )"
+      "26 October 2008 ",
+      "29 September 2009 "
     ],
     "Running time": "74 minutes",
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "United States"
     ],
@@ -12830,7 +13093,7 @@
     "Music by": "Nick Glennie-Smith",
     "Cinematography": "Dean Semler",
     "Edited by": "John Wright",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mayhem Pictures"
     ],
@@ -12839,8 +13102,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "September 30, 2010 ( Hollywood )",
-      "October 8, 2010 (United States)"
+      "September 30, 2010 ",
+      "October 8, 2010 "
     ],
     "Running time": "123 minutes",
     "Country": "United States",
@@ -12867,7 +13130,7 @@
     ],
     "Cinematography": "Anshuman Mahaley",
     "Edited by": "Aarti Bajaj",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Disney World Cinema",
       "Planman Motion Pictures",
@@ -12901,14 +13164,14 @@
     ],
     "Music by": "Alan Menken",
     "Edited by": "Tim Mertens",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 14, 2010 ( El Capitan Theatre )",
-      "November 24, 2010 (United States)"
+      "November 14, 2010 ",
+      "November 24, 2010 "
     ],
     "Running time": "100 minutes",
     "Country": "United States",
@@ -12939,7 +13202,7 @@
     ],
     "Cinematography": "Richard Numeroff",
     "Edited by": "Rich Evirs",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Red Hour Films"
     ],
@@ -12948,8 +13211,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "April 24, 2009 (San Francisco International Film Festival)",
-      "May 22, 2009 (United States)"
+      "April 24, 2009 ",
+      "May 22, 2009 "
     ],
     "Running time": "101 minutes",
     "Country": "United States",
@@ -12999,8 +13262,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 30, 2010 (Tokyo)",
-      "December 17, 2010 (United States)"
+      "November 30, 2010 ",
+      "December 17, 2010 "
     ],
     "Running time": "125 minutes",
     "Country": "United States",
@@ -13032,7 +13295,7 @@
     ],
     "Cinematography": "Soundarrajan",
     "Edited by": "Sravan Katikaneni",
-    "Production company": [
+    "Production companies": [
       "Disney World Cinema",
       "A Bellyful of Dreams Entertainment",
       "Arka Media Works",
@@ -13040,12 +13303,12 @@
     ],
     "Distributed by": "UTV Motion Pictures",
     "Release date": [
-      "14 January 2011 (India)"
+      "14 January 2011 "
     ],
     "Country": "India",
     "Language": "Telugu",
-    "Budget": "(US$3.8 million)",
-    "Box office": "(US$7.0 million)"
+    "Budget": "",
+    "Box office": ""
   },
   {
     "title": "Lilly the Witch: The Journey to Mandolan",
@@ -13098,7 +13361,7 @@
     "Music by": "John Powell",
     "Cinematography": "Robert Presley",
     "Edited by": "Wayne Wahrman",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "ImageMovers Digital"
     ],
@@ -13136,7 +13399,7 @@
     "Music by": "Shankar-Ehsaan-Loy",
     "Cinematography": "Keshav Prakash",
     "Edited by": "Suresh Pai",
-    "Production company": [
+    "Production companies": [
       "Disney World Cinema",
       "Walt Disney Pictures India"
     ],
@@ -13160,29 +13423,29 @@
     ],
     "Narrated by": [
       "Samuel L. Jackson",
-      "(US version)",
+      "",
       "Patrick Stewart",
-      "(UK version)"
+      ""
     ],
     "Music by": "Nicholas Hooper",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Fothergill / Scholey Productions",
       "Silverback Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "April 22, 2011 (United States)",
-      "February 1, 2012 (France)",
-      "April 27, 2012 (United Kingdom)"
+      "April 22, 2011 ",
+      "February 1, 2012 ",
+      "April 27, 2012 "
     ],
     "Running time": "89 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "France",
       "United Kingdom"
     ],
-    "Language": [
+    "Languages": [
       "English",
       "French"
     ],
@@ -13270,15 +13533,15 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 7, 2011 ( Disneyland Resort )",
-      "May 20, 2011 (United States)"
+      "May 7, 2011 ",
+      "May 20, 2011 "
     ],
     "Running time": "137 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": [
-      "$410.6 million (gross)",
-      "$378.5 million (net)"
+      "$410.6 million ",
+      "$378.5 million "
     ],
     "Box office": "$1.046 billion"
   },
@@ -13306,7 +13569,7 @@
       "Sharon Calahan"
     ],
     "Edited by": "Stephen Schaffer",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -13315,8 +13578,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 18, 2011 (Hollywood)",
-      "June 24, 2011 (United States)"
+      "June 18, 2011 ",
+      "June 24, 2011 "
     ],
     "Running time": "106 minutes",
     "Country": "United States",
@@ -13363,7 +13626,7 @@
     "Music by": "Henry Jackman",
     "Cinematography": [
       "Julio Macat",
-      "(live-action scenes)"
+      ""
     ],
     "Edited by": "Lisa Linder Silver",
     "Production companies": [
@@ -13375,8 +13638,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "April 6, 2011 (Belgium)",
-      "July 15, 2011 (United States)"
+      "April 6, 2011 ",
+      "July 15, 2011 "
     ],
     "Running time": "69 minutes",
     "Country": "United States",
@@ -13405,7 +13668,7 @@
     "Music by": "Christophe Beck",
     "Cinematography": "Don Burgess",
     "Edited by": "James Thomas",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
@@ -13414,14 +13677,57 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 4, 2011 (Savannah Film Festival)",
-      "November 23, 2011 (United States)"
+      "November 4, 2011 ",
+      "November 23, 2011 "
     ],
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million",
     "Box office": "$165.2 million"
+  },
+  {
+    "title": "Arrietty",
+    "Japanese": "",
+    "Hepburn": "Kari-gurashi no Arietti",
+    "Directed by": "Hiromasa Yonebayashi",
+    "Produced by": "Toshio Suzuki",
+    "Screenplay by": [
+      "Hayao Miyazaki",
+      "Keiko Niwa"
+    ],
+    "Based on": [
+      "The Borrowers",
+      "by",
+      "Mary Norton"
+    ],
+    "Starring": [
+      "Mirai Shida",
+      "Ryunosuke Kamiki",
+      "Shinobu Otake",
+      "Keiko Takeshita",
+      "Tatsuya Fujiwara",
+      "Tomokazu Miura",
+      "Kirin Kiki"
+    ],
+    "Music by": "Cécile Corbel",
+    "Cinematography": "Atsushi Okui",
+    "Edited by": [
+      "Keiko Kadokawa",
+      "Rie Matsubara",
+      "Hiromi Sasaki",
+      "Takeshi Seyama"
+    ],
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "17 July 2010"
+    ],
+    "Running time": "95 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": "$23 million",
+    "Box office": "$146 million"
   },
   {
     "title": "John Carter",
@@ -13460,15 +13766,15 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 22, 2012 ( Los Angeles )",
-      "March 9, 2012 (United States)"
+      "February 22, 2012 ",
+      "March 9, 2012 "
     ],
     "Running time": "132 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": [
-      "$306.6 million (gross)",
-      "$263.7 million (net)"
+      "$306.6 million ",
+      "$263.7 million "
     ],
     "Box office": "$284.1 million"
   },
@@ -13491,27 +13797,27 @@
     "Narrated by": "Tim Allen",
     "Music by": "Nicholas Hooper",
     "Cinematography": [
-      "Martyn Colbeck (Ivory Coast)",
-      "Bill Wallauer (Uganda)"
+      "Martyn Colbeck ",
+      "Bill Wallauer "
     ],
     "Edited by": "Andy Netley",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Great Ape Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "April 20, 2012 (United States)",
-      "February 20, 2013 (France)",
-      "May 3, 2013 (United Kingdom)"
+      "April 20, 2012 ",
+      "February 20, 2013 ",
+      "May 3, 2013 "
     ],
     "Running time": "77 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "France",
       "United Kingdom"
     ],
-    "Language": [
+    "Languages": [
       "English",
       "French"
     ],
@@ -13534,7 +13840,7 @@
     ],
     "Cinematography": "Hemant Chaturvedi",
     "Edited by": "A. Sreekar Prasad",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Pictures India",
       "UTV Motion Pictures"
@@ -13576,7 +13882,7 @@
       "Danielle Feinberg"
     ],
     "Edited by": "Nicholas C. Smith",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -13585,8 +13891,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 10, 2012 ( SIFF )",
-      "June 22, 2012 (United States)"
+      "June 10, 2012 ",
+      "June 22, 2012 "
     ],
     "Running time": "93 minutes",
     "Country": "United States",
@@ -13617,7 +13923,7 @@
     "Music by": "Geoff Zanelli",
     "Cinematography": "John Toll",
     "Edited by": "Andrew Mondshein",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Scott Sanders Productions"
     ],
@@ -13661,14 +13967,14 @@
       "Chris Lebenzon",
       "Mark Solomon"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Tim Burton Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "September 20, 2012 (Fantastic Fest)",
-      "October 5, 2012 (United States)"
+      "September 20, 2012 ",
+      "October 5, 2012 "
     ],
     "Running time": "87 minutes",
     "Country": "United States",
@@ -13699,14 +14005,14 @@
     "Music by": "Henry Jackman",
     "Cinematography": "Rob Dressel",
     "Edited by": "Tim Mertens",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 29, 2012 ( El Capitan Theatre )",
-      "November 2, 2012 (United States)"
+      "October 29, 2012 ",
+      "November 2, 2012 "
     ],
     "Running time": "101 minutes",
     "Country": "United States",
@@ -13750,8 +14056,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 14, 2013 ( El Capitan Theatre )",
-      "March 8, 2013 (United States)"
+      "February 14, 2013 ",
+      "March 8, 2013 "
     ],
     "Running time": "130 minutes",
     "Country": "United States",
@@ -13768,35 +14074,35 @@
     ],
     "Narrated by": [
       "Mélanie Laurent",
-      "(France)",
+      "",
       "Meryl Streep",
-      "(United States)"
+      ""
     ],
     "Music by": [
       "Steffen Aaskoven & Marc-George Andersen",
       "Bliss"
     ],
     "Edited by": "Jonathan P. Shaw",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Blacklight Films"
     ],
     "Distributed by": [
       "Walt Disney Studios Motion Pictures France",
-      "(France)",
+      "",
       "Walt Disney Studios Home Entertainment",
-      "(United States)"
+      ""
     ],
     "Release date": [
-      "16 March 2011 (France)",
-      "16 April 2013 (United States)"
+      "16 March 2011 ",
+      "16 April 2013 "
     ],
     "Running time": "77 minutes",
-    "Country": [
+    "Countries": [
       "France",
       "United States"
     ],
-    "Language": [
+    "Languages": [
       "French",
       "English"
     ]
@@ -13837,8 +14143,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 5, 2013 ( BFI Southbank )",
-      "June 21, 2013 (United States)"
+      "June 5, 2013 ",
+      "June 21, 2013 "
     ],
     "Running time": "104 minutes",
     "Country": "United States",
@@ -13882,7 +14188,7 @@
       "James Haygood",
       "Craig Wood"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films",
       "Infinitum Nihil",
@@ -13893,8 +14199,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 22, 2013 ( Hyperion Theatre )",
-      "July 3, 2013 (United States)"
+      "June 22, 2013 ",
+      "July 3, 2013 "
     ],
     "Running time": "149 minutes",
     "Country": "United States",
@@ -13928,7 +14234,7 @@
     ],
     "Music by": "Mark Mancina",
     "Edited by": "Jeremy Milton",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Disneytoon Studios"
     ],
@@ -13937,7 +14243,7 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "August 2, 2013 ( EAA AirVenture Oshkosh )",
+      "August 2, 2013 ",
       "August 9, 2013"
     ],
     "Running time": "92 minutes",
@@ -13973,12 +14279,12 @@
     ],
     "Cinematography": [
       "Scott Beattie",
-      "(layout)",
+      "",
       "Mohit Kallianpur",
-      "(lighting)"
+      ""
     ],
     "Edited by": "Jeff Draheim",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -13987,8 +14293,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 19, 2013 ( El Capitan Theatre )",
-      "November 22, 2013 (United States)"
+      "November 19, 2013 ",
+      "November 22, 2013 "
     ],
     "Running time": "102 minutes",
     "Country": "United States",
@@ -14019,7 +14325,7 @@
     "Music by": "Thomas Newman",
     "Cinematography": "John Schwartzman",
     "Edited by": "Mark Livolsi",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Ruby Films",
       "Essential Media and Entertainment",
@@ -14031,13 +14337,13 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "October 20, 2013 ( BFI London Film Festival )",
-      "November 29, 2013 (United Kingdom)",
-      "December 13, 2013 (United States)",
-      "January 9, 2014 (Australia)"
+      "October 20, 2013 ",
+      "November 29, 2013 ",
+      "December 13, 2013 ",
+      "January 9, 2014 "
     ],
     "Running time": "125 minutes",
-    "Country": [
+    "Countries": [
       "Australia",
       "United Kingdom",
       "United States"
@@ -14066,14 +14372,14 @@
     "Music by": "Christophe Beck",
     "Cinematography": "Don Burgess",
     "Edited by": "James Thomas",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "March 11, 2014 ( El Capitan Theatre )",
-      "March 21, 2014 (United States)"
+      "March 11, 2014 ",
+      "March 21, 2014 "
     ],
     "Running time": "107 minutes",
     "Country": "United States",
@@ -14093,13 +14399,13 @@
     ],
     "Narrated by": "John C. Reilly",
     "Music by": "George Fenton",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Silverback Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "April 18, 2014 (United States)"
+      "April 18, 2014 "
     ],
     "Running time": "77 minutes",
     "Country": "United States",
@@ -14129,19 +14435,19 @@
     "Music by": "A. R. Rahman",
     "Cinematography": "Gyula Pados",
     "Edited by": "Tatiana S. Riegel",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Roth Films",
       "Mayhem Pictures"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "May 6, 2014 ( El Capitan Theatre )",
-      "May 16, 2014 (United States)"
+      "May 6, 2014 ",
+      "May 16, 2014 "
     ],
     "Running time": "124 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English Hindi",
       "English",
       "Hindi"
@@ -14173,14 +14479,14 @@
       "Chris Lebenzon",
       "Richard Pearson"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Roth Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "May 28, 2014 ( El Capitan Theatre )",
-      "May 30, 2014 (United States)"
+      "May 28, 2014 ",
+      "May 30, 2014 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -14210,7 +14516,7 @@
     ],
     "Music by": "Mark Mancina",
     "Edited by": "Dan Molina",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Disneytoon Studios"
     ],
@@ -14219,14 +14525,54 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "July 15, 2014 ( El Capitan Theatre )",
-      "July 18, 2014 (United States)"
+      "July 15, 2014 ",
+      "July 18, 2014 "
     ],
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
     "Box office": "$147 million"
+  },
+  {
+    "title": "Khoobsurat",
+    "Directed by": "Shashanka Ghosh",
+    "Produced by": [
+      "Rhea Kapoor",
+      "Anil Kapoor",
+      "Siddharth Roy Kapur"
+    ],
+    "Written by": [
+      "Indira Bisht",
+      "Juhi Chaturvedi"
+    ],
+    "Starring": [
+      "Sonam Kapoor",
+      "Fawad Khan"
+    ],
+    "Music by": [
+      "Songs:",
+      "Sneha Khanwalkar",
+      "Badshah",
+      "Amaal Mallik",
+      "Background Score:",
+      "Simaab Sen"
+    ],
+    "Cinematography": "Tushar Kanti Ray",
+    "Edited by": "Bakul Matiyani",
+    "Production companies": [
+      "Walt Disney Pictures India",
+      "Anil Kapoor Films Company"
+    ],
+    "Distributed by": "UTV Motion Pictures",
+    "Release date": [
+      "19 September 2014"
+    ],
+    "Running time": "127 minutes",
+    "Country": "India",
+    "Language": "Hindi",
+    "Budget": "",
+    "Box office": "est. "
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -14253,7 +14599,7 @@
     "Music by": "Christophe Beck",
     "Cinematography": "Terry Stacey",
     "Edited by": "Pamela Martin",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "21 Laps Entertainment",
       "The Jim Henson Company"
@@ -14263,8 +14609,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "October 6, 2014 ( El Capitan Theatre )",
-      "October 10, 2014 (United States)"
+      "October 6, 2014 ",
+      "October 10, 2014 "
     ],
     "Running time": "81 minutes",
     "Country": "United States",
@@ -14301,11 +14647,11 @@
     ],
     "Music by": "Henry Jackman",
     "Cinematography": [
-      "Rob Dressel (layout)",
-      "Adolph Lusinsky (lighting)"
+      "Rob Dressel ",
+      "Adolph Lusinsky "
     ],
     "Edited by": "Tim Mertens",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -14314,8 +14660,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "October 23, 2014 ( Tokyo International Film Festival )",
-      "November 7, 2014 (United States)"
+      "October 23, 2014 ",
+      "November 7, 2014 "
     ],
     "Running time": "102 minutes",
     "Country": "United States",
@@ -14353,7 +14699,7 @@
     "Music by": "Stephen Sondheim",
     "Cinematography": "Dion Beebe",
     "Edited by": "Wyatt Smith",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Lucamar Productions",
       "Marc Platt Productions"
@@ -14363,8 +14709,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "December 8, 2014 ( Ziegfeld Theatre )",
-      "December 25, 2014 (United States)"
+      "December 8, 2014 ",
+      "December 25, 2014 "
     ],
     "Running time": "124 minutes",
     "Country": "United States",
@@ -14396,7 +14742,7 @@
     "Music by": "Antônio Pinto",
     "Cinematography": "Adam Arkapaw",
     "Edited by": "David Coulson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mayhem Pictures"
     ],
@@ -14405,8 +14751,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 9, 2015 ( Hollywood )",
-      "February 20, 2015 (United States)"
+      "February 9, 2015 ",
+      "February 20, 2015 "
     ],
     "Running time": "129 minutes",
     "Country": "United States",
@@ -14439,7 +14785,7 @@
     "Music by": "Patrick Doyle",
     "Cinematography": "Haris Zambarloukos",
     "Edited by": "Martin Walsh",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Kinberg Genre",
       "Allison Shearmur Productions",
@@ -14450,12 +14796,12 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 13, 2015 ( Berlin )",
-      "March 13, 2015 (United States)",
-      "March 27, 2015 (United Kingdom)"
+      "February 13, 2015 ",
+      "March 13, 2015 ",
+      "March 27, 2015 "
     ],
     "Running time": "106 minutes",
-    "Country": [
+    "Countries": [
       "United States",
       "United Kingdom"
     ],
@@ -14480,13 +14826,13 @@
       "Gavin Thurston"
     ],
     "Edited by": "Andy Netley",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Silverback Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "April 17, 2015 (United States)"
+      "April 17, 2015 "
     ],
     "Running time": "82 minutes",
     "Country": "United States",
@@ -14526,7 +14872,7 @@
       "Walter Murch",
       "Craig Wood"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "A113 Productions"
     ],
@@ -14535,8 +14881,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 9, 2015 ( Disneyland )",
-      "May 22, 2015 (United States)"
+      "May 9, 2015 ",
+      "May 22, 2015 "
     ],
     "Running time": "130 minutes",
     "Country": "United States",
@@ -14570,11 +14916,11 @@
     ],
     "Music by": "Michael Giacchino",
     "Cinematography": [
-      "Patrick Lin (camera)",
-      "Kim White (lighting)"
+      "Patrick Lin ",
+      "Kim White "
     ],
     "Edited by": "Kevin Nolting",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -14583,8 +14929,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 18, 2015 ( Cannes )",
-      "June 19, 2015 (United States)"
+      "May 18, 2015 ",
+      "June 19, 2015 "
     ],
     "Running time": "95 minutes",
     "Country": "United States",
@@ -14667,8 +15013,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 10, 2015 ( Paris )",
-      "November 25, 2015 (United States)"
+      "November 10, 2015 ",
+      "November 25, 2015 "
     ],
     "Running time": "94 minutes",
     "Country": "United States",
@@ -14706,7 +15052,7 @@
     "Music by": "Carter Burwell",
     "Cinematography": "Javier Aguirresarobe",
     "Edited by": "Tatiana S. Riegel",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Whitaker Entertainment",
       "Red Hawk Entertainment"
@@ -14716,8 +15062,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "January 25, 2016 ( TCL Chinese Theatre )",
-      "January 29, 2016 (United States)"
+      "January 25, 2016 ",
+      "January 29, 2016 "
     ],
     "Running time": "117 minutes",
     "Country": "United States",
@@ -14761,14 +15107,14 @@
     ],
     "Music by": "Michael Giacchino",
     "Cinematography": [
-      "Nathan Warner (layout)",
-      "Brian Leach (lighting)"
+      "Nathan Warner ",
+      "Brian Leach "
     ],
     "Edited by": [
       "Fabienne Rawley",
       "Jeremy Milton"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -14777,8 +15123,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 13, 2016 (Belgium)",
-      "March 4, 2016 (United States)"
+      "February 13, 2016 ",
+      "March 4, 2016 "
     ],
     "Running time": "108 minutes",
     "Country": "United States",
@@ -14812,7 +15158,7 @@
     "Music by": "John Debney",
     "Cinematography": "Bill Pope",
     "Edited by": "Mark Livolsi",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Fairview Entertainment"
     ],
@@ -14821,14 +15167,51 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "April 4, 2016 ( El Capitan Theatre )",
-      "April 15, 2016 (United States)"
+      "April 4, 2016 ",
+      "April 15, 2016 "
     ],
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$175–177 million",
     "Box office": "$966.6 million"
+  },
+  {
+    "title": "Tini: The Movie",
+    "Directed by": "Juan Pablo Buscarini",
+    "Produced by": "Pablo Bossi",
+    "Written by": "Ramón Salazar",
+    "Starring": [
+      "Martina Stoessel",
+      "Jorge Blanco",
+      "Mercedes Lambre",
+      "Clara Alonso",
+      "Adrián Salzedo",
+      "Diego Ramos",
+      "Sofia Carson",
+      "Ángela Molina"
+    ],
+    "Music by": "Federico Jusid",
+    "Cinematography": "Josu Inchaustegui",
+    "Edited by": "Pablo Mari",
+    "Production companies": [
+      "The Walt Disney Company Spain",
+      "Gloriamundi Producciones",
+      "Lapis Film"
+    ],
+    "Distributed by": "Walt Disney Studios Motion Pictures",
+    "Release date": [
+      "April 23, 2016 ",
+      "May 6, 2016 ",
+      "May 12, 2016 "
+    ],
+    "Running time": "98 minutes",
+    "Countries": [
+      "Spain",
+      "Italy"
+    ],
+    "Language": "Spanish",
+    "Box office": "$17 million"
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -14860,7 +15243,7 @@
     "Music by": "Danny Elfman",
     "Cinematography": "Stuart Dryburgh",
     "Edited by": "Andrew Weisblum",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Roth Films",
       "Team Todd",
@@ -14871,8 +15254,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 10, 2016 ( London )",
-      "May 27, 2016 (United States)"
+      "May 10, 2016 ",
+      "May 27, 2016 "
     ],
     "Running time": "114 minutes",
     "Country": "United States",
@@ -14901,11 +15284,11 @@
     ],
     "Music by": "Thomas Newman",
     "Cinematography": [
-      "Jeremy Lasky (camera)",
-      "Ian Megibben (lighting)"
+      "Jeremy Lasky ",
+      "Ian Megibben "
     ],
     "Edited by": "Axel Geddes",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -14914,8 +15297,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 8, 2016 ( El Capitan Theatre )",
-      "June 17, 2016 (United States)"
+      "June 8, 2016 ",
+      "June 17, 2016 "
     ],
     "Running time": "97 minutes",
     "Country": "United States",
@@ -14959,15 +15342,15 @@
     "Distributed by": [
       "Walt Disney Studios",
       "Motion Pictures",
-      "(Worldwide)",
+      "",
       "Mister Smith Entertainment",
       "(",
       "EMEA",
       ")"
     ],
     "Release date": [
-      "May 14, 2016 ( Cannes )",
-      "July 1, 2016 (United States)"
+      "May 14, 2016 ",
+      "July 1, 2016 "
     ],
     "Running time": "117 minutes",
     "Country": "United States",
@@ -15005,8 +15388,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "August 8, 2016 ( El Capitan Theatre )",
-      "August 12, 2016 (United States)"
+      "August 8, 2016 ",
+      "August 12, 2016 "
     ],
     "Running time": "103 minutes",
     "Country": "United States",
@@ -15049,12 +15432,12 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "September 10, 2016 ( TIFF )",
-      "September 23, 2016 (United States)"
+      "September 10, 2016 ",
+      "September 23, 2016 "
     ],
     "Running time": "124 minutes",
     "Country": "United States",
-    "Language": [
+    "Languages": [
       "English",
       "Luganda"
     ],
@@ -15093,8 +15476,8 @@
       "Opetaia Foa'i"
     ],
     "Cinematography": [
-      "Rob Dressel (layout)",
-      "Adolph Lusinsky (lighting)"
+      "Rob Dressel ",
+      "Adolph Lusinsky "
     ],
     "Edited by": "Jeff Draheim",
     "Production companies": [
@@ -15106,11 +15489,11 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 14, 2016 ( AFI Fest )",
-      "November 23, 2016 (United States)"
+      "November 14, 2016 ",
+      "November 23, 2016 "
     ],
     "Running time": "107 minutes",
-    "Country": [
+    "Countries": [
       "United States"
     ],
     "Language": "English",
@@ -15143,16 +15526,16 @@
     ],
     "Narrated by": "Aparshakti Khurana",
     "Music by": "Pritam",
-    "Cinematography": "Setu (Satyajit Pande)",
+    "Cinematography": "Setu ",
     "Edited by": "Ballu Saluja",
-    "Production company": [
+    "Production companies": [
       "Aamir Khan Productions",
       "Walt Disney Pictures India"
     ],
     "Distributed by": "UTV Motion Pictures",
     "Release date": [
-      "21 December 2016 (United States)",
-      "23 December 2016 (India)"
+      "21 December 2016 ",
+      "23 December 2016 "
     ],
     "Running time": "161 minutes",
     "Country": "India",
@@ -15175,26 +15558,26 @@
     "Written by": [
       "Luc Jacquet",
       "Michel Fessler",
-      "Jordan Roberts (English Version)"
+      "Jordan Roberts "
     ],
     "Narrated by": [
-      "Amitabh Bachchan (Hindi)",
-      "Charles Berling (French)",
-      "Romane Bohringer (French)",
-      "Jules Sitruk (French)",
-      "Morgan Freeman (English)",
-      "Sharon Cuneta ( Filipino )"
+      "Amitabh Bachchan ",
+      "Charles Berling ",
+      "Romane Bohringer ",
+      "Jules Sitruk ",
+      "Morgan Freeman ",
+      "Sharon Cuneta "
     ],
     "Music by": [
-      "Émilie Simon (France)",
-      "Alex Wurman (US)"
+      "Émilie Simon ",
+      "Alex Wurman "
     ],
     "Cinematography": [
       "Laurent Chalet",
       "Jérôme Maison"
     ],
     "Edited by": "Sabine Emiliani",
-    "Production company": [
+    "Production companies": [
       "Wild Bunch",
       "National Geographic Films",
       "Bonne Pioche"
@@ -15240,7 +15623,7 @@
     "Music by": "Alan Menken",
     "Cinematography": "Tobias A. Schliessler",
     "Edited by": "Virginia Katz",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
@@ -15249,14 +15632,67 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 23, 2017 ( Spencer House )",
-      "March 17, 2017 (United States)"
+      "February 23, 2017 ",
+      "March 17, 2017 "
     ],
     "Running time": "129 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$160–255 million",
     "Box office": "$1.264 billion"
+  },
+  {
+    "title": "Born in China",
+    "Traditional": "我們誕生在中國",
+    "Simplified": "我们诞生在中国",
+    "Directed by": "Lu Chuan",
+    "Produced by": [
+      "Roy Conli",
+      "Brian Leith",
+      "Phil Chapman"
+    ],
+    "Screenplay by": [
+      "David Fowler",
+      "Brian Leith",
+      "Phil Chapman",
+      "Lu Chuan"
+    ],
+    "Narrated by": [
+      "John Krasinski",
+      "Zhou Xun",
+      "Claire Keim"
+    ],
+    "Music by": "Barnaby Taylor",
+    "Edited by": "Matthew Meech",
+    "Production companies": [
+      "Disneynature",
+      "Shanghai Media Group",
+      "Chuan Films",
+      "Brian Leith Productions"
+    ],
+    "Distributed by": [
+      "Walt Disney Studios Motion Pictures",
+      "Shanghai Media Group",
+      ""
+    ],
+    "Release date": [
+      "August 12, 2016 ",
+      "April 21, 2017 ",
+      "August 23, 2017 "
+    ],
+    "Running time": "76 minutes",
+    "Countries": [
+      "United States",
+      "China",
+      "France"
+    ],
+    "Languages": [
+      "English",
+      "Mandarin",
+      "French"
+    ],
+    "Budget": "$5–10 million",
+    "Box office": "$25.1 million"
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -15288,7 +15724,7 @@
       "Roger Barton",
       "Leigh Folsom Boyd"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jerry Bruckheimer Films"
     ],
@@ -15297,8 +15733,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 11, 2017 ( Shanghai Disney Resort )",
-      "May 26, 2017 (United States)"
+      "May 11, 2017 ",
+      "May 26, 2017 "
     ],
     "Running time": "129 minutes",
     "Country": "United States",
@@ -15334,11 +15770,11 @@
     ],
     "Music by": "Randy Newman",
     "Cinematography": [
-      "Jeremy Lasky (camera)",
-      "Kim White (lighting)"
+      "Jeremy Lasky ",
+      "Kim White "
     ],
     "Edited by": "Jason Hudak",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -15347,8 +15783,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 23, 2017 ( Kannapolis )",
-      "June 16, 2017 (United States)"
+      "May 23, 2017 ",
+      "June 16, 2017 "
     ],
     "Running time": "102 minutes",
     "Country": "United States",
@@ -15362,13 +15798,13 @@
     "Produced by": "Brian Leith",
     "Written by": "Ben Wallis",
     "Narrated by": "Antoine Fuqua",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Brian Leith Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "June 30, 2017 (United States)"
+      "June 30, 2017 "
     ],
     "Country": "United States",
     "Language": "English"
@@ -15405,7 +15841,7 @@
     "Music by": "Pritam",
     "Cinematography": "Ravi Varman",
     "Edited by": "Amitabh Shukla",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures India",
       "Picture Shuru Entertainment",
       "Ishana Movies"
@@ -15451,7 +15887,7 @@
       "Danielle Feinberg"
     ],
     "Edited by": "Steve Bloom",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -15460,8 +15896,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "October 20, 2017 ( Morelia )",
-      "November 22, 2017 (United States)"
+      "October 20, 2017 ",
+      "November 22, 2017 "
     ],
     "Running time": "105 minutes",
     "Country": "United States",
@@ -15508,8 +15944,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 26, 2018 ( El Capitan Theatre )",
-      "March 9, 2018 (United States)"
+      "February 26, 2018 ",
+      "March 9, 2018 "
     ],
     "Running time": "109 minutes",
     "Country": "United States",
@@ -15550,8 +15986,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "June 5, 2018 ( Los Angeles )",
-      "June 15, 2018 (United States)"
+      "June 5, 2018 ",
+      "June 15, 2018 "
     ],
     "Running time": "118 minutes",
     "Country": "United States",
@@ -15591,7 +16027,7 @@
     ],
     "Cinematography": "Matthias Koenigswieser",
     "Edited by": "Matt Chessé",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "2DUX²"
     ],
@@ -15600,8 +16036,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "July 30, 2018 ( Burbank )",
-      "August 3, 2018 (United States)"
+      "July 30, 2018 ",
+      "August 3, 2018 "
     ],
     "Running time": "104 minutes",
     "Country": "United States",
@@ -15638,14 +16074,14 @@
     "Music by": "James Newton Howard",
     "Cinematography": "Linus Sandgren",
     "Edited by": "Stuart Levy",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "The Mark Gordon Company"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 29, 2018 ( Dolby Theatre )",
-      "November 2, 2018 (United States)"
+      "October 29, 2018 ",
+      "November 2, 2018 "
     ],
     "Running time": "99 minutes",
     "Country": "United States",
@@ -15684,8 +16120,8 @@
     ],
     "Music by": "Henry Jackman",
     "Cinematography": [
-      "Nathan Detroit Warner (layout)",
-      "Brian Leach (lighting)"
+      "Nathan Detroit Warner ",
+      "Brian Leach "
     ],
     "Edited by": "Jeremy Milton",
     "Production companies": [
@@ -15694,8 +16130,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 5, 2018 ( El Capitan Theatre )",
-      "November 21, 2018 (United States)"
+      "November 5, 2018 ",
+      "November 21, 2018 "
     ],
     "Running time": "112 minutes",
     "Country": "United States",
@@ -15736,7 +16172,7 @@
     "Music by": "Marc Shaiman",
     "Cinematography": "Dion Beebe",
     "Edited by": "Wyatt Smith",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Lucamar Productions",
       "Marc Platt Productions"
@@ -15746,8 +16182,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 29, 2018 ( Dolby Theatre )",
-      "December 19, 2018 (United States)"
+      "November 29, 2018 ",
+      "December 19, 2018 "
     ],
     "Running time": "131 minutes",
     "Country": "United States",
@@ -15784,7 +16220,7 @@
     "Music by": "Danny Elfman",
     "Cinematography": "Ben Davis",
     "Edited by": "Chris Lebenzon",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Tim Burton Productions",
       "Infinite Detective Productions",
@@ -15795,8 +16231,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "March 11, 2019 ( Los Angeles )",
-      "March 29, 2019 (United States)"
+      "March 11, 2019 ",
+      "March 29, 2019 "
     ],
     "Running time": "112 minutes",
     "Country": "United States",
@@ -15820,13 +16256,13 @@
     "Narrated by": "Ed Helms",
     "Music by": "Harry Gregson-Williams",
     "Edited by": "Andy Netley",
-    "Production company": [
+    "Production companies": [
       "Disneynature",
       "Silverback Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "April 17, 2019 (United States)"
+      "April 17, 2019 "
     ],
     "Running time": "76 minutes",
     "Country": "United States",
@@ -15864,7 +16300,7 @@
     "Music by": "Alan Menken",
     "Cinematography": "Alan Stewart",
     "Edited by": "James Herbert",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Rideback",
       "Marc Platt Productions"
@@ -15874,74 +16310,14 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "May 8, 2019 ( Grand Rex )",
-      "May 24, 2019 (United States)"
+      "May 8, 2019 ",
+      "May 24, 2019 "
     ],
     "Running time": "128 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$183 million",
     "Box office": ""
-  },
-  {
-    "title": "Toy Story 4",
-    "Directed by": "Josh Cooley",
-    "Produced by": [
-      "Mark Nielsen",
-      "Jonas Rivera"
-    ],
-    "Screenplay by": [
-      "Andrew Stanton",
-      "Stephany Folsom"
-    ],
-    "Story by": [
-      "John Lasseter",
-      "Andrew Stanton",
-      "Josh Cooley",
-      "Valerie LaPointe",
-      "Rashida Jones",
-      "Will McCormack",
-      "Martin Hynes",
-      "Stephany Folsom"
-    ],
-    "Starring": [
-      "Tom Hanks",
-      "Tim Allen",
-      "Annie Potts",
-      "Tony Hale",
-      "Keegan-Michael Key",
-      "Jordan Peele",
-      "Madeleine McGraw",
-      "Christina Hendricks",
-      "Keanu Reeves",
-      "Ally Maki",
-      "Jay Hernandez",
-      "Lori Alan",
-      "Joan Cusack"
-    ],
-    "Music by": "Randy Newman",
-    "Cinematography": [
-      "Patrick Lin",
-      "Jean-Claude Kalache"
-    ],
-    "Edited by": "Axel Geddes",
-    "Production companies": [
-      "Walt Disney Pictures",
-      "Pixar Animation Studios"
-    ],
-    "Distributed by": [
-      "Walt Disney Studios",
-      "Motion Pictures"
-    ],
-    "Release date": [
-      "June 11, 2019 ( El Capitan Theatre )",
-      "June 21, 2019 (United States)"
-    ],
-    "Running time": "100 minutes",
-    "Country": "United States",
-    "Language": "English",
-    "Budget": "$200 million",
-    "Box office": "$1.073 billion"
   },
   {
     "title": "The Lion King",
@@ -15972,7 +16348,7 @@
       "Mark Livolsi",
       "Adam Gerstel"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Fairview Entertainment"
     ],
@@ -15981,8 +16357,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "July 9, 2019 ( Hollywood )",
-      "July 19, 2019 (United States)"
+      "July 9, 2019 ",
+      "July 19, 2019 "
     ],
     "Running time": "118 minutes",
     "Country": "United States",
@@ -16024,7 +16400,7 @@
       "Laura Jennings",
       "Craig Wood"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Roth/Kirschenbaum Films"
     ],
@@ -16072,13 +16448,13 @@
     "Music by": "Joseph Trapanese",
     "Cinematography": "Enrique Chediak",
     "Edited by": "Melissa Bretherton",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Taylor Made"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 12, 2019 (United States)"
+      "November 12, 2019 "
     ],
     "Running time": "104 minutes",
     "Country": "United States",
@@ -16107,7 +16483,7 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "November 12, 2019 (United States)"
+      "November 12, 2019 "
     ],
     "Running time": "100 minutes",
     "Country": "United States",
@@ -16142,11 +16518,11 @@
       "Kristen Anderson-Lopez"
     ],
     "Cinematography": [
-      "Tracy Scott Beattie (layout)",
-      "Mohit Kallianpur (lighting)"
+      "Tracy Scott Beattie ",
+      "Mohit Kallianpur "
     ],
     "Edited by": "Jeff Draheim",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -16155,8 +16531,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "November 7, 2019 ( Dolby Theatre )",
-      "November 22, 2019 (United States)"
+      "November 7, 2019 ",
+      "November 22, 2019 "
     ],
     "Running time": "103 minutes",
     "Country": "United States",
@@ -16178,7 +16554,7 @@
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Disney+",
     "Release date": [
-      "December 20, 2019 (United States)"
+      "December 20, 2019 "
     ],
     "Running time": "114 minutes",
     "Country": "United States",
@@ -16211,7 +16587,7 @@
     "Music by": "Rolfe Kent",
     "Cinematography": "Masanobu Takayanagi",
     "Edited by": "Tom McArdle",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Etalon Film",
       "Slow Pony Pictures",
@@ -16219,8 +16595,8 @@
     ],
     "Distributed by": "Disney+",
     "Release date": [
-      "January 25, 2020 ( Sundance )",
-      "February 7, 2020 ( Disney+ )"
+      "January 25, 2020 ",
+      "February 7, 2020 "
     ],
     "Running time": "99 minutes",
     "Country": "United States",
@@ -16243,9 +16619,7 @@
     ],
     "Starring": [
       "Tom Holland",
-      "Chris Pratt",
-      "Julia Louis-Dreyfus",
-      "Octavia Spencer"
+      "Chris Pratt"
     ],
     "Music by": [
       "Mychael Danna",
@@ -16256,7 +16630,7 @@
       "Adam Habib"
     ],
     "Edited by": "Catherine Apple",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Pixar Animation Studios"
     ],
@@ -16265,8 +16639,8 @@
       "Motion Pictures"
     ],
     "Release date": [
-      "February 21, 2020 ( Berlinale )",
-      "March 6, 2020 (United States)"
+      "February 21, 2020 ",
+      "March 6, 2020 "
     ],
     "Running time": "102 minutes",
     "Country": "United States",
@@ -16303,14 +16677,14 @@
       "Shayar Bansali",
       "Tracey Wadmore-Smith"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gotham Group",
       "Hahnscape Entertainment"
     ],
     "Distributed by": "Disney+",
     "Release date": [
-      "March 13, 2020 (United States)"
+      "March 13, 2020 "
     ],
     "Running time": "107 minutes",
     "Country": "United States",
@@ -16338,8 +16712,8 @@
       "Disney+"
     ],
     "Release date": [
-      "March 28, 2018 (France)",
-      "April 3, 2020 ( Disney+ )"
+      "March 28, 2018 ",
+      "April 3, 2020 "
     ],
     "Running time": "78 minutes",
     "Country": "United States",
@@ -16400,7 +16774,7 @@
     "Music by": "Patrick Doyle",
     "Cinematography": "Haris Zambarloukos",
     "Edited by": "Matthew Tucker",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "TriBeCa Productions",
       "Marzano Films"
@@ -16443,7 +16817,7 @@
     "Music by": "Lin-Manuel Miranda",
     "Cinematography": "Declan Quinn",
     "Edited by": "Jonah Moran",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "5000 Broadway Productions",
       "Nevis Productions",
@@ -16457,7 +16831,7 @@
     "Running time": "160 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12.5 million (stage production)"
+    "Budget": "$12.5 million "
   },
   {
     "title": "Black Is King",
@@ -16542,7 +16916,7 @@
       "Haines Hall",
       "Tom Watson"
     ],
-    "Production company": [
+    "Production companies": [
       "Parkwood Entertainment",
       "Walt Disney Pictures"
     ],
@@ -16585,7 +16959,7 @@
       "Bruce Green",
       "Robert Malina"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Team Todd"
     ],
@@ -16627,13 +17001,13 @@
     "Music by": "Craig Armstrong",
     "Cinematography": "Florian Ballhaus",
     "Edited by": "Barney Pilling",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jolie Pas Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "August 21, 2020 (United States)"
+      "August 21, 2020 "
     ],
     "Running time": "95 minutes",
     "Country": "United States",
@@ -16671,15 +17045,15 @@
     "Music by": "Harry Gregson-Williams",
     "Cinematography": "Mandy Walker",
     "Edited by": "David Coulson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Jason T. Reed Productions",
       "Good Fear Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "March 9, 2020 ( Hollywood )",
-      "September 4, 2020 (United States)"
+      "March 9, 2020 ",
+      "September 4, 2020 "
     ],
     "Running time": "115 minutes",
     "Country": "United States",
@@ -16703,13 +17077,13 @@
     "Music by": "Rachel Portman",
     "Cinematography": "Christopher Norr",
     "Edited by": "Gary Dollner",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Secret Machine Entertainment"
     ],
     "Distributed by": "Disney+",
     "Release date": [
-      "December 4, 2020 (United States)"
+      "December 4, 2020 "
     ],
     "Running time": "113 minutes",
     "Country": "United States",
@@ -16733,14 +17107,14 @@
     "Music by": "Marcus Miller",
     "Cinematography": "Shane Hurlbut",
     "Edited by": "Terel Gibson",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mayhem Pictures",
       "Select Films"
     ],
     "Distributed by": "Disney+",
     "Release date": [
-      "December 11, 2020 (United States)"
+      "December 11, 2020 "
     ],
     "Running time": "119 minutes",
     "Country": "United States",
@@ -16783,8 +17157,8 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "October 11, 2020 ( BFI )",
-      "December 25, 2020 (United States)"
+      "October 11, 2020 ",
+      "December 25, 2020 "
     ],
     "Running time": "101 minutes",
     "Country": "United States",
@@ -16815,7 +17189,7 @@
     "Music by": "Jake Monaco",
     "Cinematography": "Andrew Dunn",
     "Edited by": "Jamie Gross",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Netter Productions"
     ],
@@ -16853,7 +17227,7 @@
       "Alan Tudyk"
     ],
     "Music by": "James Newton Howard",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -16898,7 +17272,7 @@
     ],
     "Cinematography": "Nicolas Karakatsanis",
     "Edited by": "Tatiana S. Riegel",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Gunn Films",
       "Marc Platt Productions"
@@ -16951,7 +17325,7 @@
     ],
     "Cinematography": "Flavio Labiano",
     "Edited by": "Joel Negron",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Davis Entertainment",
       "Seven Bucks Productions",
@@ -16959,7 +17333,7 @@
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": [
-      "July 30, 2021 (United States)"
+      "July 30, 2021 "
     ],
     "Country": "United States",
     "Language": "English"
@@ -16972,7 +17346,12 @@
       "Clare Olssen",
       "Jonathan Clyde"
     ],
-    "Starring": "The Beatles",
+    "Starring": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
     "Music by": "The Beatles",
     "Edited by": "Jabez Olssen",
     "Production companies": [
@@ -16987,7 +17366,7 @@
     "Release date": [
       "27 August 2021"
     ],
-    "Country": [
+    "Countries": [
       "United Kingdom",
       "New Zealand",
       "United States"
@@ -16996,6 +17375,10 @@
   },
   {
     "title": "Encanto",
+    "Directed by": [
+      "Byron Howard",
+      "Jared Bush"
+    ],
     "Produced by": [
       "Clark Spencer",
       "Yvett Merino Flores"
@@ -17005,7 +17388,7 @@
       "Charise Castro Smith"
     ],
     "Music by": "Lin-Manuel Miranda",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Walt Disney Animation Studios"
     ],
@@ -17054,13 +17437,13 @@
       "Melissa McCarthy"
     ],
     "Music by": [
-      "Alan Menken (score and songs)",
-      "Howard Ashman (classic songs)",
-      "Lin-Manuel Miranda (new songs)"
+      "Alan Menken ",
+      "Howard Ashman ",
+      "Lin-Manuel Miranda "
     ],
     "Cinematography": "Dion Beebe",
     "Edited by": "Wyatt Smith",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Lucamar Productions",
       "Marc Platt Productions"
@@ -17096,7 +17479,7 @@
       "Jim Gaffigan"
     ],
     "Cinematography": "Bojan Bazelli",
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Whitaker Entertainment",
       "Roth/Kirschenbaum Films"
@@ -17107,6 +17490,7 @@
   },
   {
     "title": "Home Alone",
+    "Directed by": "Dan Mazer",
     "Produced by": [
       "Hutch Parker",
       "Dan Wilson"
@@ -17131,7 +17515,7 @@
     ],
     "Music by": "John Debney",
     "Cinematography": "Mitchell Amundsen",
-    "Production company": [
+    "Production companies": [
       "20th Century Studios",
       "Hutch Parker Entertainment"
     ],
@@ -17141,6 +17525,7 @@
   },
   {
     "title": "Shrunk",
+    "Directed by": "Joe Johnston",
     "Produced by": [
       "David Hoberman",
       "Todd Lieberman"
@@ -17164,7 +17549,7 @@
       "Josh Gad",
       "Rick Moranis"
     ],
-    "Production company": [
+    "Production companies": [
       "Walt Disney Pictures",
       "Mandeville Films"
     ],
