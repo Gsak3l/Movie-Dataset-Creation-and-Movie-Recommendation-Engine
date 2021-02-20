@@ -6,10 +6,9 @@ def clean_tags(soup):
         tag.decompose()
 
 
-# I should create it sooner or later
 def remove_parentheses(value):
-    value_list = []
     if isinstance(value, list):
+        value_list = []
         for item in value:
             item = re.sub(r'\([^)]*\)', '', item)
             value_list.append(item)
@@ -17,3 +16,13 @@ def remove_parentheses(value):
     else:
         value = re.sub(r'\([^)]*\)', '', value)
         return value
+
+
+def minute_to_integer(running_time):
+    if running_time != 'N/A':
+        if isinstance(running_time, list):
+            return int(running_time[0].split(' ')[0])
+        else:
+            return int(running_time.split(' ')[0])
+    else:
+        return None
