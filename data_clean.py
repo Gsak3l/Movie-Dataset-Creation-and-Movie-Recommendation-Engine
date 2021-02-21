@@ -1,5 +1,7 @@
 import re
 
+number = r'\d+(,\d{3})*\.*\d*'
+
 
 def clean_tags(soup):
     for tag in soup.find_all(['sup', 'span']):
@@ -26,3 +28,15 @@ def minute_to_integer(running_time):
             return int(running_time.split(' ')[0])
     else:
         return None
+
+
+# CASES
+# $12.2 million --> 12200000
+# $789.000 --> 790000
+def money_conversion(money):
+    value_string = re.search(number, money).group()
+    value = float(value_string.replace(',', ''))
+    return value
+
+
+print(money_conversion('$790,000.25'))
