@@ -13,15 +13,25 @@ $789.000 --> 790000
 '''
 
 
-def parse_value_syndax(string):
+def parse_value_syntax(string):
     value_string = re.search(number, string).group()
     value = float(value_string.replace(',', ''))
     return value
 
 
+def parse_word_syntax(string):
+    pass
+
+
 def money_conversion(money):
-    value_syntax = re.search(value_re, money).group()
+    word_syntax = re.search(word_re, money)
+    value_syntax = re.search(value_re, money)
+
+    if word_syntax:
+        return None
+    elif value_syntax:
+        return parse_value_syntax(value_syntax.group())
 
 
-print(re.search(word_re, '$12.2 million').group())
-
+print(money_conversion('$12.2 billion'))
+# print(re.search(word_re, '$12.2 million').group())
