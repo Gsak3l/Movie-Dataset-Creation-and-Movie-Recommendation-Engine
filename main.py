@@ -2,16 +2,27 @@ import json
 from get_disney_films import scrape_disney_films
 from data import save_data, load_data
 from data_clean import minute_to_integer
-from conversion import money_conversion
+from money_conversion import convert_money
+from date_conversion import convert_date
+
+
+def load_json_data():
+    movie_info_list_ = load_data('disney_data_cleaned.json')
+    print(json.dumps(movie_info_list_, indent=4), len(movie_info_list_))
+    return movie_info_list_
+
+
+def create_json_data():
+    movie_info_list_ = scrape_disney_films()
+    for movie in movie_info_list_:  # new fields
+        movie['Running time (int)'] = minute_to_integer(movie.get('Running time', 'N/A'))  # string to int
+        movie['Budget (float)'] = convert_money(movie.get('Budget', 'N/A'))  # string to float
+        movie['Box office (float)'] = convert_money(movie.get('Box office', 'N/A'))  # string to float
+        movie['Release date (datetime)'] = convert_date(movie.get('Release date', 'N/A'))  # string to datetime
+    save_data('disney_data_cleaned.json', movie_info_list_)
+    return movie_info_list_
+
 
 if __name__ == '__main__':
-    movie_info_list = scrape_disney_films()
-    # movie_info_list = load_data('disney_data_cleaned.json')
-
-    for movie in movie_info_list:  # new fields
-        movie['Running time (int)'] = minute_to_integer(movie.get('Running time', 'N/A'))  # string to int
-        movie['Budget (float)'] = money_conversion(movie.get('Budget', 'N/A'))  # string to float
-        movie['Box office (float)'] = money_conversion(movie.get('Box office', 'N/A'))  # string to float
-
-    save_data('disney_data_cleaned.json', movie_info_list)
-    print(json.dumps(movie_info_list, indent=4), len(movie_info_list))
+    movie_info_list = create_json_data()
+    print(movie_info_list)

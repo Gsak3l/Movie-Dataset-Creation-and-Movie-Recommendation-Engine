@@ -22,7 +22,7 @@ def parse_value_syntax(string):
     return float(re.search(number, stripped_string).group())
 
 
-def money_conversion(money):
+def convert_money(money):
     if money == 'N/A':
         return None
 
