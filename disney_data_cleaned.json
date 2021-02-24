@@ -11,7 +11,8 @@
     "Box office": "$45.472",
     "Running time (int)": 41,
     "Budget (float)": null,
-    "Box office (float)": 45.472
+    "Box office (float)": 45.472,
+    "Release date (datetime)": "1937-05-19 00:00:00"
   },
   {
     "title": "Snow White and the Seven Dwarfs",
@@ -69,7 +70,8 @@
     "Box office": "$418 million",
     "Running time (int)": 83,
     "Budget (float)": 1490000.0,
-    "Box office (float)": 418000000.0
+    "Box office (float)": 418000000.0,
+    "Release date (datetime)": "1937-12-21 00:00:00"
   },
   {
     "title": "Pinocchio",
@@ -125,7 +127,8 @@
     "Box office": "$164 million",
     "Running time (int)": 88,
     "Budget (float)": 2600000.0,
-    "Box office (float)": 164000000.0
+    "Box office (float)": 164000000.0,
+    "Release date (datetime)": "1940-02-07 00:00:00"
   },
   {
     "title": "Fantasia",
@@ -170,7 +173,8 @@
     "Box office": "$76.4–$83.3 million",
     "Running time (int)": 126,
     "Budget (float)": 2280000.0,
-    "Box office (float)": 83300000.0
+    "Box office (float)": 83300000.0,
+    "Release date (datetime)": "1940-11-13 00:00:00"
   },
   {
     "title": "The Reluctant Dragon",
@@ -231,7 +235,8 @@
     "Box office": "$960,000 (worldwide rentals)",
     "Running time (int)": 74,
     "Budget (float)": 600000.0,
-    "Box office (float)": 960000.0
+    "Box office (float)": 960000.0,
+    "Release date (datetime)": "1941-06-20 00:00:00"
   },
   {
     "title": "Dumbo",
@@ -285,7 +290,8 @@
     "Box office": "$1.3 million (est. United States/Canada rentals, 1941)",
     "Running time (int)": 64,
     "Budget (float)": 950000.0,
-    "Box office (float)": 1300000.0
+    "Box office (float)": 1300000.0,
+    "Release date (datetime)": "1941-10-23 00:00:00"
   },
   {
     "title": "Bambi",
@@ -337,7 +343,8 @@
     "Box office": "$267.4 million",
     "Running time (int)": 70,
     "Budget (float)": 858000.0,
-    "Box office (float)": 267399999.99999997
+    "Box office (float)": 267399999.99999997,
+    "Release date (datetime)": "1942-08-09 00:00:00"
   },
   {
     "title": "Saludos Amigos",
@@ -393,7 +400,8 @@
     "Box office": "$1,135,000 (worldwide rentals)",
     "Running time (int)": 42,
     "Budget (float)": null,
-    "Box office (float)": 1135000.0
+    "Box office (float)": 1135000.0,
+    "Release date (datetime)": "1942-08-24 00:00:00"
   },
   {
     "title": "Victory Through Air Power",
@@ -439,7 +447,8 @@
     "Box office": "$799,000",
     "Running time (int)": 65,
     "Budget (float)": 788000.0,
-    "Box office (float)": 799000.0
+    "Box office (float)": 799000.0,
+    "Release date (datetime)": "1943-07-17 00:00:00"
   },
   {
     "title": "The Three Caballeros",
@@ -489,7 +498,8 @@
     "Box office": "$3,355,000 (worldwide rentals)",
     "Running time (int)": 71,
     "Budget (float)": null,
-    "Box office (float)": 3355000.0
+    "Box office (float)": 3355000.0,
+    "Release date (datetime)": "1944-12-21 00:00:00"
   },
   {
     "title": "Make Mine Music",
@@ -551,7 +561,8 @@
     "Box office": "$3.275 million (worldwide rentals)",
     "Running time (int)": 75,
     "Budget (float)": 1350000.0,
-    "Box office (float)": 3275000.0
+    "Box office (float)": 3275000.0,
+    "Release date (datetime)": "1946-04-20 00:00:00"
   },
   {
     "title": "Song of the South",
@@ -605,7 +616,8 @@
     "Box office": "$65 million",
     "Running time (int)": 94,
     "Budget (float)": 2125000.0,
-    "Box office (float)": 65000000.0
+    "Box office (float)": 65000000.0,
+    "Release date (datetime)": "1946-11-12 00:00:00"
   },
   {
     "title": "Fun and Fancy Free",
@@ -661,7 +673,8 @@
     "Box office": "$3,165,000 (worldwide rentals)",
     "Running time (int)": 73,
     "Budget (float)": null,
-    "Box office (float)": 3165000.0
+    "Box office (float)": 3165000.0,
+    "Release date (datetime)": "1947-09-27 00:00:00"
   },
   {
     "title": "Melody Time",
@@ -721,7 +734,8 @@
     "Box office": "$2,560,000 (worldwide rentals)",
     "Running time (int)": 75,
     "Budget (float)": 1500000.0,
-    "Box office (float)": 2560000.0
+    "Box office (float)": 2560000.0,
+    "Release date (datetime)": "1948-05-27 00:00:00"
   },
   {
     "title": "So Dear to My Heart",
@@ -771,7 +785,8 @@
     "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental)",
     "Running time (int)": 82,
     "Budget (float)": 1500000.0,
-    "Box office (float)": 3700000.0
+    "Box office (float)": 3700000.0,
+    "Release date (datetime)": "1948-11-29 00:00:00"
   },
   {
     "title": "The Adventures of Ichabod and Mr. Toad",
@@ -826,7 +841,8 @@
     "Box office": "$1,625,000 (worldwide rentals)",
     "Running time (int)": 68,
     "Budget (float)": null,
-    "Box office (float)": 1625000.0
+    "Box office (float)": 1625000.0,
+    "Release date (datetime)": "1949-10-05 00:00:00"
   },
   {
     "title": "Cinderella",
@@ -885,7 +901,8 @@
     "Box office": "$263.6 million",
     "Running time (int)": 74,
     "Budget (float)": 2900000.0,
-    "Box office (float)": 263600000.00000003
+    "Box office (float)": 263600000.00000003,
+    "Release date (datetime)": "1950-02-15 00:00:00"
   },
   {
     "title": "Treasure Island",
@@ -925,7 +942,8 @@
     "Box office": "$4,100,000 (worldwide rentals)",
     "Running time (int)": 96,
     "Budget (float)": 1800000.0,
-    "Box office (float)": 4100000.0
+    "Box office (float)": 4100000.0,
+    "Release date (datetime)": "1950-06-22 00:00:00"
   },
   {
     "title": "Alice in Wonderland",
@@ -985,7 +1003,8 @@
     "Box office": "$5.6 million (US, 1951)",
     "Running time (int)": 75,
     "Budget (float)": 3000000.0,
-    "Box office (float)": 5600000.0
+    "Box office (float)": 5600000.0,
+    "Release date (datetime)": "1951-07-26 00:00:00"
   },
   {
     "title": "The Story of Robin Hood and His Merrie Men",
@@ -1020,7 +1039,8 @@
     "Box office": "$2.1 million (US rentals)",
     "Running time (int)": 84,
     "Budget (float)": null,
-    "Box office (float)": 2100000.0
+    "Box office (float)": 2100000.0,
+    "Release date (datetime)": "1952-03-13 00:00:00"
   },
   {
     "title": "Peter Pan",
@@ -1066,7 +1086,8 @@
     "Box office": "$87.4 million",
     "Running time (int)": 77,
     "Budget (float)": 4000000.0,
-    "Box office (float)": 87400000.0
+    "Box office (float)": 87400000.0,
+    "Release date (datetime)": "1953-02-05 00:00:00"
   },
   {
     "title": "The Sword and the Rose",
@@ -1115,7 +1136,8 @@
     "Box office": "$1 million (US)",
     "Running time (int)": 92,
     "Budget (float)": 2000000.0,
-    "Box office (float)": 1000000.0
+    "Box office (float)": 1000000.0,
+    "Release date (datetime)": "1953-08-08 00:00:00"
   },
   {
     "title": "The Living Desert",
@@ -1145,7 +1167,8 @@
     "Box office": "$2.6 million (US)",
     "Running time (int)": 69,
     "Budget (float)": 300000.0,
-    "Box office (float)": 2600000.0
+    "Box office (float)": 2600000.0,
+    "Release date (datetime)": "1953-11-10 00:00:00"
   },
   {
     "title": "Rob Roy, the Highland Rogue",
@@ -1181,7 +1204,8 @@
     "Budget": "$1.8 million",
     "Running time (int)": 81,
     "Budget (float)": 1800000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "The Vanishing Prairie",
@@ -1212,7 +1236,8 @@
     "Box office": "$1.75 million (US and Canadian rentals)",
     "Running time (int)": 60,
     "Budget (float)": null,
-    "Box office (float)": 1750000.0
+    "Box office (float)": 1750000.0,
+    "Release date (datetime)": "1954-08-17 00:00:00"
   },
   {
     "title": "20,000 Leagues Under the Sea",
@@ -1249,7 +1274,8 @@
     "Box office": "$28.2 million",
     "Running time (int)": 127,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 28200000.0
+    "Box office (float)": 28200000.0,
+    "Release date (datetime)": "1954-12-23 00:00:00"
   },
   {
     "title": "Davy Crockett, King of the Wild Frontier",
@@ -1277,7 +1303,8 @@
     "Box office": "$2,150,000 (US)",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": 2150000.0
+    "Box office (float)": 2150000.0,
+    "Release date (datetime)": "1955-05-25 00:00:00"
   },
   {
     "title": "Lady and the Tramp",
@@ -1322,7 +1349,8 @@
     "Box office": "$187 million",
     "Running time (int)": 76,
     "Budget (float)": 4000000.0,
-    "Box office (float)": 187000000.0
+    "Box office (float)": 187000000.0,
+    "Release date (datetime)": "1955-06-22 00:00:00"
   },
   {
     "title": "The African Lion",
@@ -1350,7 +1378,8 @@
     "Box office": "$2.1 million (US)",
     "Running time (int)": 75,
     "Budget (float)": null,
-    "Box office (float)": 2100000.0
+    "Box office (float)": 2100000.0,
+    "Release date (datetime)": "1955-09-14 00:00:00"
   },
   {
     "title": "The Littlest Outlaw",
@@ -1369,7 +1398,8 @@
     "Box office": "$1.6 million (US)",
     "Running time (int)": 73,
     "Budget (float)": null,
-    "Box office (float)": 1600000.0
+    "Box office (float)": 1600000.0,
+    "Release date (datetime)": "1955-12-22 00:00:00"
   },
   {
     "title": "The Great Locomotive Chase",
@@ -1398,7 +1428,8 @@
     "Box office": "$1.7 million (US)",
     "Running time (int)": 85,
     "Budget (float)": null,
-    "Box office (float)": 1700000.0
+    "Box office (float)": 1700000.0,
+    "Release date (datetime)": "1956-06-08 00:00:00"
   },
   {
     "title": "Davy Crockett and the River Pirates",
@@ -1428,7 +1459,8 @@
     "Language": "English",
     "Running time (int)": 81,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1956-07-18 00:00:00"
   },
   {
     "title": "Secrets of Life",
@@ -1463,7 +1495,8 @@
     "Language": "English",
     "Running time (int)": 70,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1956-11-06 00:00:00"
   },
   {
     "title": "Westward Ho the Wagons!",
@@ -1497,7 +1530,8 @@
     "Box office": "$2.75 million (US)",
     "Running time (int)": 90,
     "Budget (float)": null,
-    "Box office (float)": 2750000.0
+    "Box office (float)": 2750000.0,
+    "Release date (datetime)": "1956-12-20 00:00:00"
   },
   {
     "title": "Johnny Tremain",
@@ -1528,7 +1562,8 @@
     "Budget": "$700,000",
     "Running time (int)": 80,
     "Budget (float)": 700000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1957-06-19 00:00:00"
   },
   {
     "title": "Perri",
@@ -1572,7 +1607,8 @@
     "Box office": "$1.75 million (US rentals)",
     "Running time (int)": 75,
     "Budget (float)": null,
-    "Box office (float)": 1750000.0
+    "Box office (float)": 1750000.0,
+    "Release date (datetime)": "1957-08-28 00:00:00"
   },
   {
     "title": "Old Yeller",
@@ -1611,7 +1647,8 @@
     "Box office": "$6,250,000 (US/Canada rentals)",
     "Running time (int)": 83,
     "Budget (float)": null,
-    "Box office (float)": 6250000.0
+    "Box office (float)": 6250000.0,
+    "Release date (datetime)": "1957-12-25 00:00:00"
   },
   {
     "title": "The Light in the Forest",
@@ -1641,7 +1678,8 @@
     "Language": "English",
     "Running time (int)": 83,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1958-07-08 00:00:00"
   },
   {
     "title": "White Wilderness",
@@ -1665,7 +1703,8 @@
     "Box office": "$1.8 million (est. US/ Canada rentals)",
     "Running time (int)": 72,
     "Budget (float)": null,
-    "Box office (float)": 1800000.0
+    "Box office (float)": 1800000.0,
+    "Release date (datetime)": "1958-08-12 00:00:00"
   },
   {
     "title": "Tonka",
@@ -1708,7 +1747,8 @@
     "Box office": "$2.5 million (est. US/ Canada rentals)",
     "Running time (int)": 97,
     "Budget (float)": null,
-    "Box office (float)": 2500000.0
+    "Box office (float)": 2500000.0,
+    "Release date (datetime)": "1958-12-25 00:00:00"
   },
   {
     "title": "Sleeping Beauty",
@@ -1761,7 +1801,8 @@
     "Box office": "$51.6 million (United States/Canada)",
     "Running time (int)": 75,
     "Budget (float)": 6000000.0,
-    "Box office (float)": 51600000.0
+    "Box office (float)": 51600000.0,
+    "Release date (datetime)": "1959-01-29 00:00:00"
   },
   {
     "title": "The Shaggy Dog",
@@ -1802,7 +1843,8 @@
     "Box office": "$12.3 million (US and Canada rentals)",
     "Running time (int)": 104,
     "Budget (float)": 1000000.0,
-    "Box office (float)": 12300000.0
+    "Box office (float)": 12300000.0,
+    "Release date (datetime)": "1959-03-19 00:00:00"
   },
   {
     "title": "Darby O'Gill and the Little People",
@@ -1847,7 +1889,8 @@
     ],
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1959-06-24 00:00:00"
   },
   {
     "title": "Third Man on the Mountain",
@@ -1880,7 +1923,8 @@
     "Box office": "$1,700,000 (US/Canada rentals)",
     "Running time (int)": 105,
     "Budget (float)": 2000000.0,
-    "Box office (float)": 1700000.0
+    "Box office (float)": 1700000.0,
+    "Release date (datetime)": "1959-11-10 00:00:00"
   },
   {
     "title": "Toby Tyler",
@@ -1908,7 +1952,8 @@
     "Box office": "$3,100,000 (US/Canada rentals)",
     "Running time (int)": 95,
     "Budget (float)": null,
-    "Box office (float)": 3100000.0
+    "Box office (float)": 3100000.0,
+    "Release date (datetime)": "1960-01-21 00:00:00"
   },
   {
     "title": "Kidnapped",
@@ -1938,7 +1983,8 @@
     "Languages": "English, Scots",
     "Running time (int)": 97,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1960-02-24 00:00:00"
   },
   {
     "title": "Pollyanna",
@@ -1972,7 +2018,8 @@
     "Box office": "$3.75 million (US and Canadian rentals)",
     "Running time (int)": 134,
     "Budget (float)": 2500000.0,
-    "Box office (float)": 3750000.0
+    "Box office (float)": 3750000.0,
+    "Release date (datetime)": "1960-05-19 00:00:00"
   },
   {
     "title": "Jungle Cat",
@@ -1999,7 +2046,8 @@
     "Box office": "$2.3 million (US and Canadian rentals)",
     "Running time (int)": 69,
     "Budget (float)": null,
-    "Box office (float)": 2300000.0
+    "Box office (float)": 2300000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Ten Who Dared",
@@ -2036,7 +2084,8 @@
     "Language": "English",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1960-11-01 00:00:00"
   },
   {
     "title": "Swiss Family Robinson",
@@ -2082,7 +2131,8 @@
     "Box office": "$40 million",
     "Running time (int)": 126,
     "Budget (float)": 4000000.0,
-    "Box office (float)": 40000000.0
+    "Box office (float)": 40000000.0,
+    "Release date (datetime)": "1960-12-21 00:00:00"
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -2124,7 +2174,8 @@
     "Box office": "$303 million",
     "Running time (int)": 79,
     "Budget (float)": 3600000.0,
-    "Box office (float)": 303000000.0
+    "Box office (float)": 303000000.0,
+    "Release date (datetime)": "1961-01-25 00:00:00"
   },
   {
     "title": "The Absent-Minded Professor",
@@ -2161,7 +2212,8 @@
     "Box office": "$25.4 million",
     "Running time (int)": 97,
     "Budget (float)": null,
-    "Box office (float)": 25400000.0
+    "Box office (float)": 25400000.0,
+    "Release date (datetime)": "1961-03-16 00:00:00"
   },
   {
     "title": "The Parent Trap (simply known as The Parent Trap: A Laugh Affair )",
@@ -2200,7 +2252,8 @@
     "Box office": "$25.1 million",
     "Running time (int)": 128,
     "Budget (float)": null,
-    "Box office (float)": 25100000.0
+    "Box office (float)": 25100000.0,
+    "Release date (datetime)": "1961-06-21 00:00:00"
   },
   {
     "title": "Nikki, Wild Dog of the North",
@@ -2246,7 +2299,8 @@
     "Language": "English",
     "Running time (int)": 74,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1961-07-12 00:00:00"
   },
   {
     "title": "Greyfriars Bobby",
@@ -2273,7 +2327,8 @@
     "Language": "English",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1961-07-17 00:00:00"
   },
   {
     "title": "Babes in Toyland",
@@ -2316,7 +2371,8 @@
     "Box office": "$4.6 million (U.S./Canada rentals)",
     "Running time (int)": 105,
     "Budget (float)": 3000000.0,
-    "Box office (float)": 4600000.0
+    "Box office (float)": 4600000.0,
+    "Release date (datetime)": "1961-12-14 00:00:00"
   },
   {
     "title": "Moon Pilot",
@@ -2351,7 +2407,8 @@
     "Box office": "$3.5 million",
     "Running time (int)": 98,
     "Budget (float)": null,
-    "Box office (float)": 3500000.0
+    "Box office (float)": 3500000.0,
+    "Release date (datetime)": "1962-04-05 00:00:00"
   },
   {
     "title": "Bon Voyage!",
@@ -2384,7 +2441,8 @@
     "Box office": "$5 million (rentals)",
     "Running time (int)": 130,
     "Budget (float)": 3000000.0,
-    "Box office (float)": 5000000.0
+    "Box office (float)": 5000000.0,
+    "Release date (datetime)": "1962-05-17 00:00:00"
   },
   {
     "title": "Big Red",
@@ -2417,7 +2475,8 @@
     "Language": "English",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1962-06-06 00:00:00"
   },
   {
     "title": "Almost Angels",
@@ -2436,7 +2495,8 @@
     "Language": "English",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1962-09-26 00:00:00"
   },
   {
     "title": "The Legend of Lobo",
@@ -2481,7 +2541,8 @@
     "Language": "English",
     "Running time (int)": 67,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1962-11-07 00:00:00"
   },
   {
     "title": "In Search of the Castaways",
@@ -2524,7 +2585,8 @@
     "Box office": "$21,745,500",
     "Running time (int)": 98,
     "Budget (float)": null,
-    "Box office (float)": 21745500.0
+    "Box office (float)": 21745500.0,
+    "Release date (datetime)": "1962-11-14 00:00:00"
   },
   {
     "title": "Son of Flubber",
@@ -2557,7 +2619,8 @@
     "Box office": "$22.1 million",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 22100000.0
+    "Box office (float)": 22100000.0,
+    "Release date (datetime)": "1963-01-16 00:00:00"
   },
   {
     "title": "Miracle of the White Stallions",
@@ -2596,7 +2659,8 @@
     "Box office": "$2,550,000 (US/ Canada)",
     "Running time (int)": 118,
     "Budget (float)": null,
-    "Box office (float)": 2550000.0
+    "Box office (float)": 2550000.0,
+    "Release date (datetime)": "1963-03-29 00:00:00"
   },
   {
     "title": "Savage Sam",
@@ -2627,7 +2691,8 @@
     "Box office": "$3,000,000 (US/ Canada)",
     "Running time (int)": 103,
     "Budget (float)": null,
-    "Box office (float)": 3000000.0
+    "Box office (float)": 3000000.0,
+    "Release date (datetime)": "1963-06-01 00:00:00"
   },
   {
     "title": "Summer Magic",
@@ -2667,7 +2732,8 @@
     "Box office": "$4,350,000 (US/ Canada rentals)",
     "Running time (int)": 110,
     "Budget (float)": null,
-    "Box office (float)": 4350000.0
+    "Box office (float)": 4350000.0,
+    "Release date (datetime)": "1963-07-07 00:00:00"
   },
   {
     "title": "The Incredible Journey",
@@ -2705,7 +2771,8 @@
     "Box office": "$4.2 million (US/Canada) (rentals)",
     "Running time (int)": 80,
     "Budget (float)": null,
-    "Box office (float)": 4200000.0
+    "Box office (float)": 4200000.0,
+    "Release date (datetime)": "1963-11-20 00:00:00"
   },
   {
     "title": "The Sword in the Stone",
@@ -2739,7 +2806,8 @@
     "Box office": "$22.2 million",
     "Running time (int)": 79,
     "Budget (float)": 3000000.0,
-    "Box office (float)": 22200000.0
+    "Box office (float)": 22200000.0,
+    "Release date (datetime)": "1963-12-25 00:00:00"
   },
   {
     "title": "A Tiger Walks",
@@ -2771,7 +2839,8 @@
     "Box office": "est. $1,600,000 (US/ Canada)",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": 1600000.0
+    "Box office (float)": 1600000.0,
+    "Release date (datetime)": "1964-03-12 00:00:00"
   },
   {
     "title": "The Misadventures of Merlin Jones",
@@ -2806,7 +2875,8 @@
     "Box office": "$4,000,000 (US/ Canada)",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": 4000000.0
+    "Box office (float)": 4000000.0,
+    "Release date (datetime)": "1964-02-11 00:00:00"
   },
   {
     "title": "The Three Lives of Thomasina",
@@ -2852,7 +2922,8 @@
     "Box office": "$2,250,000 (US/ Canada)",
     "Running time (int)": 97,
     "Budget (float)": null,
-    "Box office (float)": 2250000.0
+    "Box office (float)": 2250000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "The Moon-Spinners",
@@ -2883,7 +2954,8 @@
     "Box office": "est. $3,500,000 (US/ Canada)",
     "Running time (int)": 118,
     "Budget (float)": null,
-    "Box office (float)": 3500000.0
+    "Box office (float)": 3500000.0,
+    "Release date (datetime)": "1964-07-02 00:00:00"
   },
   {
     "title": "Mary Poppins",
@@ -2929,7 +3001,8 @@
     "Box office": "$103.1 million",
     "Running time (int)": 139,
     "Budget (float)": 4.4,
-    "Box office (float)": 103100000.0
+    "Box office (float)": 103100000.0,
+    "Release date (datetime)": "1964-08-27 00:00:00"
   },
   {
     "title": "Emil and the Detectives",
@@ -2961,7 +3034,8 @@
     "Box office": "$1,275,000",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": 1275000.0
+    "Box office (float)": 1275000.0,
+    "Release date (datetime)": "1964-12-18 00:00:00"
   },
   {
     "title": "Those Calloways",
@@ -2997,7 +3071,8 @@
     "Box office": "$3,500,000 (US/ Canada rentals)",
     "Running time (int)": 131,
     "Budget (float)": null,
-    "Box office (float)": 3500000.0
+    "Box office (float)": 3500000.0,
+    "Release date (datetime)": "1965-01-28 00:00:00"
   },
   {
     "title": "The Monkey's Uncle",
@@ -3029,7 +3104,8 @@
     "Box office": "$4,000,000 (US/Canada rentals)",
     "Running time (int)": 87,
     "Budget (float)": null,
-    "Box office (float)": 4000000.0
+    "Box office (float)": 4000000.0,
+    "Release date (datetime)": "1965-08-18 00:00:00"
   },
   {
     "title": "That Darn Cat!",
@@ -3066,7 +3142,8 @@
     "Box office": "$28,068,222",
     "Running time (int)": 116,
     "Budget (float)": null,
-    "Box office (float)": 28068222.0
+    "Box office (float)": 28068222.0,
+    "Release date (datetime)": "1965-12-02 00:00:00"
   },
   {
     "title": "The Ugly Dachshund",
@@ -3102,7 +3179,8 @@
     "Box office": "$6.2 million (est. US/ Canada rentals)",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": 6200000.0
+    "Box office (float)": 6200000.0,
+    "Release date (datetime)": "1966-02-04 00:00:00"
   },
   {
     "title": "Lt. Robin Crusoe, U.S.N.",
@@ -3139,7 +3217,8 @@
     "Box office": "$22,565,634",
     "Running time (int)": 110,
     "Budget (float)": null,
-    "Box office (float)": 22565634.0
+    "Box office (float)": 22565634.0,
+    "Release date (datetime)": "1966-06-25 00:00:00"
   },
   {
     "title": "The Fighting Prince of Donegal",
@@ -3171,7 +3250,8 @@
     "Language": "English",
     "Running time (int)": 110,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1966-10-01 00:00:00"
   },
   {
     "title": "Follow Me, Boys!",
@@ -3215,7 +3295,8 @@
     "Box office": "$16,207,116",
     "Running time (int)": 131,
     "Budget (float)": null,
-    "Box office (float)": 16207116.0
+    "Box office (float)": 16207116.0,
+    "Release date (datetime)": "1966-12-01 00:00:00"
   },
   {
     "title": "Monkeys, Go Home!",
@@ -3241,7 +3322,8 @@
     "Box office": "$3,000,000 (US/ Canada)",
     "Running time (int)": 101,
     "Budget (float)": null,
-    "Box office (float)": 3000000.0
+    "Box office (float)": 3000000.0,
+    "Release date (datetime)": "1967-02-08 00:00:00"
   },
   {
     "title": "The Adventures of Bullwhip Griffin",
@@ -3277,7 +3359,8 @@
     "Box office": "$1,900,000 (US/ Canada)",
     "Running time (int)": 108,
     "Budget (float)": null,
-    "Box office (float)": 1900000.0
+    "Box office (float)": 1900000.0,
+    "Release date (datetime)": "1967-03-08 00:00:00"
   },
   {
     "title": "The Gnome-Mobile",
@@ -3317,7 +3400,8 @@
     "Box office": "$4,000,000 (US/ Canada)",
     "Running time (int)": 84,
     "Budget (float)": null,
-    "Box office (float)": 4000000.0
+    "Box office (float)": 4000000.0,
+    "Release date (datetime)": "1967-07-12 00:00:00"
   },
   {
     "title": "The Jungle Book",
@@ -3362,7 +3446,8 @@
     "Box office": "$378 million",
     "Running time (int)": 78,
     "Budget (float)": 4000000.0,
-    "Box office (float)": 378000000.0
+    "Box office (float)": 378000000.0,
+    "Release date (datetime)": "1967-10-18 00:00:00"
   },
   {
     "title": "Charlie, the Lonesome Cougar",
@@ -3400,7 +3485,8 @@
     "Language": "English",
     "Running time (int)": 75,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1967-10-19 00:00:00"
   },
   {
     "title": "The Happiest Millionaire",
@@ -3456,7 +3542,8 @@
     "Box office": "$5 million (U.S./Canada rentals)",
     "Running time (int)": 164,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 5000000.0
+    "Box office (float)": 5000000.0,
+    "Release date (datetime)": "1967-06-23 00:00:00"
   },
   {
     "title": "Blackbeard's Ghost",
@@ -3490,7 +3577,8 @@
     "Box office": "$21,540,050",
     "Running time (int)": 106,
     "Budget (float)": null,
-    "Box office (float)": 21540050.0
+    "Box office (float)": 21540050.0,
+    "Release date (datetime)": "1968-02-08 00:00:00"
   },
   {
     "title": "The One and Only, Genuine, Original Family Band",
@@ -3529,7 +3617,8 @@
     "Box office": "$2,250,000 (US/ Canada)",
     "Running time (int)": 110,
     "Budget (float)": null,
-    "Box office (float)": 2250000.0
+    "Box office (float)": 2250000.0,
+    "Release date (datetime)": "1968-03-21 00:00:00"
   },
   {
     "title": "Never a Dull Moment",
@@ -3560,7 +3649,8 @@
     "Box office": "$4,150,000 (US/ Canada rentals)",
     "Running time (int)": 99,
     "Budget (float)": null,
-    "Box office (float)": 4150000.0
+    "Box office (float)": 4150000.0,
+    "Release date (datetime)": "1968-06-26 00:00:00"
   },
   {
     "title": "The Horse in the Gray Flannel Suit",
@@ -3594,7 +3684,8 @@
     "Box office": "$3.3 million  (US/ Canada rentals)",
     "Running time (int)": 113,
     "Budget (float)": null,
-    "Box office (float)": 3300000.0
+    "Box office (float)": 3300000.0,
+    "Release date (datetime)": "1968-12-20 00:00:00"
   },
   {
     "title": "The Love Bug",
@@ -3626,7 +3717,8 @@
     "Box office": "$51,264,000",
     "Running time (int)": 108,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 51264000.0
+    "Box office (float)": 51264000.0,
+    "Release date (datetime)": "1969-07-23 00:00:00"
   },
   {
     "title": "Smith!",
@@ -3648,7 +3740,8 @@
     "Box office": "$1.3 million (US/ Canada rentals)",
     "Running time (int)": 112,
     "Budget (float)": null,
-    "Box office (float)": 1300000.0
+    "Box office (float)": 1300000.0,
+    "Release date (datetime)": "1969-03-21 00:00:00"
   },
   {
     "title": "Rascal",
@@ -3679,7 +3772,8 @@
     "Language": "English",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1969-06-11 00:00:00"
   },
   {
     "title": "The Computer Wore Tennis Shoes",
@@ -3707,7 +3801,8 @@
     "Box office": "$5.5 million (US/ Canada rentals)",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": 5500000.0
+    "Box office (float)": 5500000.0,
+    "Release date (datetime)": "1969-12-31 00:00:00"
   },
   {
     "title": "King of the Grizzlies",
@@ -3746,7 +3841,8 @@
     "Language": "English",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1970-02-11 00:00:00"
   },
   {
     "title": "The Boatniks",
@@ -3778,7 +3874,8 @@
     "Box office": "$18,607,492",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 18607492.0
+    "Box office (float)": 18607492.0,
+    "Release date (datetime)": "1970-07-01 00:00:00"
   },
   {
     "title": "The Wild Country",
@@ -3807,7 +3904,8 @@
     "Box office": "$4 million (rentals) (US/Canada)",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 4000000.0
+    "Box office (float)": 4000000.0,
+    "Release date (datetime)": "1970-12-15 00:00:00"
   },
   {
     "title": "The Aristocats",
@@ -3856,7 +3954,8 @@
     "Box office": "$191 million",
     "Running time (int)": 79,
     "Budget (float)": 4000000.0,
-    "Box office (float)": 191000000.0
+    "Box office (float)": 191000000.0,
+    "Release date (datetime)": "1970-12-11 00:00:00"
   },
   {
     "title": "The Barefoot Executive",
@@ -3888,7 +3987,8 @@
     "Language": "English",
     "Running time (int)": 96,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1971-03-17 00:00:00"
   },
   {
     "title": "Scandalous John",
@@ -3910,7 +4010,8 @@
     "Language": "English",
     "Running time (int)": 113,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1971-06-22 00:00:00"
   },
   {
     "title": "The Million Dollar Duck",
@@ -3940,7 +4041,8 @@
     "Box office": "$5.1 million (North America) (rentals)",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": 5100000.0
+    "Box office (float)": 5100000.0,
+    "Release date (datetime)": "1971-06-30 00:00:00"
   },
   {
     "title": "Bedknobs and Broomsticks",
@@ -3984,7 +4086,8 @@
     "Box office": "$17.9 million",
     "Running time (int)": 118,
     "Budget (float)": 6300000.0,
-    "Box office (float)": 17900000.0
+    "Box office (float)": 17900000.0,
+    "Release date (datetime)": "1971-10-07 00:00:00"
   },
   {
     "title": "The Biscuit Eater",
@@ -4011,7 +4114,8 @@
     "Language": "English",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1972-03-22 00:00:00"
   },
   {
     "title": "Now You See Him, Now You Don't",
@@ -4038,7 +4142,8 @@
     "Box office": "$4,610,000 (US/Canada) (rentals)",
     "Running time (int)": 88,
     "Budget (float)": null,
-    "Box office (float)": 4610000.0
+    "Box office (float)": 4610000.0,
+    "Release date (datetime)": "1972-07-12 00:00:00"
   },
   {
     "title": "Napoleon and Samantha",
@@ -4063,7 +4168,8 @@
     "Language": "English",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1972-07-05 00:00:00"
   },
   {
     "title": "Run, Cougar, Run",
@@ -4096,7 +4202,8 @@
     "Language": "English",
     "Running time (int)": 87,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1972-10-18 00:00:00"
   },
   {
     "title": "Snowball Express",
@@ -4141,7 +4248,8 @@
     "Box office": "$6,100,000 (US/ Canada rentals)",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": 6100000.0
+    "Box office (float)": 6100000.0,
+    "Release date (datetime)": "1972-12-22 00:00:00"
   },
   {
     "title": "The World's Greatest Athlete",
@@ -4169,7 +4277,8 @@
     "Box office": "$22,583,370",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": 22583370.0
+    "Box office (float)": 22583370.0,
+    "Release date (datetime)": "1973-02-01 00:00:00"
   },
   {
     "title": "Charley and the Angel",
@@ -4206,7 +4315,8 @@
     "Language": "English",
     "Running time (int)": 93,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1973-03-23 00:00:00"
   },
   {
     "title": "One Little Indian",
@@ -4234,7 +4344,8 @@
     "Box office": "$2 million",
     "Running time (int)": 90,
     "Budget (float)": null,
-    "Box office (float)": 2000000.0
+    "Box office (float)": 2000000.0,
+    "Release date (datetime)": "1973-06-20 00:00:00"
   },
   {
     "title": "Robin Hood",
@@ -4277,7 +4388,8 @@
     "Box office": "$32 million",
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 32000000.0
+    "Box office (float)": 32000000.0,
+    "Release date (datetime)": "1973-11-08 00:00:00"
   },
   {
     "title": "Superdad",
@@ -4308,7 +4420,8 @@
     "Box office": "$7 million (US/Canada rentals)",
     "Running time (int)": 96,
     "Budget (float)": null,
-    "Box office (float)": 7000000.0
+    "Box office (float)": 7000000.0,
+    "Release date (datetime)": "1973-12-14 00:00:00"
   },
   {
     "title": "Herbie Rides Again",
@@ -4344,7 +4457,8 @@
     ],
     "Running time (int)": 88,
     "Budget (float)": null,
-    "Box office (float)": 38229000.0
+    "Box office (float)": 38229000.0,
+    "Release date (datetime)": "1974-06-06 00:00:00"
   },
   {
     "title": "The Bears and I",
@@ -4377,7 +4491,8 @@
     "Box office": "$4 million (rentals) (US/Canada)",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": 4000000.0
+    "Box office (float)": 4000000.0,
+    "Release date (datetime)": "1974-07-31 00:00:00"
   },
   {
     "title": "The Castaway Cowboy",
@@ -4406,7 +4521,8 @@
     "Language": "English",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1974-08-01 00:00:00"
   },
   {
     "title": "The Island at the Top of the World",
@@ -4444,7 +4560,8 @@
     "Box office": "$10 million (US/Canada rentals)",
     "Running time (int)": 93,
     "Budget (float)": 8000000.0,
-    "Box office (float)": 10000000.0
+    "Box office (float)": 10000000.0,
+    "Release date (datetime)": "1974-12-20 00:00:00"
   },
   {
     "title": "The Strongest Man in the World",
@@ -4475,7 +4592,8 @@
     "Box office": "$6.6 million (US/Canada rentals)",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": 6600000.0
+    "Box office (float)": 6600000.0,
+    "Release date (datetime)": "1975-02-06 00:00:00"
   },
   {
     "title": "Escape to Witch Mountain",
@@ -4511,7 +4629,8 @@
     "Box office": "$20,000,000",
     "Running time (int)": 97,
     "Budget (float)": null,
-    "Box office (float)": 20000000.0
+    "Box office (float)": 20000000.0,
+    "Release date (datetime)": "1975-03-21 00:00:00"
   },
   {
     "title": "The Apple Dumpling Gang",
@@ -4549,7 +4668,8 @@
     "Box office": "$36,853,000",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 36853000.0
+    "Box office (float)": 36853000.0,
+    "Release date (datetime)": "1975-07-24 00:00:00"
   },
   {
     "title": "One of Our Dinosaurs is Missing",
@@ -4580,7 +4700,8 @@
     "Box office": "$5.5 million (North American rentals)",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 5500000.0
+    "Box office (float)": 5500000.0,
+    "Release date (datetime)": "1975-07-09 00:00:00"
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
@@ -4628,7 +4749,8 @@
     "Language": "English",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1975-10-08 00:00:00"
   },
   {
     "title": "Ride a Wild Pony",
@@ -4666,7 +4788,8 @@
     "Budget": "AU$1 million",
     "Running time (int)": 91,
     "Budget (float)": 1000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1975-12-25 00:00:00"
   },
   {
     "title": "No Deposit, No Return",
@@ -4699,7 +4822,8 @@
     "Language": "English",
     "Running time (int)": 112,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1976-02-11 00:00:00"
   },
   {
     "title": "Treasure of Matecumbe",
@@ -4735,7 +4859,8 @@
     "Language": "English",
     "Running time (int)": 115,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1976-07-01 00:00:00"
   },
   {
     "title": "Gus",
@@ -4771,7 +4896,8 @@
     "Box office": "$21,873,000",
     "Running time (int)": 95,
     "Budget (float)": null,
-    "Box office (float)": 21873000.0
+    "Box office (float)": 21873000.0,
+    "Release date (datetime)": "1976-07-07 00:00:00"
   },
   {
     "title": "The Shaggy D.A.",
@@ -4805,7 +4931,8 @@
     "Box office": "$10.5 million (US and Canada rentals)",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": 10500000.0
+    "Box office (float)": 10500000.0,
+    "Release date (datetime)": "1976-12-17 00:00:00"
   },
   {
     "title": "Freaky Friday: THe Movie",
@@ -4836,7 +4963,8 @@
     "Box office": "$36 million",
     "Running time (int)": 95,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 36000000.0
+    "Box office (float)": 36000000.0,
+    "Release date (datetime)": "1976-12-18 00:00:00"
   },
   {
     "title": "Escape from the Dark",
@@ -4874,7 +5002,8 @@
     "Language": "English",
     "Running time (int)": 104,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1976-05-26 00:00:00"
   },
   {
     "title": "The Many Adventures of",
@@ -4930,7 +5059,8 @@
     "Language": "English",
     "Running time (int)": 74,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1977-03-11 00:00:00"
   },
   {
     "title": "A Tale of Two Critters",
@@ -4950,7 +5080,8 @@
     "Language": "English",
     "Running time (int)": 48,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1977-06-22 00:00:00"
   },
   {
     "title": "The Rescuers",
@@ -5010,7 +5141,8 @@
     "Box office": "$169 million",
     "Running time (int)": 77,
     "Budget (float)": 7500000.0,
-    "Box office (float)": 169000000.0
+    "Box office (float)": 169000000.0,
+    "Release date (datetime)": "1977-06-22 00:00:00"
   },
   {
     "title": "Herbie Goes to Monte Carlo",
@@ -5049,7 +5181,8 @@
     "Box office": "$29 million",
     "Running time (int)": 104,
     "Budget (float)": null,
-    "Box office (float)": 29000000.0
+    "Box office (float)": 29000000.0,
+    "Release date (datetime)": "1977-06-24 00:00:00"
   },
   {
     "title": "Pete's Dragon",
@@ -5090,7 +5223,8 @@
     "Box office": "$36 –39.6 million",
     "Running time (int)": 128,
     "Budget (float)": 10000000.0,
-    "Box office (float)": 36.0
+    "Box office (float)": 36.0,
+    "Release date (datetime)": "1977-11-03 00:00:00"
   },
   {
     "title": "Candleshoe",
@@ -5118,7 +5252,8 @@
     "Language": "English",
     "Running time (int)": 101,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1977-12-16 00:00:00"
   },
   {
     "title": "Return from Witch Mountain",
@@ -5150,7 +5285,8 @@
     "Language": "English",
     "Running time (int)": 94,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1978-03-10 00:00:00"
   },
   {
     "title": "The Cat from Outer Space",
@@ -5179,7 +5315,8 @@
     "Budget": "$3.5 to 4 million",
     "Running time (int)": 104,
     "Budget (float)": 3500000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1978-06-30 00:00:00"
   },
   {
     "title": "Hot Lead and Cold Feet",
@@ -5209,7 +5346,8 @@
     "Language": "English",
     "Running time (int)": 90,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1978-07-05 00:00:00"
   },
   {
     "title": "The North Avenue Irregulars",
@@ -5245,7 +5383,8 @@
     "Language": "English",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1979-02-09 00:00:00"
   },
   {
     "title": "The Apple Dumpling Gang Rides Again",
@@ -5281,7 +5420,8 @@
     "Box office": "$20,931,111",
     "Running time (int)": 88,
     "Budget (float)": null,
-    "Box office (float)": 20931111.0
+    "Box office (float)": 20931111.0,
+    "Release date (datetime)": "1979-06-27 00:00:00"
   },
   {
     "title": "Unidentified Flying Oddball",
@@ -5314,7 +5454,8 @@
     "Budget": "$5.25 million",
     "Running time (int)": 93,
     "Budget (float)": 5250000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1979-07-19 00:00:00"
   },
   {
     "title": "The Black Hole",
@@ -5358,7 +5499,8 @@
     ],
     "Running time (int)": 98,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 35800000.0
+    "Box office (float)": 35800000.0,
+    "Release date (datetime)": "1979-12-18 00:00:00"
   },
   {
     "title": "The Omega Connection",
@@ -5386,7 +5528,8 @@
     "Language": "English",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1979-12-21 00:00:00"
   },
   {
     "title": "Midnight Madness",
@@ -5426,7 +5569,8 @@
     "Box office": "$2.9 million",
     "Running time (int)": 112,
     "Budget (float)": null,
-    "Box office (float)": 2900000.0
+    "Box office (float)": 2900000.0,
+    "Release date (datetime)": "1980-02-08 00:00:00"
   },
   {
     "title": "The Watcher in the Woods",
@@ -5468,7 +5612,8 @@
     "Box office": "$5 million",
     "Running time (int)": 84,
     "Budget (float)": 9000000.0,
-    "Box office (float)": 5000000.0
+    "Box office (float)": 5000000.0,
+    "Release date (datetime)": "1980-04-17 00:00:00"
   },
   {
     "title": "Herbie Goes Bananas",
@@ -5508,7 +5653,8 @@
     "Box office": "$18 million",
     "Running time (int)": 98,
     "Budget (float)": null,
-    "Box office (float)": 18000000.0
+    "Box office (float)": 18000000.0,
+    "Release date (datetime)": "1980-06-27 00:00:00"
   },
   {
     "title": "The Last Flight of Noah's Ark",
@@ -5547,7 +5693,8 @@
     "Box office": "$11 million",
     "Running time (int)": 97,
     "Budget (float)": 6000000.0,
-    "Box office (float)": 11000000.0
+    "Box office (float)": 11000000.0,
+    "Release date (datetime)": "1980-07-09 00:00:00"
   },
   {
     "title": "Popeye",
@@ -5592,7 +5739,8 @@
     "Box office": "$60 million",
     "Running time (int)": 114,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 60000000.0
+    "Box office (float)": 60000000.0,
+    "Release date (datetime)": "1980-12-06 00:00:00"
   },
   {
     "title": "The Devil and Max Devlin",
@@ -5629,7 +5777,8 @@
     "Box office": "$16 million (USA)",
     "Running time (int)": 96,
     "Budget (float)": null,
-    "Box office (float)": 16000000.0
+    "Box office (float)": 16000000.0,
+    "Release date (datetime)": "1981-02-11 00:00:00"
   },
   {
     "title": "Amy",
@@ -5656,7 +5805,8 @@
     "Language": "English",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1981-03-20 00:00:00"
   },
   {
     "title": "Dragonslayer",
@@ -5700,7 +5850,8 @@
     "Box office": "$14.1 million",
     "Running time (int)": 109,
     "Budget (float)": 18000000.0,
-    "Box office (float)": 14100000.0
+    "Box office (float)": 14100000.0,
+    "Release date (datetime)": "1981-06-26 00:00:00"
   },
   {
     "title": "The Fox and the Hound",
@@ -5761,7 +5912,8 @@
     "Box office": "$63.5 million",
     "Running time (int)": 83,
     "Budget (float)": 12000000.0,
-    "Box office (float)": 63500000.0
+    "Box office (float)": 63500000.0,
+    "Release date (datetime)": "1981-07-10 00:00:00"
   },
   {
     "title": "Condorman",
@@ -5797,7 +5949,8 @@
     "Budget": "$14 million",
     "Running time (int)": 90,
     "Budget (float)": 14000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1981-08-07 00:00:00"
   },
   {
     "title": "Night Crossing",
@@ -5827,7 +5980,8 @@
     "Box office": "$8 million",
     "Running time (int)": 107,
     "Budget (float)": null,
-    "Box office (float)": 8000000.0
+    "Box office (float)": 8000000.0,
+    "Release date (datetime)": "1982-02-05 00:00:00"
   },
   {
     "title": "Tron",
@@ -5863,7 +6017,8 @@
     "Box office": "",
     "Running time (int)": 96,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1982-07-09 00:00:00"
   },
   {
     "title": "Tex",
@@ -5901,7 +6056,8 @@
     "Box office": "$7.4 million",
     "Running time (int)": 103,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 7400000.0
+    "Box office (float)": 7400000.0,
+    "Release date (datetime)": "1982-07-30 00:00:00"
   },
   {
     "title": "Trenchcoat",
@@ -5933,7 +6089,8 @@
     "Box office": "$4,304,286 (US)",
     "Running time (int)": 91,
     "Budget (float)": null,
-    "Box office (float)": 4304286.0
+    "Box office (float)": 4304286.0,
+    "Release date (datetime)": "1983-03-11 00:00:00"
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -5971,7 +6128,8 @@
     "Box office": "$8.4 million",
     "Running time (int)": 95,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 8400000.0
+    "Box office (float)": 8400000.0,
+    "Release date (datetime)": "1983-04-29 00:00:00"
   },
   {
     "title": "Never Cry Wolf",
@@ -6020,7 +6178,8 @@
     "Box office": "$27.6 million",
     "Running time (int)": 105,
     "Budget (float)": 11000000.0,
-    "Box office (float)": 27600000.0
+    "Box office (float)": 27600000.0,
+    "Release date (datetime)": "1983-10-07 00:00:00"
   },
   {
     "title": "Return to Oz",
@@ -6069,7 +6228,8 @@
     "Box office": "$11.1 million (USA)",
     "Running time (int)": 113,
     "Budget (float)": 28000000.0,
-    "Box office (float)": 11100000.0
+    "Box office (float)": 11100000.0,
+    "Release date (datetime)": "1985-06-21 00:00:00"
   },
   {
     "title": "The Black Cauldron",
@@ -6133,7 +6293,8 @@
     "Box office": "$21.3 million",
     "Running time (int)": 80,
     "Budget (float)": 44000000.0,
-    "Box office (float)": 21300000.0
+    "Box office (float)": 21300000.0,
+    "Release date (datetime)": "1985-07-26 00:00:00"
   },
   {
     "title": "The Journey of Natty Gann",
@@ -6170,7 +6331,8 @@
     "Box office": "$9.7 million (U.S. and Canada only)",
     "Running time (int)": 101,
     "Budget (float)": null,
-    "Box office (float)": 9700000.0
+    "Box office (float)": 9700000.0,
+    "Release date (datetime)": "1985-09-27 00:00:00"
   },
   {
     "title": "One Magic Christmas",
@@ -6211,7 +6373,8 @@
     "Box office": "$13 million",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": 13000000.0
+    "Box office (float)": 13000000.0,
+    "Release date (datetime)": "1985-11-22 00:00:00"
   },
   {
     "title": "The Great Mouse Detective",
@@ -6268,7 +6431,8 @@
     "Box office": "$38.7 million",
     "Running time (int)": 74,
     "Budget (float)": 14000000.0,
-    "Box office (float)": 38700000.0
+    "Box office (float)": 38700000.0,
+    "Release date (datetime)": "1986-07-02 00:00:00"
   },
   {
     "title": "Flight of the Navigator",
@@ -6316,7 +6480,8 @@
     "Box office": "$18,564,613",
     "Running time (int)": 90,
     "Budget (float)": 9000000.0,
-    "Box office (float)": 18564613.0
+    "Box office (float)": 18564613.0,
+    "Release date (datetime)": "1986-08-01 00:00:00"
   },
   {
     "title": "Benji the Hunted",
@@ -6349,7 +6514,8 @@
     "Box office": "$22.3 million",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": 22300000.0
+    "Box office (float)": 22300000.0,
+    "Release date (datetime)": "1987-06-05 00:00:00"
   },
   {
     "title": "The Man from Snowy River II",
@@ -6391,7 +6557,8 @@
     "Box office": "$13,687,027",
     "Running time (int)": 110,
     "Budget (float)": 8700000.0,
-    "Box office (float)": 13687027.0
+    "Box office (float)": 13687027.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Oliver & Company",
@@ -6449,7 +6616,8 @@
     "Box office": ">$121 million",
     "Running time (int)": 74,
     "Budget (float)": 31000000.0,
-    "Box office (float)": 121000000.0
+    "Box office (float)": 121000000.0,
+    "Release date (datetime)": "1988-11-18 00:00:00"
   },
   {
     "title": "Honey, I Shrunk the Kids",
@@ -6488,7 +6656,8 @@
     "Box office": "$222.7 million",
     "Running time (int)": 93,
     "Budget (float)": 18000000.0,
-    "Box office (float)": 222700000.0
+    "Box office (float)": 222700000.0,
+    "Release date (datetime)": "1989-06-23 00:00:00"
   },
   {
     "title": "Cheetah",
@@ -6529,7 +6698,8 @@
     "Box office": "$8,153,677 (United States)",
     "Running time (int)": 84,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 8153677.0
+    "Box office (float)": 8153677.0,
+    "Release date (datetime)": "1989-08-18 00:00:00"
   },
   {
     "title": "The Little Mermaid",
@@ -6582,7 +6752,8 @@
     "Box office": "",
     "Running time (int)": 83,
     "Budget (float)": 40000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1989-11-17 00:00:00"
   },
   {
     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
@@ -6626,7 +6797,8 @@
     "Box office": "$18.1 million",
     "Running time (int)": 69,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 18100000.0
+    "Box office (float)": 18100000.0,
+    "Release date (datetime)": "1990-08-03 00:00:00"
   },
   {
     "title": "The Rescuers Down Under",
@@ -6671,7 +6843,8 @@
     "Box office": "$47.4 million",
     "Running time (int)": 77,
     "Budget (float)": null,
-    "Box office (float)": 47400000.0
+    "Box office (float)": 47400000.0,
+    "Release date (datetime)": "1990-11-16 00:00:00"
   },
   {
     "title": "White Fang",
@@ -6716,7 +6889,8 @@
     "Box office": "$34.8 million",
     "Running time (int)": 107,
     "Budget (float)": 14000000.0,
-    "Box office (float)": 34800000.0
+    "Box office (float)": 34800000.0,
+    "Release date (datetime)": "1991-01-18 00:00:00"
   },
   {
     "title": "Shipwrecked",
@@ -6762,7 +6936,8 @@
     "Box office": "$15.1 million",
     "Running time (int)": 93,
     "Budget (float)": 8700000.0,
-    "Box office (float)": 15100000.0
+    "Box office (float)": 15100000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Wild Hearts Can't Be Broken",
@@ -6796,7 +6971,8 @@
     "Box office": "$7.3 million",
     "Running time (int)": 88,
     "Budget (float)": null,
-    "Box office (float)": 7300000.0
+    "Box office (float)": 7300000.0,
+    "Release date (datetime)": "1991-05-24 00:00:00"
   },
   {
     "title": "The Rocketeer",
@@ -6849,7 +7025,8 @@
     "Box office": "$46.7 million (USA)",
     "Running time (int)": 108,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 46700000.0
+    "Box office (float)": 46700000.0,
+    "Release date (datetime)": "1991-06-21 00:00:00"
   },
   {
     "title": "Beauty and the Beast",
@@ -6906,7 +7083,8 @@
     "Box office": "$440.1 million",
     "Running time (int)": 84,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 440100000.0
+    "Box office (float)": 440100000.0,
+    "Release date (datetime)": "1991-09-29 00:00:00"
   },
   {
     "title": "Newsies",
@@ -6952,7 +7130,8 @@
     "Box office": "$2.8 million",
     "Running time (int)": 121,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 2800000.0
+    "Box office (float)": 2800000.0,
+    "Release date (datetime)": "1992-04-10 00:00:00"
   },
   {
     "title": "Honey, I Blew Up the Kid",
@@ -7000,7 +7179,8 @@
     "Box office": "$96 million",
     "Running time (int)": 89,
     "Budget (float)": 40000000.0,
-    "Box office (float)": 96000000.0
+    "Box office (float)": 96000000.0,
+    "Release date (datetime)": "1992-07-17 00:00:00"
   },
   {
     "title": "The Mighty Ducks",
@@ -7037,7 +7217,8 @@
     "Box office": "$50.8 million",
     "Running time (int)": 104,
     "Budget (float)": 14000000.0,
-    "Box office (float)": 50800000.0
+    "Box office (float)": 50800000.0,
+    "Release date (datetime)": "1992-10-02 00:00:00"
   },
   {
     "title": "Aladdin",
@@ -7103,7 +7284,8 @@
     "Box office": "$504.1 million",
     "Running time (int)": 90,
     "Budget (float)": 28000000.0,
-    "Box office (float)": 504100000.0
+    "Box office (float)": 504100000.0,
+    "Release date (datetime)": "1992-11-25 00:00:00"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -7148,7 +7330,8 @@
     "Box office": "$27.2 million",
     "Running time (int)": 86,
     "Budget (float)": 12000000.0,
-    "Box office (float)": 27200000.0
+    "Box office (float)": 27200000.0,
+    "Release date (datetime)": "1992-12-11 00:00:00"
   },
   {
     "title": "Homeward Bound: The Incredible Journey",
@@ -7191,7 +7374,8 @@
     "Box office": "$57 million",
     "Running time (int)": 84,
     "Budget (float)": null,
-    "Box office (float)": 57000000.0
+    "Box office (float)": 57000000.0,
+    "Release date (datetime)": "1993-02-03 00:00:00"
   },
   {
     "title": "A Far Off Place",
@@ -7236,7 +7420,8 @@
     "Box office": "$12.9 million",
     "Running time (int)": 108,
     "Budget (float)": null,
-    "Box office (float)": 12900000.0
+    "Box office (float)": 12900000.0,
+    "Release date (datetime)": "1993-03-12 00:00:00"
   },
   {
     "title": "The Adventures of Huck Finn",
@@ -7272,7 +7457,8 @@
     "Box office": "$24.1 million",
     "Running time (int)": 107,
     "Budget (float)": 6500000.0,
-    "Box office (float)": 24100000.0
+    "Box office (float)": 24100000.0,
+    "Release date (datetime)": "1993-04-02 00:00:00"
   },
   {
     "title": "Hocus Pocus",
@@ -7312,7 +7498,8 @@
     "Box office": "$44.9 million",
     "Running time (int)": 96,
     "Budget (float)": 28000000.0,
-    "Box office (float)": 44900000.0
+    "Box office (float)": 44900000.0,
+    "Release date (datetime)": "1993-07-16 00:00:00"
   },
   {
     "title": "Cool Runnings",
@@ -7353,15 +7540,15 @@
     "Box office": "$154.9 million",
     "Running time (int)": 98,
     "Budget (float)": 17000000.0,
-    "Box office (float)": 154900000.0
+    "Box office (float)": 154900000.0,
+    "Release date (datetime)": "1993-10-01 00:00:00"
   },
   {
     "title": "The Three Musketeers",
     "Directed by": "Stephen Herek",
     "Produced by": [
       "Roger Birnbaum",
-      "Joe Roth",
-      "Jon Avnet"
+      "Joe Roth"
     ],
     "Screenplay by": "David Loughery",
     "Based on": [
@@ -7397,7 +7584,8 @@
     "Box office": "$53.9 million",
     "Running time (int)": 105,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 53900000.0
+    "Box office (float)": 53900000.0,
+    "Release date (datetime)": "1993-11-12 00:00:00"
   },
   {
     "title": "Iron Will",
@@ -7432,7 +7620,8 @@
     "Box office": "$21 million",
     "Running time (int)": 108,
     "Budget (float)": null,
-    "Box office (float)": 21000000.0
+    "Box office (float)": 21000000.0,
+    "Release date (datetime)": "1994-01-14 00:00:00"
   },
   {
     "title": "Blank Check",
@@ -7473,7 +7662,8 @@
     "Box office": "$39 million",
     "Running time (int)": 94,
     "Budget (float)": 13000000.0,
-    "Box office (float)": 39000000.0
+    "Box office (float)": 39000000.0,
+    "Release date (datetime)": "1994-02-11 00:00:00"
   },
   {
     "title": "D2: The Mighty Ducks",
@@ -7513,7 +7703,8 @@
     "Box office": "$45.6 million",
     "Running time (int)": 106,
     "Budget (float)": null,
-    "Box office (float)": 45600000.0
+    "Box office (float)": 45600000.0,
+    "Release date (datetime)": "1994-03-25 00:00:00"
   },
   {
     "title": "White Fang 2: Myth of the White Wolf",
@@ -7540,7 +7731,8 @@
     "Box office": "$8,878,839 (US)",
     "Running time (int)": 102,
     "Budget (float)": null,
-    "Box office (float)": 8878839.0
+    "Box office (float)": 8878839.0,
+    "Release date (datetime)": "1994-04-15 00:00:00"
   },
   {
     "title": "The Lion King",
@@ -7607,7 +7799,8 @@
     "Box office": "$968.5 million",
     "Running time (int)": 88,
     "Budget (float)": 45000000.0,
-    "Box office (float)": 968500000.0
+    "Box office (float)": 968500000.0,
+    "Release date (datetime)": "1994-06-15 00:00:00"
   },
   {
     "title": "Angels in the Outfield",
@@ -7650,7 +7843,8 @@
     "Box office": "$50.2 million",
     "Running time (int)": 102,
     "Budget (float)": 31000000.0,
-    "Box office (float)": 50200000.0
+    "Box office (float)": 50200000.0,
+    "Release date (datetime)": "1994-07-15 00:00:00"
   },
   {
     "title": "Squanto: A Warrior's Tale",
@@ -7683,7 +7877,8 @@
     "Box office": "$3,337,685",
     "Running time (int)": 102,
     "Budget (float)": null,
-    "Box office (float)": 3337685.0
+    "Box office (float)": 3337685.0,
+    "Release date (datetime)": "1994-10-28 00:00:00"
   },
   {
     "title": "The Santa Clause",
@@ -7724,7 +7919,8 @@
     "Box office": "$189.8 million",
     "Running time (int)": 97,
     "Budget (float)": 22000000.0,
-    "Box office (float)": 189800000.0
+    "Box office (float)": 189800000.0,
+    "Release date (datetime)": "1994-11-11 00:00:00"
   },
   {
     "title": "Rudyard Kipling's The Jungle Book",
@@ -7780,7 +7976,8 @@
     "Box office": "$43.2 million",
     "Running time (int)": 111,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 43200000.0
+    "Box office (float)": 43200000.0,
+    "Release date (datetime)": "1994-12-25 00:00:00"
   },
   {
     "title": "Heavyweights",
@@ -7830,7 +8027,8 @@
     "Box office": "$17.6 million",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 17600000.0
+    "Box office (float)": 17600000.0,
+    "Release date (datetime)": "1995-02-17 00:00:00"
   },
   {
     "title": "Man of the House",
@@ -7873,7 +8071,8 @@
     "Box office": "$40,070,995",
     "Running time (int)": 96,
     "Budget (float)": 22000000.0,
-    "Box office (float)": 40070995.0
+    "Box office (float)": 40070995.0,
+    "Release date (datetime)": "1995-03-03 00:00:00"
   },
   {
     "title": "Tall Tale",
@@ -7916,18 +8115,19 @@
     "Box office": "$11 million",
     "Running time (int)": 98,
     "Budget (float)": 32000000.0,
-    "Box office (float)": 11000000.0
+    "Box office (float)": 11000000.0,
+    "Release date (datetime)": "1995-03-24 00:00:00"
   },
   {
     "title": "A Goofy Movie",
     "Directed by": "Kevin Lima",
     "Produced by": "Dan Rounds",
     "Screenplay by": [
-      "Jymm Magon",
+      "Jymn Magon",
       "Chris Matheson",
       "Brian Pimental"
     ],
-    "Story by": "Jymm Magon",
+    "Story by": "Jymn Magon",
     "Based on": [
       "Robert Taylor",
       "Michael Peraza Jr."
@@ -7958,7 +8158,8 @@
     "Box office": "$37.6 million",
     "Running time (int)": 78,
     "Budget (float)": null,
-    "Box office (float)": 37600000.0
+    "Box office (float)": 37600000.0,
+    "Release date (datetime)": "1995-04-07 00:00:00"
   },
   {
     "title": "Pocahontas",
@@ -8017,7 +8218,8 @@
     "Box office": "$346.1 million",
     "Running time (int)": 81,
     "Budget (float)": 55000000.0,
-    "Box office (float)": 346100000.0
+    "Box office (float)": 346100000.0,
+    "Release date (datetime)": "1995-06-10 00:00:00"
   },
   {
     "title": "Operation Dumbo Drop",
@@ -8059,7 +8261,8 @@
     "Box office": "$24,670,346",
     "Running time (int)": 108,
     "Budget (float)": 24000000.0,
-    "Box office (float)": 24670346.0
+    "Box office (float)": 24670346.0,
+    "Release date (datetime)": "1995-07-28 00:00:00"
   },
   {
     "title": "A Kid in King Arthur's Court",
@@ -8107,7 +8310,8 @@
     "Box office": "$13.4 million (domestic)",
     "Running time (int)": 89,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 13400000.0
+    "Box office (float)": 13400000.0,
+    "Release date (datetime)": "1995-08-11 00:00:00"
   },
   {
     "title": "The Big Green",
@@ -8141,7 +8345,8 @@
     "Box office": "$17.7 million",
     "Running time (int)": 99,
     "Budget (float)": 12000000.0,
-    "Box office (float)": 17700000.0
+    "Box office (float)": 17700000.0,
+    "Release date (datetime)": "1995-09-29 00:00:00"
   },
   {
     "title": "Frank and Ollie",
@@ -8172,7 +8377,8 @@
     "Language": "English",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1995-01-22 00:00:00"
   },
   {
     "title": "Toy Story",
@@ -8225,7 +8431,8 @@
     "Box office": "$373 million",
     "Running time (int)": 81,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 373000000.0
+    "Box office (float)": 373000000.0,
+    "Release date (datetime)": "1995-11-19 00:00:00"
   },
   {
     "title": "Tom and Huck",
@@ -8261,7 +8468,8 @@
     "Box office": "$23.9 million",
     "Running time (int)": 92,
     "Budget (float)": null,
-    "Box office (float)": 23900000.0
+    "Box office (float)": 23900000.0,
+    "Release date (datetime)": "1995-12-22 00:00:00"
   },
   {
     "title": "Muppet Treasure Island",
@@ -8307,7 +8515,8 @@
     "Box office": "$34.3 million (North America)",
     "Running time (int)": 100,
     "Budget (float)": 31000000.0,
-    "Box office (float)": 34300000.0
+    "Box office (float)": 34300000.0,
+    "Release date (datetime)": "1996-02-16 00:00:00"
   },
   {
     "title": "Homeward Bound II: Lost in San Francisco",
@@ -8349,7 +8558,8 @@
     "Box office": "$32.7 million",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": 32700000.000000004
+    "Box office (float)": 32700000.000000004,
+    "Release date (datetime)": "1996-03-08 00:00:00"
   },
   {
     "title": "James and the Giant Peach",
@@ -8410,7 +8620,8 @@
     "Box office": "$37.7 million",
     "Running time (int)": 79,
     "Budget (float)": 38000000.0,
-    "Box office (float)": 37700000.0
+    "Box office (float)": 37700000.0,
+    "Release date (datetime)": "1996-04-12 00:00:00"
   },
   {
     "title": "The Hunchback of Notre Dame",
@@ -8460,7 +8671,8 @@
     "Box office": "$325.3 million",
     "Running time (int)": 91,
     "Budget (float)": 100000000.0,
-    "Box office (float)": 325300000.0
+    "Box office (float)": 325300000.0,
+    "Release date (datetime)": "1996-06-21 00:00:00"
   },
   {
     "title": "First Kid",
@@ -8491,7 +8703,8 @@
     "Box office": "$26,491,793",
     "Running time (int)": 101,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 26491793.0
+    "Box office (float)": 26491793.0,
+    "Release date (datetime)": "1996-08-30 00:00:00"
   },
   {
     "title": "D3: The Mighty Ducks",
@@ -8535,7 +8748,8 @@
     "Box office": "$22.9 million",
     "Running time (int)": 104,
     "Budget (float)": null,
-    "Box office (float)": 22900000.0
+    "Box office (float)": 22900000.0,
+    "Release date (datetime)": "1996-10-04 00:00:00"
   },
   {
     "title": "101 Dalmatians",
@@ -8574,7 +8788,8 @@
     "Box office": "$320.7 million",
     "Running time (int)": 103,
     "Budget (float)": 75000000.0,
-    "Box office (float)": 320700000.0
+    "Box office (float)": 320700000.0,
+    "Release date (datetime)": "1996-11-27 00:00:00"
   },
   {
     "title": "That Darn Cat",
@@ -8619,7 +8834,8 @@
     "Box office": "$18.3 million",
     "Running time (int)": 86,
     "Budget (float)": null,
-    "Box office (float)": 18300000.0
+    "Box office (float)": 18300000.0,
+    "Release date (datetime)": "1997-02-14 00:00:00"
   },
   {
     "title": "Jungle 2 Jungle",
@@ -8666,7 +8882,8 @@
     "Box office": "$59.9 million",
     "Running time (int)": 105,
     "Budget (float)": 32000000.0,
-    "Box office (float)": 59900000.0
+    "Box office (float)": 59900000.0,
+    "Release date (datetime)": "1997-03-07 00:00:00"
   },
   {
     "title": "Hercules",
@@ -8726,7 +8943,8 @@
     "Box office": "$252.7 million",
     "Running time (int)": 93,
     "Budget (float)": 85000000.0,
-    "Box office (float)": 252700000.0
+    "Box office (float)": 252700000.0,
+    "Release date (datetime)": "1997-06-13 00:00:00"
   },
   {
     "title": "George of the Jungle",
@@ -8779,7 +8997,8 @@
     "Box office": "$174.4 million",
     "Running time (int)": 92,
     "Budget (float)": 55000000.0,
-    "Box office (float)": 174400000.0
+    "Box office (float)": 174400000.0,
+    "Release date (datetime)": "1997-07-16 00:00:00"
   },
   {
     "title": "Air Bud",
@@ -8824,7 +9043,8 @@
     "Box office": "$27.8 million",
     "Running time (int)": 98,
     "Budget (float)": 3000000.0,
-    "Box office (float)": 27800000.0
+    "Box office (float)": 27800000.0,
+    "Release date (datetime)": "1997-08-01 00:00:00"
   },
   {
     "title": "RocketMan",
@@ -8861,7 +9081,8 @@
     "Box office": "$15.4 million",
     "Running time (int)": 95,
     "Budget (float)": 16000000.0,
-    "Box office (float)": 15400000.0
+    "Box office (float)": 15400000.0,
+    "Release date (datetime)": "1997-10-10 00:00:00"
   },
   {
     "title": "Flubber",
@@ -8908,7 +9129,8 @@
     "Box office": "$178 million",
     "Running time (int)": 93,
     "Budget (float)": 80000000.0,
-    "Box office (float)": 178000000.0
+    "Box office (float)": 178000000.0,
+    "Release date (datetime)": "1997-11-16 00:00:00"
   },
   {
     "title": "Mr. Magoo",
@@ -8954,7 +9176,8 @@
     "Box office": "$28.9 million",
     "Running time (int)": 87,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 28900000.0
+    "Box office (float)": 28900000.0,
+    "Release date (datetime)": "1997-12-25 00:00:00"
   },
   {
     "title": "Meet the Deedles",
@@ -8991,7 +9214,8 @@
     "Box office": "$4.4 million",
     "Running time (int)": 93,
     "Budget (float)": 24000000.0,
-    "Box office (float)": 4400000.0
+    "Box office (float)": 4400000.0,
+    "Release date (datetime)": "1998-03-27 00:00:00"
   },
   {
     "title": "Mulan",
@@ -9036,7 +9260,8 @@
     "Box office": "$304.3 million",
     "Running time (int)": 87,
     "Budget (float)": 90000000.0,
-    "Box office (float)": 304300000.0
+    "Box office (float)": 304300000.0,
+    "Release date (datetime)": "1998-06-19 00:00:00"
   },
   {
     "title": "The Parent Trap",
@@ -9072,7 +9297,8 @@
     "Box office": "$92.1 million",
     "Running time (int)": 128,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 92100000.0
+    "Box office (float)": 92100000.0,
+    "Release date (datetime)": "1998-07-29 00:00:00"
   },
   {
     "title": "I'll Be Home for Christmas",
@@ -9113,7 +9339,8 @@
     "Box office": "$12.2 million",
     "Running time (int)": 86,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 12200000.0
+    "Box office (float)": 12200000.0,
+    "Release date (datetime)": "1998-11-13 00:00:00"
   },
   {
     "title": "A Bug's Life",
@@ -9155,7 +9382,8 @@
     "Box office": "$363.3 million",
     "Running time (int)": 95,
     "Budget (float)": 120000000.0,
-    "Box office (float)": 363300000.0
+    "Box office (float)": 363300000.0,
+    "Release date (datetime)": "1998-11-20 00:00:00"
   },
   {
     "title": "Mighty Joe Young",
@@ -9204,7 +9432,8 @@
     "Box office": "$50.6 million (US)",
     "Running time (int)": 114,
     "Budget (float)": 90000000.0,
-    "Box office (float)": 50600000.0
+    "Box office (float)": 50600000.0,
+    "Release date (datetime)": "1998-12-25 00:00:00"
   },
   {
     "title": "My Favorite Martian",
@@ -9246,7 +9475,8 @@
     "Box office": "$36.8 million",
     "Running time (int)": 93,
     "Budget (float)": 65000000.0,
-    "Box office (float)": 36800000.0
+    "Box office (float)": 36800000.0,
+    "Release date (datetime)": "1999-02-12 00:00:00"
   },
   {
     "title": "Doug's 1st Movie",
@@ -9283,7 +9513,6 @@
       "Walt Disney Pictures",
       "Jumbo Pictures",
       "Walt Disney Television Animation",
-      "-----(as a joint company)",
       "Plus One Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
@@ -9297,7 +9526,8 @@
     "Box office": "$19.4 million",
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 19400000.0
+    "Box office (float)": 19400000.0,
+    "Release date (datetime)": "1999-03-26 00:00:00"
   },
   {
     "title": "Endurance",
@@ -9338,7 +9568,8 @@
     "Language": "English",
     "Running time (int)": 83,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "1999-05-14 00:00:00"
   },
   {
     "title": "Tarzan",
@@ -9410,7 +9641,8 @@
     "Box office": "$448.2 million",
     "Running time (int)": 88,
     "Budget (float)": 130000000.0,
-    "Box office (float)": 448200000.0
+    "Box office (float)": 448200000.0,
+    "Release date (datetime)": "1999-06-12 00:00:00"
   },
   {
     "title": "Inspector Gadget",
@@ -9469,7 +9701,8 @@
     "Box office": "$134.4 million",
     "Running time (int)": 78,
     "Budget (float)": 90000000.0,
-    "Box office (float)": 134400000.0
+    "Box office (float)": 134400000.0,
+    "Release date (datetime)": "1999-07-23 00:00:00"
   },
   {
     "title": "The Straight Story",
@@ -9520,7 +9753,8 @@
     "Box office": "$6.2 million",
     "Running time (int)": 112,
     "Budget (float)": 10000000.0,
-    "Box office (float)": 6200000.0
+    "Box office (float)": 6200000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Toy Story 2",
@@ -9568,7 +9802,8 @@
     "Box office": "$497.4 million",
     "Running time (int)": 92,
     "Budget (float)": 90000000.0,
-    "Box office (float)": 497400000.0
+    "Box office (float)": 497400000.0,
+    "Release date (datetime)": "1999-11-13 00:00:00"
   },
   {
     "title": "Fantasia 2000",
@@ -9616,7 +9851,8 @@
     "Box office": "$90.9 million",
     "Running time (int)": 74,
     "Budget (float)": 85000000.0,
-    "Box office (float)": 90900000.0
+    "Box office (float)": 90900000.0,
+    "Release date (datetime)": "1999-12-16 00:00:00"
   },
   {
     "title": "The Tigger Movie",
@@ -9661,7 +9897,8 @@
     "Box office": "$96.2 million",
     "Running time (int)": 78,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 96200000.0
+    "Box office (float)": 96200000.0,
+    "Release date (datetime)": "2000-02-11 00:00:00"
   },
   {
     "title": "Dinosaur",
@@ -9714,7 +9951,8 @@
     "Box office": "$349.8 million",
     "Running time (int)": 82,
     "Budget (float)": 127500000.0,
-    "Box office (float)": 349800000.0
+    "Box office (float)": 349800000.0,
+    "Release date (datetime)": "2000-05-19 00:00:00"
   },
   {
     "title": "The Kid",
@@ -9755,7 +9993,8 @@
     "Box office": "$110.3 million",
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
-    "Box office (float)": 110300000.0
+    "Box office (float)": 110300000.0,
+    "Release date (datetime)": "2000-07-07 00:00:00"
   },
   {
     "title": "Remember The Titans",
@@ -9790,7 +10029,8 @@
     "Box office": "$136.7 million",
     "Running time (int)": 113,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 136700000.0
+    "Box office (float)": 136700000.0,
+    "Release date (datetime)": "2000-09-29 00:00:00"
   },
   {
     "title": "102 Dalmatians",
@@ -9832,7 +10072,8 @@
     "Box office": "$183.6 million",
     "Running time (int)": 100,
     "Budget (float)": 85000000.0,
-    "Box office (float)": 183600000.0
+    "Box office (float)": 183600000.0,
+    "Release date (datetime)": "2000-11-22 00:00:00"
   },
   {
     "title": "The Emperor's New Groove",
@@ -9873,7 +10114,8 @@
     "Box office": "$169.6 million",
     "Running time (int)": 78,
     "Budget (float)": 100000000.0,
-    "Box office (float)": 169600000.0
+    "Box office (float)": 169600000.0,
+    "Release date (datetime)": "2000-12-15 00:00:00"
   },
   {
     "title": "Recess: School's Out",
@@ -9934,7 +10176,8 @@
     "Box office": "$44.5 million",
     "Running time (int)": 83,
     "Budget (float)": 23000000.0,
-    "Box office (float)": 44500000.0
+    "Box office (float)": 44500000.0,
+    "Release date (datetime)": "2001-02-10 00:00:00"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -9985,7 +10228,8 @@
     "Box office": "$186.1 million",
     "Running time (int)": 96,
     "Budget (float)": 90.0,
-    "Box office (float)": 186100000.0
+    "Box office (float)": 186100000.0,
+    "Release date (datetime)": "2001-06-03 00:00:00"
   },
   {
     "title": "The Princess Diaries",
@@ -10028,7 +10272,8 @@
     "Box office": "$165.3 million",
     "Running time (int)": 115,
     "Budget (float)": 26000000.0,
-    "Box office (float)": 165300000.0
+    "Box office (float)": 165300000.0,
+    "Release date (datetime)": "2001-08-03 00:00:00"
   },
   {
     "title": "Max Keeble's Big Move",
@@ -10073,7 +10318,8 @@
     "Box office": "$18.6 million",
     "Running time (int)": 86,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 18600000.0
+    "Box office (float)": 18600000.0,
+    "Release date (datetime)": "2001-10-05 00:00:00"
   },
   {
     "title": "Monsters, Inc.",
@@ -10118,7 +10364,8 @@
     "Box office": "$577.4 million",
     "Running time (int)": 92,
     "Budget (float)": 115000000.0,
-    "Box office (float)": 577400000.0
+    "Box office (float)": 577400000.0,
+    "Release date (datetime)": "2001-10-28 00:00:00"
   },
   {
     "title": "Snow Dogs",
@@ -10161,7 +10408,8 @@
     "Box office": "$115 million",
     "Running time (int)": 99,
     "Budget (float)": 33000000.0,
-    "Box office (float)": 115000000.0
+    "Box office (float)": 115000000.0,
+    "Release date (datetime)": "2002-01-18 00:00:00"
   },
   {
     "title": "Return to Never Land",
@@ -10206,7 +10454,8 @@
     "Box office": "$115.1 million",
     "Running time (int)": 73,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 115100000.0
+    "Box office (float)": 115100000.0,
+    "Release date (datetime)": "2002-02-10 00:00:00"
   },
   {
     "title": "The Rookie",
@@ -10238,7 +10487,8 @@
     "Box office": "$80.7 million",
     "Running time (int)": 128,
     "Budget (float)": 22000000.0,
-    "Box office (float)": 80700000.0
+    "Box office (float)": 80700000.0,
+    "Release date (datetime)": "2002-03-29 00:00:00"
   },
   {
     "title": "Lilo & Stitch",
@@ -10280,7 +10530,8 @@
     "Box office": "$273.1 million",
     "Running time (int)": 85,
     "Budget (float)": 80000000.0,
-    "Box office (float)": 273100000.0
+    "Box office (float)": 273100000.0,
+    "Release date (datetime)": "2002-06-21 00:00:00"
   },
   {
     "title": "The Country Bears",
@@ -10317,7 +10568,8 @@
     "Box office": "$18 million",
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 18000000.0
+    "Box office (float)": 18000000.0,
+    "Release date (datetime)": "2002-07-21 00:00:00"
   },
   {
     "title": "Spirited Away",
@@ -10353,7 +10605,8 @@
     "Box office": "",
     "Running time (int)": 125,
     "Budget (float)": 15.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2001-07-20 00:00:00"
   },
   {
     "title": "Tuck Everlasting",
@@ -10400,7 +10653,8 @@
     "Box office": "$19.3 million",
     "Running time (int)": 96,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 19300000.0
+    "Box office (float)": 19300000.0,
+    "Release date (datetime)": "2002-10-11 00:00:00"
   },
   {
     "title": "The Santa Clause 2",
@@ -10451,7 +10705,8 @@
     "Box office": "$172.9 million",
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
-    "Box office (float)": 172900000.0
+    "Box office (float)": 172900000.0,
+    "Release date (datetime)": "2002-11-01 00:00:00"
   },
   {
     "title": "Treasure Planet",
@@ -10507,7 +10762,8 @@
     "Box office": "$109.6 million",
     "Running time (int)": 95,
     "Budget (float)": 140000000.0,
-    "Box office (float)": 109600000.0
+    "Box office (float)": 109600000.0,
+    "Release date (datetime)": "2002-11-27 00:00:00"
   },
   {
     "title": "The Jungle Book 2",
@@ -10553,7 +10809,8 @@
     "Box office": "$135.7 million",
     "Running time (int)": 72,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 135700000.0
+    "Box office (float)": 135700000.0,
+    "Release date (datetime)": "2003-02-14 00:00:00"
   },
   {
     "title": "Piglet's Big Movie",
@@ -10603,7 +10860,8 @@
     "Box office": "$62.9 million",
     "Running time (int)": 75,
     "Budget (float)": 46000000.0,
-    "Box office (float)": 62900000.0
+    "Box office (float)": 62900000.0,
+    "Release date (datetime)": "2003-03-16 00:00:00"
   },
   {
     "title": "Ghosts of the Abyss",
@@ -10653,7 +10911,8 @@
     "Box office": "$28.7 million",
     "Running time (int)": 61,
     "Budget (float)": 13000000.0,
-    "Box office (float)": 28700000.0
+    "Box office (float)": 28700000.0,
+    "Release date (datetime)": "2003-03-31 00:00:00"
   },
   {
     "title": "Holes",
@@ -10699,7 +10958,8 @@
     "Box office": "$71.4 million",
     "Running time (int)": 117,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 71400000.0
+    "Box office (float)": 71400000.0,
+    "Release date (datetime)": "2003-04-18 00:00:00"
   },
   {
     "title": "The Lizzie McGuire Movie",
@@ -10743,7 +11003,8 @@
     "Box office": "$55.5 million",
     "Running time (int)": 94,
     "Budget (float)": 17000000.0,
-    "Box office (float)": 55500000.0
+    "Box office (float)": 55500000.0,
+    "Release date (datetime)": "2003-05-02 00:00:00"
   },
   {
     "title": "Finding Nemo",
@@ -10782,7 +11043,8 @@
     "Box office": "$940.3 million",
     "Running time (int)": 100,
     "Budget (float)": 94000000.0,
-    "Box office (float)": 940300000.0
+    "Box office (float)": 940300000.0,
+    "Release date (datetime)": "2003-05-30 00:00:00"
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -10836,7 +11098,8 @@
     "Box office": "$654.3 million",
     "Running time (int)": 143,
     "Budget (float)": 140000000.0,
-    "Box office (float)": 654300000.0
+    "Box office (float)": 654300000.0,
+    "Release date (datetime)": "2003-06-28 00:00:00"
   },
   {
     "title": "Freaky Friday",
@@ -10877,7 +11140,8 @@
     "Box office": "$160.8 million",
     "Running time (int)": 97,
     "Budget (float)": 26000000.0,
-    "Box office (float)": 160800000.0
+    "Box office (float)": 160800000.0,
+    "Release date (datetime)": "2003-08-04 00:00:00"
   },
   {
     "title": "Brother Bear",
@@ -10932,7 +11196,8 @@
     "Box office": "$250.4 million",
     "Running time (int)": 85,
     "Budget (float)": 46000000.0,
-    "Box office (float)": 250400000.0
+    "Box office (float)": 250400000.0,
+    "Release date (datetime)": "2003-11-01 00:00:00"
   },
   {
     "title": "The Haunted Mansion",
@@ -10969,7 +11234,8 @@
     "Box office": "$182.3 million",
     "Running time (int)": 86,
     "Budget (float)": 90000000.0,
-    "Box office (float)": 182300000.0
+    "Box office (float)": 182300000.0,
+    "Release date (datetime)": "2003-11-26 00:00:00"
   },
   {
     "title": "The Young Black Stallion",
@@ -11009,7 +11275,8 @@
     "Box office": "$9,638,389",
     "Running time (int)": 50,
     "Budget (float)": null,
-    "Box office (float)": 9638389.0
+    "Box office (float)": 9638389.0,
+    "Release date (datetime)": "2003-12-25 00:00:00"
   },
   {
     "title": "Teacher's Pet",
@@ -11050,7 +11317,8 @@
     "Box office": "$6.5 million",
     "Running time (int)": 74,
     "Budget (float)": 10000000.0,
-    "Box office (float)": 6500000.0
+    "Box office (float)": 6500000.0,
+    "Release date (datetime)": "2004-01-16 00:00:00"
   },
   {
     "title": "Miracle",
@@ -11093,7 +11361,8 @@
     "Box office": "$64.5 million",
     "Running time (int)": 136,
     "Budget (float)": 28000000.0,
-    "Box office (float)": 64500000.0
+    "Box office (float)": 64500000.0,
+    "Release date (datetime)": "2004-02-06 00:00:00"
   },
   {
     "title": "Confessions of a Teenage Drama Queen",
@@ -11131,7 +11400,8 @@
     "Box office": "$33.1 million",
     "Running time (int)": 89,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 33100000.0
+    "Box office (float)": 33100000.0,
+    "Release date (datetime)": "2004-02-20 00:00:00"
   },
   {
     "title": "Home on the Range",
@@ -11177,7 +11447,8 @@
     "Box office": "$145.5 million",
     "Running time (int)": 76,
     "Budget (float)": 110000000.0,
-    "Box office (float)": 145500000.0
+    "Box office (float)": 145500000.0,
+    "Release date (datetime)": "2004-04-02 00:00:00"
   },
   {
     "title": "Sacred Planet",
@@ -11218,7 +11489,8 @@
     "Box office": "$1,108,356",
     "Running time (int)": 40,
     "Budget (float)": null,
-    "Box office (float)": 1108356.0
+    "Box office (float)": 1108356.0,
+    "Release date (datetime)": "2004-04-22 00:00:00"
   },
   {
     "title": "Around the World in 80 Days",
@@ -11272,7 +11544,8 @@
     "Box office": "$72.2 million",
     "Running time (int)": 120,
     "Budget (float)": 110000000.0,
-    "Box office (float)": 72200000.0
+    "Box office (float)": 72200000.0,
+    "Release date (datetime)": "2004-04-06 00:00:00"
   },
   {
     "title": "America's Heart and Soul",
@@ -11298,7 +11571,8 @@
     "Box office": "$314,402",
     "Running time (int)": 84,
     "Budget (float)": null,
-    "Box office (float)": 314402.0
+    "Box office (float)": 314402.0,
+    "Release date (datetime)": "2004-07-02 00:00:00"
   },
   {
     "title": "The Princess Diaries 2: Royal Engagement",
@@ -11345,7 +11619,8 @@
     "Box office": "$134.7 million",
     "Running time (int)": 113,
     "Budget (float)": 45000000.0,
-    "Box office (float)": 134700000.0
+    "Box office (float)": 134700000.0,
+    "Release date (datetime)": "2004-08-11 00:00:00"
   },
   {
     "title": "The Incredibles",
@@ -11384,7 +11659,8 @@
     "Box office": "$633 million",
     "Running time (int)": 115,
     "Budget (float)": 92000000.0,
-    "Box office (float)": 633000000.0
+    "Box office (float)": 633000000.0,
+    "Release date (datetime)": "2004-10-27 00:00:00"
   },
   {
     "title": "National Treasure",
@@ -11432,7 +11708,8 @@
     "Box office": "$347.5 million",
     "Running time (int)": 131,
     "Budget (float)": 100000000.0,
-    "Box office (float)": 347500000.0
+    "Box office (float)": 347500000.0,
+    "Release date (datetime)": "2004-11-19 00:00:00"
   },
   {
     "title": "Aliens of the Deep",
@@ -11477,7 +11754,8 @@
     "Box office": "$9 million",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 9000000.0
+    "Box office (float)": 9000000.0,
+    "Release date (datetime)": "2005-01-28 00:00:00"
   },
   {
     "title": "Pooh's Heffalump Movie",
@@ -11514,7 +11792,8 @@
     "Box office": "$52.9 million",
     "Running time (int)": 68,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 52900000.0
+    "Box office (float)": 52900000.0,
+    "Release date (datetime)": "2005-02-11 00:00:00"
   },
   {
     "title": "The Pacifier",
@@ -11555,7 +11834,8 @@
     "Box office": "$198.6 million",
     "Running time (int)": 95,
     "Budget (float)": 56000000.0,
-    "Box office (float)": 198600000.0
+    "Box office (float)": 198600000.0,
+    "Release date (datetime)": "2005-03-04 00:00:00"
   },
   {
     "title": "Ice Princess",
@@ -11588,7 +11868,8 @@
     "Box office": "$27.6 million",
     "Running time (int)": 97,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 27600000.0
+    "Box office (float)": 27600000.0,
+    "Release date (datetime)": "2005-03-18 00:00:00"
   },
   {
     "title": "Herbie: Fully Loaded",
@@ -11634,7 +11915,8 @@
     "Box office": "$144.1 million",
     "Running time (int)": 101,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 144100000.0
+    "Box office (float)": 144100000.0,
+    "Release date (datetime)": "2005-06-22 00:00:00"
   },
   {
     "title": "Howl's Moving Castle",
@@ -11677,7 +11959,8 @@
     ],
     "Running time (int)": 119,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Sky High",
@@ -11713,7 +11996,8 @@
     "Box office": "$86.4 million",
     "Running time (int)": 100,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 86400000.0
+    "Box office (float)": 86400000.0,
+    "Release date (datetime)": "2005-07-29 00:00:00"
   },
   {
     "title": "Valiant",
@@ -11766,7 +12050,8 @@
     "Box office": "$61.7 million",
     "Running time (int)": 76,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 61700000.0
+    "Box office (float)": 61700000.0,
+    "Release date (datetime)": "2005-03-25 00:00:00"
   },
   {
     "title": "The Greatest Game Ever Played",
@@ -11802,7 +12087,8 @@
     "Box office": "$15.4 million",
     "Running time (int)": 120,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 15400000.0
+    "Box office (float)": 15400000.0,
+    "Release date (datetime)": "2005-09-30 00:00:00"
   },
   {
     "title": "Chicken Little",
@@ -11846,7 +12132,8 @@
     "Box office": "$314.4 million",
     "Running time (int)": 81,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 314400000.0
+    "Box office (float)": 314400000.0,
+    "Release date (datetime)": "2005-10-30 00:00:00"
   },
   {
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -11901,7 +12188,8 @@
     "Box office": "$745 million",
     "Running time (int)": 143,
     "Budget (float)": 180000000.0,
-    "Box office (float)": 745000000.0
+    "Box office (float)": 745000000.0,
+    "Release date (datetime)": "2005-12-07 00:00:00"
   },
   {
     "title": "Glory road",
@@ -11944,7 +12232,8 @@
     "Box office": "$42.9 million",
     "Running time (int)": 106,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 42900000.0
+    "Box office (float)": 42900000.0,
+    "Release date (datetime)": "2006-01-13 00:00:00"
   },
   {
     "title": "Roving Mars",
@@ -11980,7 +12269,8 @@
     "Box office": "$11 million",
     "Running time (int)": 40,
     "Budget (float)": 1000000.0,
-    "Box office (float)": 11000000.0
+    "Box office (float)": 11000000.0,
+    "Release date (datetime)": "2006-01-27 00:00:00"
   },
   {
     "title": "Eight Below",
@@ -12022,7 +12312,8 @@
     "Box office": "$120.5 million",
     "Running time (int)": 120,
     "Budget (float)": 40000000.0,
-    "Box office (float)": 120500000.0
+    "Box office (float)": 120500000.0,
+    "Release date (datetime)": "2006-02-17 00:00:00"
   },
   {
     "title": "The Shaggy Dog",
@@ -12070,7 +12361,8 @@
     "Box office": "$87.1 million",
     "Running time (int)": 99,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 87100000.0
+    "Box office (float)": 87100000.0,
+    "Release date (datetime)": "2006-03-10 00:00:00"
   },
   {
     "title": "The Wild",
@@ -12125,7 +12417,8 @@
     "Box office": "$102.3 million",
     "Running time (int)": 82,
     "Budget (float)": 80000000.0,
-    "Box office (float)": 102300000.0
+    "Box office (float)": 102300000.0,
+    "Release date (datetime)": "2006-04-14 00:00:00"
   },
   {
     "title": "Cars",
@@ -12172,7 +12465,8 @@
     "Box office": "$462 million",
     "Running time (int)": 117,
     "Budget (float)": 120000000.0,
-    "Box office (float)": 462000000.0
+    "Box office (float)": 462000000.0,
+    "Release date (datetime)": "2006-05-26 00:00:00"
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -12222,7 +12516,8 @@
     "Box office": "$1.066 billion",
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
-    "Box office (float)": 1066000000.0
+    "Box office (float)": 1066000000.0,
+    "Release date (datetime)": "2006-06-24 00:00:00"
   },
   {
     "title": "Invincible",
@@ -12253,7 +12548,8 @@
     "Box office": "$58.5 million",
     "Running time (int)": 104,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 58500000.0
+    "Box office (float)": 58500000.0,
+    "Release date (datetime)": "2006-08-25 00:00:00"
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -12305,7 +12601,8 @@
     "Box office": "$91.5 million",
     "Running time (int)": 76,
     "Budget (float)": 26000000.0,
-    "Box office (float)": 91500000.0
+    "Box office (float)": 91500000.0,
+    "Release date (datetime)": "1993-10-29 00:00:00"
   },
   {
     "title": "The Santa Clause 3: The Escape Clause",
@@ -12356,7 +12653,8 @@
     "Box office": "$110.8 million",
     "Running time (int)": 92,
     "Budget (float)": 12000000.0,
-    "Box office (float)": 110800000.0
+    "Box office (float)": 110800000.0,
+    "Release date (datetime)": "2006-11-03 00:00:00"
   },
   {
     "title": "Bridge to Terabithia",
@@ -12405,7 +12703,8 @@
     "Box office": "$137.6 million",
     "Running time (int)": 95,
     "Budget (float)": 20.0,
-    "Box office (float)": 137600000.0
+    "Box office (float)": 137600000.0,
+    "Release date (datetime)": "2007-02-16 00:00:00"
   },
   {
     "title": "Meet the Robinsons",
@@ -12457,7 +12756,8 @@
     "Box office": "$169.3 million",
     "Running time (int)": 94,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 169300000.0
+    "Box office (float)": 169300000.0,
+    "Release date (datetime)": "2007-03-23 00:00:00"
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -12509,7 +12809,8 @@
     "Box office": "$961 million",
     "Running time (int)": 167,
     "Budget (float)": 300000000.0,
-    "Box office (float)": 961000000.0
+    "Box office (float)": 961000000.0,
+    "Release date (datetime)": "2007-05-19 00:00:00"
   },
   {
     "title": "Ratatouille",
@@ -12557,7 +12858,8 @@
     "Box office": "$620.7 million",
     "Running time (int)": 111,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 620700000.0
+    "Box office (float)": 620700000.0,
+    "Release date (datetime)": "2007-06-22 00:00:00"
   },
   {
     "title": "Underdog",
@@ -12604,7 +12906,8 @@
     "Box office": "$65.3 million",
     "Running time (int)": 82,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 65300000.0
+    "Box office (float)": 65300000.0,
+    "Release date (datetime)": "2007-08-03 00:00:00"
   },
   {
     "title": "The Pixar Story",
@@ -12632,7 +12935,8 @@
     "Language": "English",
     "Running time (int)": 87,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2007-08-28 00:00:00"
   },
   {
     "title": "The Game Plan",
@@ -12676,7 +12980,8 @@
     "Box office": "$146.6 million",
     "Running time (int)": 110,
     "Budget (float)": 22000000.0,
-    "Box office (float)": 146600000.0
+    "Box office (float)": 146600000.0,
+    "Release date (datetime)": "2007-09-23 00:00:00"
   },
   {
     "title": "Enchanted",
@@ -12718,7 +13023,8 @@
     "Box office": "$340.5 million",
     "Running time (int)": 107,
     "Budget (float)": 85000000.0,
-    "Box office (float)": 340500000.0
+    "Box office (float)": 340500000.0,
+    "Release date (datetime)": "2007-10-20 00:00:00"
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -12781,7 +13087,8 @@
     "Box office": "$459.2 million",
     "Running time (int)": 124,
     "Budget (float)": 130000000.0,
-    "Box office (float)": 459200000.0
+    "Box office (float)": 459200000.0,
+    "Release date (datetime)": "2007-12-21 00:00:00"
   },
   {
     "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
@@ -12815,7 +13122,8 @@
     "Box office": "$70.6 million",
     "Running time (int)": 74,
     "Budget (float)": 7000000.0,
-    "Box office (float)": 70600000.0
+    "Box office (float)": 70600000.0,
+    "Release date (datetime)": "2008-02-01 00:00:00"
   },
   {
     "title": "College Road Trip",
@@ -12854,7 +13162,8 @@
     "Box office": "$51.5 million",
     "Running time (int)": 83,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 51500000.0
+    "Box office (float)": 51500000.0,
+    "Release date (datetime)": "2008-03-07 00:00:00"
   },
   {
     "title": "The Chronicles of Narnia: Prince Caspian",
@@ -12902,7 +13211,8 @@
     "Box office": "$419.7 million",
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
-    "Box office (float)": 419700000.0
+    "Box office (float)": 419700000.0,
+    "Release date (datetime)": "2008-05-07 00:00:00"
   },
   {
     "title": "WALL-E",
@@ -12946,7 +13256,8 @@
     "Box office": "$521.3 million",
     "Running time (int)": 97,
     "Budget (float)": 180000000.0,
-    "Box office (float)": 521299999.99999994
+    "Box office (float)": 521299999.99999994,
+    "Release date (datetime)": "2008-06-23 00:00:00"
   },
   {
     "title": "Beverly Hills Chihuahua",
@@ -12992,7 +13303,8 @@
     "Box office": "$149.3 million",
     "Running time (int)": 91,
     "Budget (float)": 20000000.0,
-    "Box office (float)": 149300000.0
+    "Box office (float)": 149300000.0,
+    "Release date (datetime)": "2008-10-03 00:00:00"
   },
   {
     "title": "Morning Light",
@@ -13015,7 +13327,8 @@
     "Box office": "$275,776",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": 275776.0
+    "Box office (float)": 275776.0,
+    "Release date (datetime)": "2008-10-17 00:00:00"
   },
   {
     "title": "High School Musical 3: Senior Year",
@@ -13055,7 +13368,8 @@
     "Box office": "$252.9 million",
     "Running time (int)": 111,
     "Budget (float)": 11000000.0,
-    "Box office (float)": 252900000.0
+    "Box office (float)": 252900000.0,
+    "Release date (datetime)": "2008-10-17 00:00:00"
   },
   {
     "title": "Bolt",
@@ -13092,7 +13406,8 @@
     "Box office": "$310 million",
     "Running time (int)": 96,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 310000000.0
+    "Box office (float)": 310000000.0,
+    "Release date (datetime)": "2008-11-21 00:00:00"
   },
   {
     "title": "Bedtime Stories",
@@ -13142,7 +13457,8 @@
     "Box office": "$212.9 million",
     "Running time (int)": 99,
     "Budget (float)": 80000000.0,
-    "Box office (float)": 212900000.0
+    "Box office (float)": 212900000.0,
+    "Release date (datetime)": "2008-12-25 00:00:00"
   },
   {
     "title": "The Secret of the Magic Gourd",
@@ -13176,7 +13492,8 @@
     "Languages": "Chinese , English",
     "Running time (int)": 85,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2007-06-29 00:00:00"
   },
   {
     "title": "Jonas Brothers: The 3D Concert Experience",
@@ -13220,7 +13537,8 @@
     "Box office": "$23.1 million",
     "Running time (int)": 76,
     "Budget (float)": null,
-    "Box office (float)": 23100000.0
+    "Box office (float)": 23100000.0,
+    "Release date (datetime)": "2009-02-27 00:00:00"
   },
   {
     "title": "Race to Witch Mountain",
@@ -13267,7 +13585,8 @@
     "Box office": "$106.4 million",
     "Running time (int)": 98,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 106400000.0
+    "Box office (float)": 106400000.0,
+    "Release date (datetime)": "2009-03-11 00:00:00"
   },
   {
     "title": "Hannah Montana: The Movie",
@@ -13315,7 +13634,8 @@
     "Box office": "$170  million",
     "Running time (int)": 97,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 170.0
+    "Box office (float)": 170.0,
+    "Release date (datetime)": "2009-04-10 00:00:00"
   },
   {
     "title": "Earth",
@@ -13380,7 +13700,8 @@
     "Box office": "$109 million",
     "Running time (int)": 99,
     "Budget (float)": 47000000.0,
-    "Box office (float)": 109000000.0
+    "Box office (float)": 109000000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Up",
@@ -13424,7 +13745,8 @@
     "Box office": "$735.1 million",
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 735100000.0
+    "Box office (float)": 735100000.0,
+    "Release date (datetime)": "2009-05-29 00:00:00"
   },
   {
     "title": "Lilly the Witch: The Dragon and the Magic Book",
@@ -13440,7 +13762,8 @@
     "Language": "German",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "G-Force",
@@ -13486,7 +13809,8 @@
     "Box office": "$292.8 million",
     "Running time (int)": 90,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 292800000.0
+    "Box office (float)": 292800000.0,
+    "Release date (datetime)": "2009-07-24 00:00:00"
   },
   {
     "title": "Ponyo",
@@ -13533,7 +13857,8 @@
     "Box office": "US$ 203.2 million",
     "Running time (int)": 101,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2008-07-19 00:00:00"
   },
   {
     "title": "Walt & El Grupo",
@@ -13551,7 +13876,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "The Book of Masters",
@@ -13582,7 +13908,8 @@
     "Box office": "$11.3 million",
     "Running time (int)": 101,
     "Budget (float)": 8000000.0,
-    "Box office (float)": 11300000.0
+    "Box office (float)": 11300000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "A Christmas Carol",
@@ -13625,7 +13952,8 @@
     "Box office": "$325 million",
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 325000000.0
+    "Box office (float)": 325000000.0,
+    "Release date (datetime)": "2009-11-03 00:00:00"
   },
   {
     "title": "Old Dogs",
@@ -13672,7 +14000,8 @@
     "Box office": "$96.8 million",
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 96800000.0
+    "Box office (float)": 96800000.0,
+    "Release date (datetime)": "2009-11-25 00:00:00"
   },
   {
     "title": "The Princess and the Frog",
@@ -13730,7 +14059,8 @@
     "Box office": "$270 million",
     "Running time (int)": 97,
     "Budget (float)": 105000000.0,
-    "Box office (float)": 270000000.0
+    "Box office (float)": 270000000.0,
+    "Release date (datetime)": "2009-11-25 00:00:00"
   },
   {
     "title": "Alice in Wonderland",
@@ -13782,7 +14112,8 @@
     "Box office": "$1.025 billion",
     "Running time (int)": 108,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 1024999999.9999999
+    "Box office (float)": 1024999999.9999999,
+    "Release date (datetime)": "2010-02-25 00:00:00"
   },
   {
     "title": "Oceans",
@@ -13845,7 +14176,8 @@
     "Box office": "$82.7 million",
     "Running time (int)": 104,
     "Budget (float)": 80000000.0,
-    "Box office (float)": 82700000.0
+    "Box office (float)": 82700000.0,
+    "Release date (datetime)": "2009-10-17 00:00:00"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -13894,7 +14226,8 @@
     "Box office": "$336.4 million",
     "Running time (int)": 116,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 336400000.0
+    "Box office (float)": 336400000.0,
+    "Release date (datetime)": "2010-05-09 00:00:00"
   },
   {
     "title": "Toy Story 3",
@@ -13946,7 +14279,8 @@
     "Box office": "$1.067 billion",
     "Running time (int)": 103,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 1067000000.0
+    "Box office (float)": 1067000000.0,
+    "Release date (datetime)": "2010-06-12 00:00:00"
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -13998,7 +14332,8 @@
     "Box office": "$215.3 million",
     "Running time (int)": 109,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 215300000.0
+    "Box office (float)": 215300000.0,
+    "Release date (datetime)": "2010-07-08 00:00:00"
   },
   {
     "title": "Tales from Earthsea",
@@ -14038,7 +14373,8 @@
     "Box office": "",
     "Running time (int)": 115,
     "Budget (float)": 22000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2006-07-29 00:00:00"
   },
   {
     "title": "The Crimson Wing: Mystery of the Flamingos",
@@ -14085,7 +14421,8 @@
     "Language": "English",
     "Running time (int)": 74,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Secretariat",
@@ -14128,7 +14465,8 @@
     "Box office": "$60.3 million",
     "Running time (int)": 123,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 60300000.0
+    "Box office (float)": 60300000.0,
+    "Release date (datetime)": "2010-09-30 00:00:00"
   },
   {
     "title": "Do Dooni Chaar",
@@ -14163,7 +14501,8 @@
     "Box office": "50 crore",
     "Running time (int)": 108,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Tangled",
@@ -14201,7 +14540,8 @@
     "Box office": "$592.4 million",
     "Running time (int)": 100,
     "Budget (float)": 260000000.0,
-    "Box office (float)": 592400000.0
+    "Box office (float)": 592400000.0,
+    "Release date (datetime)": "2010-11-14 00:00:00"
   },
   {
     "title": "The Boys: The Sherman Brothers' Story",
@@ -14244,7 +14584,8 @@
     "Box office": "$55,513",
     "Running time (int)": 101,
     "Budget (float)": null,
-    "Box office (float)": 55513.0
+    "Box office (float)": 55513.0,
+    "Release date (datetime)": "2009-04-24 00:00:00"
   },
   {
     "title": "Tron: Legacy",
@@ -14299,7 +14640,8 @@
     "Box office": "$400.1 million",
     "Running time (int)": 125,
     "Budget (float)": 170000000.0,
-    "Box office (float)": 400100000.0
+    "Box office (float)": 400100000.0,
+    "Release date (datetime)": "2010-11-30 00:00:00"
   },
   {
     "title": "Anaganaga O Dheerudu",
@@ -14341,7 +14683,8 @@
     "Box office": "(US$7.0 million)",
     "Running time (int)": null,
     "Budget (float)": 3800000.0,
-    "Box office (float)": 7000000.0
+    "Box office (float)": 7000000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Lilly the Witch: The Journey to Mandolan",
@@ -14366,7 +14709,8 @@
     "Language": "German",
     "Running time (int)": 90,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Mars Needs Moms",
@@ -14415,7 +14759,8 @@
     "Box office": "$39.2 million",
     "Running time (int)": 88,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 39200000.0
+    "Box office (float)": 39200000.0,
+    "Release date (datetime)": "2011-03-11 00:00:00"
   },
   {
     "title": "Zokkomon",
@@ -14451,7 +14796,8 @@
     "Language": "Hindi",
     "Running time (int)": 109,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "African Cats",
@@ -14495,7 +14841,8 @@
     "Box office": "$30.9 million",
     "Running time (int)": 89,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 30900000.0
+    "Box office (float)": 30900000.0,
+    "Release date (datetime)": "2011-04-22 00:00:00"
   },
   {
     "title": "Prom",
@@ -14536,7 +14883,8 @@
     "Box office": "$10.7 million",
     "Running time (int)": 104,
     "Budget (float)": 8000000.0,
-    "Box office (float)": 10700000.0
+    "Box office (float)": 10700000.0,
+    "Release date (datetime)": "2011-04-29 00:00:00"
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -14594,7 +14942,8 @@
     "Box office": "$1.046 billion",
     "Running time (int)": 137,
     "Budget (float)": 410600000.0,
-    "Box office (float)": 1046000000.0
+    "Box office (float)": 1046000000.0,
+    "Release date (datetime)": "2011-05-07 00:00:00"
   },
   {
     "title": "Cars 2",
@@ -14639,7 +14988,8 @@
     "Box office": "$562.1 million",
     "Running time (int)": 106,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 562100000.0
+    "Box office (float)": 562100000.0,
+    "Release date (datetime)": "2011-06-18 00:00:00"
   },
   {
     "title": "Winnie the Pooh",
@@ -14702,7 +15052,8 @@
     "Box office": "$50.1 million",
     "Running time (int)": 69,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 50100000.0
+    "Box office (float)": 50100000.0,
+    "Release date (datetime)": "2011-04-06 00:00:00"
   },
   {
     "title": "The Muppets",
@@ -14744,7 +15095,8 @@
     "Box office": "$165.2 million",
     "Running time (int)": 103,
     "Budget (float)": 45000000.0,
-    "Box office (float)": 165200000.0
+    "Box office (float)": 165200000.0,
+    "Release date (datetime)": "2011-11-04 00:00:00"
   },
   {
     "title": "Arrietty",
@@ -14790,7 +15142,8 @@
     "Box office": "$146 million",
     "Running time (int)": 95,
     "Budget (float)": 23000000.0,
-    "Box office (float)": 146000000.0
+    "Box office (float)": 146000000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "John Carter",
@@ -14842,7 +15195,8 @@
     "Box office": "$284.1 million",
     "Running time (int)": 132,
     "Budget (float)": 306600000.0,
-    "Box office (float)": 284100000.0
+    "Box office (float)": 284100000.0,
+    "Release date (datetime)": "2012-02-22 00:00:00"
   },
   {
     "title": "Chimpanzee",
@@ -14891,7 +15245,8 @@
     "Box office": "$34.8 million",
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 34800000.0
+    "Box office (float)": 34800000.0,
+    "Release date (datetime)": "2012-04-20 00:00:00"
   },
   {
     "title": "Arjun: The Warrior Prince",
@@ -14923,7 +15278,8 @@
     "Language": "Hindi",
     "Running time (int)": 96,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Brave",
@@ -14973,7 +15329,8 @@
     "Box office": "$540.4 million",
     "Running time (int)": 93,
     "Budget (float)": 185000000.0,
-    "Box office (float)": 540400000.0
+    "Box office (float)": 540400000.0,
+    "Release date (datetime)": "2012-06-10 00:00:00"
   },
   {
     "title": "The Odd Life of Timothy Green",
@@ -15016,7 +15373,8 @@
     "Box office": "$56 million",
     "Running time (int)": 104,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 56000000.0
+    "Box office (float)": 56000000.0,
+    "Release date (datetime)": "2012-08-15 00:00:00"
   },
   {
     "title": "Frankenweenie",
@@ -15061,7 +15419,8 @@
     "Box office": "$81.5 million",
     "Running time (int)": 87,
     "Budget (float)": 39000000.0,
-    "Box office (float)": 81500000.0
+    "Box office (float)": 81500000.0,
+    "Release date (datetime)": "2012-09-20 00:00:00"
   },
   {
     "title": "Wreck-It Ralph",
@@ -15102,7 +15461,8 @@
     "Box office": "$471.2 million",
     "Running time (int)": 101,
     "Budget (float)": 165000000.0,
-    "Box office (float)": 471200000.0
+    "Box office (float)": 471200000.0,
+    "Release date (datetime)": "2012-10-29 00:00:00"
   },
   {
     "title": "Oz the Great and Powerful",
@@ -15150,7 +15510,8 @@
     "Box office": "$493.3 million",
     "Running time (int)": 130,
     "Budget (float)": 200.0,
-    "Box office (float)": 493300000.0
+    "Box office (float)": 493300000.0,
+    "Release date (datetime)": "2013-02-14 00:00:00"
   },
   {
     "title": "Wings of Life",
@@ -15195,7 +15556,8 @@
     ],
     "Running time (int)": 77,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Monsters University",
@@ -15243,7 +15605,8 @@
     "Box office": "$743.6 million",
     "Running time (int)": 104,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 743600000.0
+    "Box office (float)": 743600000.0,
+    "Release date (datetime)": "2013-06-05 00:00:00"
   },
   {
     "title": "The Lone Ranger",
@@ -15302,7 +15665,8 @@
     "Box office": "$260.5 million",
     "Running time (int)": 149,
     "Budget (float)": 225.0,
-    "Box office (float)": 260500000.0
+    "Box office (float)": 260500000.0,
+    "Release date (datetime)": "2013-06-22 00:00:00"
   },
   {
     "title": "Planes",
@@ -15349,7 +15713,8 @@
     "Box office": "$239.3 million",
     "Running time (int)": 92,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 239300000.0
+    "Box office (float)": 239300000.0,
+    "Release date (datetime)": "2013-08-02 00:00:00"
   },
   {
     "title": "Frozen",
@@ -15402,7 +15767,8 @@
     "Box office": "$1.280 billion",
     "Running time (int)": 102,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 1280000000.0
+    "Box office (float)": 1280000000.0,
+    "Release date (datetime)": "2013-11-19 00:00:00"
   },
   {
     "title": "Saving Mr. Banks",
@@ -15455,7 +15821,8 @@
     "Box office": "$117.9 million",
     "Running time (int)": 125,
     "Budget (float)": 35000000.0,
-    "Box office (float)": 117900000.0
+    "Box office (float)": 117900000.0,
+    "Release date (datetime)": "2013-10-20 00:00:00"
   },
   {
     "title": "Muppets Most Wanted",
@@ -15493,7 +15860,8 @@
     "Box office": "$80.4 million",
     "Running time (int)": 107,
     "Budget (float)": 51000000.0,
-    "Box office (float)": 80400000.0
+    "Box office (float)": 80400000.0,
+    "Release date (datetime)": "2014-03-11 00:00:00"
   },
   {
     "title": "Bears",
@@ -15522,7 +15890,8 @@
     "Box office": "$21.3 million",
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
-    "Box office (float)": 21300000.0
+    "Box office (float)": 21300000.0,
+    "Release date (datetime)": "2014-04-18 00:00:00"
   },
   {
     "title": "Million Dollar Arm",
@@ -15567,7 +15936,8 @@
     "Box office": "$39.2 million",
     "Running time (int)": 124,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 39200000.0
+    "Box office (float)": 39200000.0,
+    "Release date (datetime)": "2014-05-06 00:00:00"
   },
   {
     "title": "Maleficent",
@@ -15609,7 +15979,8 @@
     "Box office": "$758.5 million",
     "Running time (int)": 97,
     "Budget (float)": 180.0,
-    "Box office (float)": 758500000.0
+    "Box office (float)": 758500000.0,
+    "Release date (datetime)": "2014-05-28 00:00:00"
   },
   {
     "title": "Planes: Fire & Rescue",
@@ -15652,7 +16023,8 @@
     "Box office": "$147 million",
     "Running time (int)": 84,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 147000000.0
+    "Box office (float)": 147000000.0,
+    "Release date (datetime)": "2014-07-15 00:00:00"
   },
   {
     "title": "Khoobsurat",
@@ -15695,7 +16067,8 @@
     "Box office": "est. (US$11 million)",
     "Running time (int)": 127,
     "Budget (float)": 3200000.0,
-    "Box office (float)": 11000000.0
+    "Box office (float)": 11000000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
@@ -15742,7 +16115,8 @@
     "Box office": "$100.7 million",
     "Running time (int)": 81,
     "Budget (float)": 28000000.0,
-    "Box office (float)": 100700000.0
+    "Box office (float)": 100700000.0,
+    "Release date (datetime)": "2014-10-06 00:00:00"
   },
   {
     "title": "Big Hero 6",
@@ -15796,7 +16170,8 @@
     "Box office": "$657.8 million",
     "Running time (int)": 102,
     "Budget (float)": 165000000.0,
-    "Box office (float)": 657800000.0
+    "Box office (float)": 657800000.0,
+    "Release date (datetime)": "2014-10-23 00:00:00"
   },
   {
     "title": "Into the Woods",
@@ -15848,7 +16223,8 @@
     "Box office": "$213.1 million",
     "Running time (int)": 124,
     "Budget (float)": 50000000.0,
-    "Box office (float)": 213100000.0
+    "Box office (float)": 213100000.0,
+    "Release date (datetime)": "2014-12-08 00:00:00"
   },
   {
     "title": "McFarland, USA",
@@ -15893,7 +16269,8 @@
     "Box office": "$45.7 million",
     "Running time (int)": 129,
     "Budget (float)": 25000000.0,
-    "Box office (float)": 45700000.0
+    "Box office (float)": 45700000.0,
+    "Release date (datetime)": "2015-02-09 00:00:00"
   },
   {
     "title": "Cinderella",
@@ -15945,7 +16322,8 @@
     "Box office": "$543 million",
     "Running time (int)": 106,
     "Budget (float)": 95000000.0,
-    "Box office (float)": 543000000.0
+    "Box office (float)": 543000000.0,
+    "Release date (datetime)": "2015-02-13 00:00:00"
   },
   {
     "title": "Monkey Kingdom",
@@ -15979,7 +16357,8 @@
     "Box office": "$17.1 million",
     "Running time (int)": 82,
     "Budget (float)": 5.0,
-    "Box office (float)": 17100000.0
+    "Box office (float)": 17100000.0,
+    "Release date (datetime)": "2015-04-17 00:00:00"
   },
   {
     "title": "Tomorrowland",
@@ -16032,7 +16411,8 @@
     "Box office": "$209 million",
     "Running time (int)": 130,
     "Budget (float)": 180.0,
-    "Box office (float)": 209000000.0
+    "Box office (float)": 209000000.0,
+    "Release date (datetime)": "2015-05-09 00:00:00"
   },
   {
     "title": "Inside Out",
@@ -16083,7 +16463,8 @@
     "Box office": "$858 million",
     "Running time (int)": 95,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 858000000.0
+    "Box office (float)": 858000000.0,
+    "Release date (datetime)": "2015-05-18 00:00:00"
   },
   {
     "title": "ABCD 2",
@@ -16121,7 +16502,8 @@
     "Box office": "est.",
     "Running time (int)": 154,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "The Good Dinosaur",
@@ -16173,7 +16555,8 @@
     "Box office": "$332.2 million",
     "Running time (int)": 94,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 332200000.0
+    "Box office (float)": 332200000.0,
+    "Release date (datetime)": "2015-11-10 00:00:00"
   },
   {
     "title": "The Finest Hours",
@@ -16225,7 +16608,8 @@
     "Box office": "$52.1 million",
     "Running time (int)": 117,
     "Budget (float)": 70.0,
-    "Box office (float)": 52100000.0
+    "Box office (float)": 52100000.0,
+    "Release date (datetime)": "2016-01-25 00:00:00"
   },
   {
     "title": "Zootopia",
@@ -16289,7 +16673,8 @@
     "Box office": "$1.024 billion",
     "Running time (int)": 108,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 1024000000.0
+    "Box office (float)": 1024000000.0,
+    "Release date (datetime)": "2016-02-13 00:00:00"
   },
   {
     "title": "The Jungle Book",
@@ -16336,7 +16721,8 @@
     "Box office": "$966.6 million",
     "Running time (int)": 106,
     "Budget (float)": 175.0,
-    "Box office (float)": 966600000.0
+    "Box office (float)": 966600000.0,
+    "Release date (datetime)": "2016-04-04 00:00:00"
   },
   {
     "title": "Tini: The Movie",
@@ -16376,7 +16762,8 @@
     "Box office": "$17 million",
     "Running time (int)": 98,
     "Budget (float)": null,
-    "Box office (float)": 17000000.0
+    "Box office (float)": 17000000.0,
+    "Release date (datetime)": "2016-04-23 00:00:00"
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -16429,7 +16816,8 @@
     "Box office": "$299.5 million",
     "Running time (int)": 114,
     "Budget (float)": 170000000.0,
-    "Box office (float)": 299500000.0
+    "Box office (float)": 299500000.0,
+    "Release date (datetime)": "2016-05-10 00:00:00"
   },
   {
     "title": "Finding Dory",
@@ -16475,7 +16863,8 @@
     "Box office": "$1.029 billion",
     "Running time (int)": 97,
     "Budget (float)": 175.0,
-    "Box office (float)": 1028999999.9999999
+    "Box office (float)": 1028999999.9999999,
+    "Release date (datetime)": "2016-06-08 00:00:00"
   },
   {
     "title": "The BFG",
@@ -16530,7 +16919,8 @@
     "Box office": "$195.2 million",
     "Running time (int)": 117,
     "Budget (float)": 140000000.0,
-    "Box office (float)": 195200000.0
+    "Box office (float)": 195200000.0,
+    "Release date (datetime)": "2016-05-14 00:00:00"
   },
   {
     "title": "Pete's Dragon",
@@ -16572,7 +16962,8 @@
     "Box office": "$143.7 million",
     "Running time (int)": 103,
     "Budget (float)": 65000000.0,
-    "Box office (float)": 143700000.0
+    "Box office (float)": 143700000.0,
+    "Release date (datetime)": "2016-08-08 00:00:00"
   },
   {
     "title": "Queen of Katwe",
@@ -16622,7 +17013,8 @@
     "Box office": "$10.4 million",
     "Running time (int)": 124,
     "Budget (float)": 15000000.0,
-    "Box office (float)": 10400000.0
+    "Box office (float)": 10400000.0,
+    "Release date (datetime)": "2016-09-10 00:00:00"
   },
   {
     "title": "Moana",
@@ -16681,7 +17073,8 @@
     "Box office": "$690.8 million",
     "Running time (int)": 107,
     "Budget (float)": 150.0,
-    "Box office (float)": 690800000.0
+    "Box office (float)": 690800000.0,
+    "Release date (datetime)": "2016-11-14 00:00:00"
   },
   {
     "title": "Dangal",
@@ -16731,7 +17124,8 @@
     ],
     "Running time (int)": 161,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "March of the Penguins",
@@ -16779,7 +17173,8 @@
     "Box office": "$127.4 million",
     "Running time (int)": 80,
     "Budget (float)": 8000000.0,
-    "Box office (float)": 127400000.0
+    "Box office (float)": 127400000.0,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Beauty and the Beast",
@@ -16831,7 +17226,8 @@
     "Box office": "$1.264 billion",
     "Running time (int)": 129,
     "Budget (float)": 160.0,
-    "Box office (float)": 1264000000.0
+    "Box office (float)": 1264000000.0,
+    "Release date (datetime)": "2017-02-23 00:00:00"
   },
   {
     "title": "Born in China",
@@ -16887,7 +17283,8 @@
     "Box office": "$25.1 million",
     "Running time (int)": 76,
     "Budget (float)": 5.0,
-    "Box office (float)": 25100000.0
+    "Box office (float)": 25100000.0,
+    "Release date (datetime)": "2016-08-12 00:00:00"
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -16938,7 +17335,8 @@
     "Box office": "$794.9 million",
     "Running time (int)": 129,
     "Budget (float)": 230.0,
-    "Box office (float)": 794900000.0
+    "Box office (float)": 794900000.0,
+    "Release date (datetime)": "2017-05-11 00:00:00"
   },
   {
     "title": "Cars 3",
@@ -16991,7 +17389,8 @@
     "Box office": "$383.9 million",
     "Running time (int)": 102,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 383900000.0
+    "Box office (float)": 383900000.0,
+    "Release date (datetime)": "2017-05-23 00:00:00"
   },
   {
     "title": "Ghost of the Mountains",
@@ -17011,7 +17410,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2017-06-30 00:00:00"
   },
   {
     "title": "Jagga Jasoos",
@@ -17063,7 +17463,8 @@
     "Box office": "833.5 million",
     "Running time (int)": 162,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Coco",
@@ -17113,7 +17514,8 @@
     "Box office": "$807.8 million",
     "Running time (int)": 105,
     "Budget (float)": 175.0,
-    "Box office (float)": 807800000.0
+    "Box office (float)": 807800000.0,
+    "Release date (datetime)": "2017-10-20 00:00:00"
   },
   {
     "title": "A Wrinkle in Time",
@@ -17164,7 +17566,8 @@
     "Box office": "$133.4 million",
     "Running time (int)": 109,
     "Budget (float)": 100.0,
-    "Box office (float)": 133400000.0
+    "Box office (float)": 133400000.0,
+    "Release date (datetime)": "2018-02-26 00:00:00"
   },
   {
     "title": "Incredibles 2",
@@ -17209,7 +17612,8 @@
     "Box office": "$1.243 billion",
     "Running time (int)": 118,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 1243000000.0
+    "Box office (float)": 1243000000.0,
+    "Release date (datetime)": "2018-06-05 00:00:00"
   },
   {
     "title": "Christopher Robin",
@@ -17262,7 +17666,8 @@
     "Box office": "$197.7 million",
     "Running time (int)": 104,
     "Budget (float)": 70000000.0,
-    "Box office (float)": 197700000.0
+    "Box office (float)": 197700000.0,
+    "Release date (datetime)": "2018-07-30 00:00:00"
   },
   {
     "title": "The Nutcracker and the Four Realms",
@@ -17309,7 +17714,8 @@
     "Box office": "$174 million",
     "Running time (int)": 99,
     "Budget (float)": 120.0,
-    "Box office (float)": 174000000.0
+    "Box office (float)": 174000000.0,
+    "Release date (datetime)": "2018-10-29 00:00:00"
   },
   {
     "title": "Ralph Breaks the Internet",
@@ -17362,7 +17768,8 @@
     "Box office": "$529.3 million",
     "Running time (int)": 112,
     "Budget (float)": 175000000.0,
-    "Box office (float)": 529299999.99999994
+    "Box office (float)": 529299999.99999994,
+    "Release date (datetime)": "2018-11-05 00:00:00"
   },
   {
     "title": "Mary Poppins Returns",
@@ -17417,7 +17824,8 @@
     "Box office": "$349.5 million",
     "Running time (int)": 131,
     "Budget (float)": 130000000.0,
-    "Box office (float)": 349500000.0
+    "Box office (float)": 349500000.0,
+    "Release date (datetime)": "2018-11-29 00:00:00"
   },
   {
     "title": "Dumbo",
@@ -17469,7 +17877,8 @@
     "Box office": "$353.3 million",
     "Running time (int)": 112,
     "Budget (float)": 170000000.0,
-    "Box office (float)": 353300000.0
+    "Box office (float)": 353300000.0,
+    "Release date (datetime)": "2019-03-11 00:00:00"
   },
   {
     "title": "Penguins",
@@ -17501,7 +17910,8 @@
     "Box office": "$7.7\n million",
     "Running time (int)": 76,
     "Budget (float)": null,
-    "Box office (float)": 7.7
+    "Box office (float)": 7.7,
+    "Release date (datetime)": "2019-04-17 00:00:00"
   },
   {
     "title": "Aladdin",
@@ -17554,7 +17964,8 @@
     "Box office": "",
     "Running time (int)": 128,
     "Budget (float)": 183000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2019-05-08 00:00:00"
   },
   {
     "title": "Toy Story 4",
@@ -17617,7 +18028,8 @@
     "Box office": "$1.073 billion",
     "Running time (int)": 100,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 1073000000.0
+    "Box office (float)": 1073000000.0,
+    "Release date (datetime)": "2019-06-11 00:00:00"
   },
   {
     "title": "The Lion King",
@@ -17667,7 +18079,8 @@
     "Box office": "$1.657 billion",
     "Running time (int)": 118,
     "Budget (float)": 250.0,
-    "Box office (float)": 1657000000.0
+    "Box office (float)": 1657000000.0,
+    "Release date (datetime)": "2019-07-09 00:00:00"
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -17721,7 +18134,8 @@
     "Box office": "$491.7 million",
     "Running time (int)": 119,
     "Budget (float)": 185000000.0,
-    "Box office (float)": 491700000.0
+    "Box office (float)": 491700000.0,
+    "Release date (datetime)": "2019-10-18 00:00:00"
   },
   {
     "title": "Lady and the Tramp",
@@ -17768,7 +18182,8 @@
     "Budget": "$60 million",
     "Running time (int)": 104,
     "Budget (float)": 60000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2019-11-12 00:00:00"
   },
   {
     "title": "Noelle",
@@ -17799,7 +18214,8 @@
     "Language": "English",
     "Running time (int)": 100,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2019-11-12 00:00:00"
   },
   {
     "title": "Frozen II",
@@ -17825,9 +18241,9 @@
       "Jonathan Groff"
     ],
     "Music by": [
-      "Christophe Beck",
-      "Robert Lopez",
-      "Kristen Anderson-Lopez"
+      "Christophe Beck (score)",
+      "Robert Lopez (songs)",
+      "Kristen Anderson-Lopez (songs)"
     ],
     "Cinematography": [
       "Tracy Scott Beattie (layout)",
@@ -17853,7 +18269,8 @@
     "Box office": "$1.450 billion",
     "Running time (int)": 103,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 1450000000.0
+    "Box office (float)": 1450000000.0,
+    "Release date (datetime)": "2019-11-07 00:00:00"
   },
   {
     "title": "Togo",
@@ -17877,7 +18294,8 @@
     "Budget": "$40 million",
     "Running time (int)": 114,
     "Budget (float)": 40000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2019-12-20 00:00:00"
   },
   {
     "title": "Timmy Failure: Mistakes Were Made",
@@ -17922,7 +18340,8 @@
     "Budget": "$42 million",
     "Running time (int)": 99,
     "Budget (float)": 42000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-01-25 00:00:00"
   },
   {
     "title": "Onward",
@@ -17972,7 +18391,8 @@
     "Box office": "$141.9 million",
     "Running time (int)": 102,
     "Budget (float)": 175.0,
-    "Box office (float)": 141900000.0
+    "Box office (float)": 141900000.0,
+    "Release date (datetime)": "2020-02-21 00:00:00"
   },
   {
     "title": "Stargirl",
@@ -18017,7 +18437,8 @@
     "Language": "English",
     "Running time (int)": 107,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-03-13 00:00:00"
   },
   {
     "title": "Dolphin Reef",
@@ -18049,7 +18470,8 @@
     "Language": "English",
     "Running time (int)": 78,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2018-03-28 00:00:00"
   },
   {
     "title": "Elephant",
@@ -18079,7 +18501,8 @@
     "Language": "English",
     "Running time (int)": 89,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-04-03 00:00:00"
   },
   {
     "title": "Artemis Fowl",
@@ -18124,7 +18547,8 @@
     "Budget": "$125 million",
     "Running time (int)": 95,
     "Budget (float)": 125000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-06-12 00:00:00"
   },
   {
     "title": "Hamilton",
@@ -18172,7 +18596,8 @@
     "Budget": "$12.5 million (stage production)",
     "Running time (int)": 160,
     "Budget (float)": 12500000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-07-03 00:00:00"
   },
   {
     "title": "Black Is King",
@@ -18270,7 +18695,8 @@
     "Language": "English",
     "Running time (int)": 85,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-07-31 00:00:00"
   },
   {
     "title": "Magic Camp",
@@ -18320,7 +18746,8 @@
     "Budget": "$24 million",
     "Running time (int)": 100,
     "Budget (float)": 24000000.0,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-08-14 00:00:00"
   },
   {
     "title": "The One and Only Ivan",
@@ -18361,7 +18788,8 @@
     "Language": "English",
     "Running time (int)": 95,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-08-21 00:00:00"
   },
   {
     "title": "Mulan",
@@ -18412,7 +18840,8 @@
     "Box office": "$70 million",
     "Running time (int)": 115,
     "Budget (float)": 200000000.0,
-    "Box office (float)": 70000000.0
+    "Box office (float)": 70000000.0,
+    "Release date (datetime)": "2020-03-09 00:00:00"
   },
   {
     "title": "Godmothered",
@@ -18443,7 +18872,8 @@
     "Language": "English",
     "Running time (int)": 113,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-12-04 00:00:00"
   },
   {
     "title": "Safety",
@@ -18477,7 +18907,8 @@
     "Language": "English",
     "Running time (int)": 119,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2020-12-11 00:00:00"
   },
   {
     "title": "Soul",
@@ -18526,7 +18957,8 @@
     "Box office": "$121.8 million",
     "Running time (int)": 101,
     "Budget (float)": 150000000.0,
-    "Box office (float)": 121800000.0
+    "Box office (float)": 121800000.0,
+    "Release date (datetime)": "2020-10-11 00:00:00"
   },
   {
     "title": "Flora & Ulysses",
@@ -18564,7 +18996,8 @@
     "Language": "English",
     "Running time (int)": 95,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2021-02-19 00:00:00"
   },
   {
     "title": "Raya and the Last Dragon",
@@ -18605,7 +19038,8 @@
     "Language": "English",
     "Running time (int)": 114,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2021-03-05 00:00:00"
   },
   {
     "title": "Cruella",
@@ -18651,7 +19085,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2021-05-28 00:00:00"
   },
   {
     "title": "Jungle Cruise",
@@ -18708,7 +19143,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2021-07-30 00:00:00"
   },
   {
     "title": "The Beatles: Get Back",
@@ -18746,7 +19182,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Encanto",
@@ -18778,7 +19215,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "2021-11-24 00:00:00"
   },
   {
     "title": "The Little Mermaid",
@@ -18834,7 +19272,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Peter Pan & Wendy",
@@ -18870,7 +19309,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Home Alone",
@@ -18909,7 +19349,8 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   },
   {
     "title": "Shrunk",
@@ -18949,6 +19390,7 @@
     "Language": "English",
     "Running time (int)": null,
     "Budget (float)": null,
-    "Box office (float)": null
+    "Box office (float)": null,
+    "Release date (datetime)": "None"
   }
 ]
