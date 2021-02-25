@@ -12,7 +12,7 @@
     "Running time (int)": 41,
     "Budget (float)": null,
     "Box office (float)": 45.472,
-    "Release date (datetime)": "1937-05-19 00:00:00",
+    "Release date (datetime)": "May 19 1937",
     "imdb": "7.1",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -74,7 +74,7 @@
     "Running time (int)": 83,
     "Budget (float)": 1490000.0,
     "Box office (float)": 418000000.0,
-    "Release date (datetime)": "1937-12-21 00:00:00",
+    "Release date (datetime)": "December 21 1937",
     "imdb": "7.6",
     "metascore": "95",
     "rotten_tomatoes": null
@@ -134,7 +134,7 @@
     "Running time (int)": 88,
     "Budget (float)": 2600000.0,
     "Box office (float)": 164000000.0,
-    "Release date (datetime)": "1940-02-07 00:00:00",
+    "Release date (datetime)": "February 07 1940",
     "imdb": "7.4",
     "metascore": "99",
     "rotten_tomatoes": "73%"
@@ -183,7 +183,7 @@
     "Running time (int)": 126,
     "Budget (float)": 2280000.0,
     "Box office (float)": 83300000.0,
-    "Release date (datetime)": "1940-11-13 00:00:00",
+    "Release date (datetime)": "November 13 1940",
     "imdb": "7.7",
     "metascore": "96",
     "rotten_tomatoes": "95%"
@@ -248,10 +248,10 @@
     "Running time (int)": 74,
     "Budget (float)": 600000.0,
     "Box office (float)": 960000.0,
-    "Release date (datetime)": "1941-06-20 00:00:00",
+    "Release date (datetime)": "June 20 1941",
     "imdb": "6.9",
     "metascore": "N/A",
-    "rotten_tomatoes": "68%"
+    "rotten_tomatoes": "67%"
   },
   {
     "title": "Dumbo",
@@ -306,7 +306,7 @@
     "Running time (int)": 64,
     "Budget (float)": 950000.0,
     "Box office (float)": 1300000.0,
-    "Release date (datetime)": "1941-10-23 00:00:00",
+    "Release date (datetime)": "October 23 1941",
     "imdb": "7.2",
     "metascore": "96",
     "rotten_tomatoes": "98%"
@@ -362,7 +362,7 @@
     "Running time (int)": 70,
     "Budget (float)": 858000.0,
     "Box office (float)": 267399999.99999997,
-    "Release date (datetime)": "1942-08-09 00:00:00",
+    "Release date (datetime)": "August 09 1942",
     "imdb": "7.3",
     "metascore": "91",
     "rotten_tomatoes": "90%"
@@ -422,7 +422,7 @@
     "Running time (int)": 42,
     "Budget (float)": null,
     "Box office (float)": 1135000.0,
-    "Release date (datetime)": "1942-08-24 00:00:00",
+    "Release date (datetime)": "August 24 1942",
     "imdb": "6.1",
     "metascore": "60",
     "rotten_tomatoes": null
@@ -472,7 +472,7 @@
     "Running time (int)": 65,
     "Budget (float)": 788000.0,
     "Box office (float)": 799000.0,
-    "Release date (datetime)": "1943-07-17 00:00:00",
+    "Release date (datetime)": "July 17 1943",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "54%"
@@ -526,7 +526,7 @@
     "Running time (int)": 71,
     "Budget (float)": null,
     "Box office (float)": 3355000.0,
-    "Release date (datetime)": "1944-12-21 00:00:00",
+    "Release date (datetime)": "December 21 1944",
     "imdb": "6.4",
     "metascore": "85",
     "rotten_tomatoes": "82%"
@@ -592,7 +592,7 @@
     "Running time (int)": 75,
     "Budget (float)": 1350000.0,
     "Box office (float)": 3275000.0,
-    "Release date (datetime)": "1946-04-20 00:00:00",
+    "Release date (datetime)": "April 20 1946",
     "imdb": "6.3",
     "metascore": "60",
     "rotten_tomatoes": "70%"
@@ -650,7 +650,7 @@
     "Running time (int)": 94,
     "Budget (float)": 2125000.0,
     "Box office (float)": 65000000.0,
-    "Release date (datetime)": "1946-11-12 00:00:00",
+    "Release date (datetime)": "November 12 1946",
     "imdb": "7.1",
     "metascore": "54",
     "rotten_tomatoes": "50%"
@@ -710,7 +710,7 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": 3165000.0,
-    "Release date (datetime)": "1947-09-27 00:00:00",
+    "Release date (datetime)": "September 27 1947",
     "imdb": "6.5",
     "metascore": "66",
     "rotten_tomatoes": "67%"
@@ -774,7 +774,7 @@
     "Running time (int)": 75,
     "Budget (float)": 1500000.0,
     "Box office (float)": 2560000.0,
-    "Release date (datetime)": "1948-05-27 00:00:00",
+    "Release date (datetime)": "May 27 1948",
     "imdb": "6.3",
     "metascore": "69",
     "rotten_tomatoes": "80%"
@@ -828,7 +828,7 @@
     "Running time (int)": 82,
     "Budget (float)": 1500000.0,
     "Box office (float)": 3700000.0,
-    "Release date (datetime)": "1948-11-29 00:00:00",
+    "Release date (datetime)": "November 29 1948",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "52%"
@@ -887,7 +887,7 @@
     "Running time (int)": 68,
     "Budget (float)": null,
     "Box office (float)": 1625000.0,
-    "Release date (datetime)": "1949-10-05 00:00:00",
+    "Release date (datetime)": "October 05 1949",
     "imdb": "7.0",
     "metascore": "74",
     "rotten_tomatoes": "94%"
@@ -950,7 +950,7 @@
     "Running time (int)": 74,
     "Budget (float)": 2900000.0,
     "Box office (float)": 263600000.00000003,
-    "Release date (datetime)": "1950-02-15 00:00:00",
+    "Release date (datetime)": "February 15 1950",
     "imdb": "6.9",
     "metascore": "67",
     "rotten_tomatoes": "83%"
@@ -994,7 +994,7 @@
     "Running time (int)": 96,
     "Budget (float)": 1800000.0,
     "Box office (float)": 4100000.0,
-    "Release date (datetime)": "1950-06-22 00:00:00",
+    "Release date (datetime)": "June 22 1950",
     "imdb": "6.9",
     "metascore": "89",
     "rotten_tomatoes": null
@@ -1058,7 +1058,7 @@
     "Running time (int)": 75,
     "Budget (float)": 3000000.0,
     "Box office (float)": 5600000.0,
-    "Release date (datetime)": "1951-07-26 00:00:00",
+    "Release date (datetime)": "July 26 1951",
     "imdb": "6.4",
     "metascore": "53",
     "rotten_tomatoes": "51%"
@@ -1097,7 +1097,7 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 2100000.0,
-    "Release date (datetime)": "1952-03-13 00:00:00",
+    "Release date (datetime)": "March 13 1952",
     "imdb": "6.7",
     "metascore": "64",
     "rotten_tomatoes": "66%"
@@ -1147,7 +1147,7 @@
     "Running time (int)": 77,
     "Budget (float)": 4000000.0,
     "Box office (float)": 87400000.0,
-    "Release date (datetime)": "1953-02-05 00:00:00",
+    "Release date (datetime)": "February 05 1953",
     "imdb": "7.3",
     "metascore": "76",
     "rotten_tomatoes": "78%"
@@ -1200,10 +1200,10 @@
     "Running time (int)": 92,
     "Budget (float)": 2000000.0,
     "Box office (float)": 1000000.0,
-    "Release date (datetime)": "1953-08-08 00:00:00",
+    "Release date (datetime)": "August 08 1953",
     "imdb": "6.4",
     "metascore": "N/A",
-    "rotten_tomatoes": "35%"
+    "rotten_tomatoes": "38%"
   },
   {
     "title": "The Living Desert",
@@ -1234,7 +1234,7 @@
     "Running time (int)": 69,
     "Budget (float)": 300000.0,
     "Box office (float)": 2600000.0,
-    "Release date (datetime)": "1953-11-10 00:00:00",
+    "Release date (datetime)": "November 10 1953",
     "imdb": "7.5",
     "metascore": "69",
     "rotten_tomatoes": "74%"
@@ -1274,7 +1274,7 @@
     "Running time (int)": 81,
     "Budget (float)": 1800000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "36%"
@@ -1309,7 +1309,7 @@
     "Running time (int)": 60,
     "Budget (float)": null,
     "Box office (float)": 1750000.0,
-    "Release date (datetime)": "1954-08-17 00:00:00",
+    "Release date (datetime)": "August 17 1954",
     "imdb": "7.4",
     "metascore": "N/A",
     "rotten_tomatoes": "81%"
@@ -1350,7 +1350,7 @@
     "Running time (int)": 127,
     "Budget (float)": 5000000.0,
     "Box office (float)": 28200000.0,
-    "Release date (datetime)": "1954-12-23 00:00:00",
+    "Release date (datetime)": "December 23 1954",
     "imdb": "7.2",
     "metascore": "83",
     "rotten_tomatoes": "89%"
@@ -1382,7 +1382,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 2150000.0,
-    "Release date (datetime)": "1955-05-25 00:00:00",
+    "Release date (datetime)": "May 25 1955",
     "imdb": "7.0",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -1431,7 +1431,7 @@
     "Running time (int)": 76,
     "Budget (float)": 4000000.0,
     "Box office (float)": 187000000.0,
-    "Release date (datetime)": "1955-06-22 00:00:00",
+    "Release date (datetime)": "June 22 1955",
     "imdb": "7.3",
     "metascore": "78",
     "rotten_tomatoes": "93%"
@@ -1463,7 +1463,7 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": 2100000.0,
-    "Release date (datetime)": "1955-09-14 00:00:00",
+    "Release date (datetime)": "September 14 1955",
     "imdb": "7.2",
     "metascore": "N/A",
     "rotten_tomatoes": "77%"
@@ -1486,7 +1486,7 @@
     "Running time (int)": 73,
     "Budget (float)": null,
     "Box office (float)": 1600000.0,
-    "Release date (datetime)": "1955-12-22 00:00:00",
+    "Release date (datetime)": "December 22 1955",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -1519,7 +1519,7 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": 1700000.0,
-    "Release date (datetime)": "1956-06-08 00:00:00",
+    "Release date (datetime)": "June 08 1956",
     "imdb": "6.9",
     "metascore": "N/A",
     "rotten_tomatoes": "53%"
@@ -1553,7 +1553,7 @@
     "Running time (int)": 81,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1956-07-18 00:00:00",
+    "Release date (datetime)": "July 18 1956",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "73%"
@@ -1592,7 +1592,7 @@
     "Running time (int)": 70,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1956-11-06 00:00:00",
+    "Release date (datetime)": "November 06 1956",
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -1630,7 +1630,7 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": 2750000.0,
-    "Release date (datetime)": "1956-12-20 00:00:00",
+    "Release date (datetime)": "December 20 1956",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -1665,7 +1665,7 @@
     "Running time (int)": 80,
     "Budget (float)": 700000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1957-06-19 00:00:00",
+    "Release date (datetime)": "June 19 1957",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -1713,7 +1713,7 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": 1750000.0,
-    "Release date (datetime)": "1957-08-28 00:00:00",
+    "Release date (datetime)": "August 28 1957",
     "imdb": "6.7",
     "metascore": "N/A",
     "rotten_tomatoes": "67%"
@@ -1756,7 +1756,7 @@
     "Running time (int)": 83,
     "Budget (float)": null,
     "Box office (float)": 6250000.0,
-    "Release date (datetime)": "1957-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1957",
     "imdb": "7.3",
     "metascore": "84",
     "rotten_tomatoes": "100%"
@@ -1790,7 +1790,7 @@
     "Running time (int)": 83,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1958-07-08 00:00:00",
+    "Release date (datetime)": "July 08 1958",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "36%"
@@ -1818,7 +1818,7 @@
     "Running time (int)": 72,
     "Budget (float)": null,
     "Box office (float)": 1800000.0,
-    "Release date (datetime)": "1958-08-12 00:00:00",
+    "Release date (datetime)": "August 12 1958",
     "imdb": "5.1",
     "metascore": "N/A",
     "rotten_tomatoes": "25%"
@@ -1865,7 +1865,7 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 2500000.0,
-    "Release date (datetime)": "1958-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1958",
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": "71%"
@@ -1922,7 +1922,7 @@
     "Running time (int)": 75,
     "Budget (float)": 6000000.0,
     "Box office (float)": 51600000.0,
-    "Release date (datetime)": "1959-01-29 00:00:00",
+    "Release date (datetime)": "January 29 1959",
     "imdb": "7.2",
     "metascore": "85",
     "rotten_tomatoes": "89%"
@@ -1967,7 +1967,7 @@
     "Running time (int)": 104,
     "Budget (float)": 1000000.0,
     "Box office (float)": 12300000.0,
-    "Release date (datetime)": "1959-03-19 00:00:00",
+    "Release date (datetime)": "March 19 1959",
     "imdb": "4.4",
     "metascore": "43",
     "rotten_tomatoes": "26%"
@@ -2016,7 +2016,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1959-06-24 00:00:00",
+    "Release date (datetime)": "June 24 1959",
     "imdb": "7.2",
     "metascore": "80",
     "rotten_tomatoes": "100%"
@@ -2053,7 +2053,7 @@
     "Running time (int)": 105,
     "Budget (float)": 2000000.0,
     "Box office (float)": 1700000.0,
-    "Release date (datetime)": "1959-11-10 00:00:00",
+    "Release date (datetime)": "November 10 1959",
     "imdb": "7.1",
     "metascore": "N/A",
     "rotten_tomatoes": "76%"
@@ -2085,7 +2085,7 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": 3100000.0,
-    "Release date (datetime)": "1960-01-21 00:00:00",
+    "Release date (datetime)": "January 21 1960",
     "imdb": "7.0",
     "metascore": "N/A",
     "rotten_tomatoes": "67%"
@@ -2119,7 +2119,7 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1960-02-24 00:00:00",
+    "Release date (datetime)": "February 24 1960",
     "imdb": "7.6",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -2157,7 +2157,7 @@
     "Running time (int)": 134,
     "Budget (float)": 2500000.0,
     "Box office (float)": 3750000.0,
-    "Release date (datetime)": "1960-05-19 00:00:00",
+    "Release date (datetime)": "May 19 1960",
     "imdb": "7.4",
     "metascore": "N/A",
     "rotten_tomatoes": "86%"
@@ -2188,7 +2188,7 @@
     "Running time (int)": 69,
     "Budget (float)": null,
     "Box office (float)": 2300000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "71%"
@@ -2229,7 +2229,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1960-11-01 00:00:00",
+    "Release date (datetime)": "November 01 1960",
     "imdb": "5.7",
     "metascore": "N/A",
     "rotten_tomatoes": "25%"
@@ -2279,7 +2279,7 @@
     "Running time (int)": 126,
     "Budget (float)": 4000000.0,
     "Box office (float)": 40000000.0,
-    "Release date (datetime)": "1960-12-21 00:00:00",
+    "Release date (datetime)": "December 21 1960",
     "imdb": "7.2",
     "metascore": "61",
     "rotten_tomatoes": "82%"
@@ -2325,7 +2325,7 @@
     "Running time (int)": 79,
     "Budget (float)": 3600000.0,
     "Box office (float)": 303000000.0,
-    "Release date (datetime)": "1961-01-25 00:00:00",
+    "Release date (datetime)": "January 25 1961",
     "imdb": "7.3",
     "metascore": "83",
     "rotten_tomatoes": "98%"
@@ -2366,7 +2366,7 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 25400000.0,
-    "Release date (datetime)": "1961-03-16 00:00:00",
+    "Release date (datetime)": "March 16 1961",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -2409,7 +2409,7 @@
     "Running time (int)": 128,
     "Budget (float)": null,
     "Box office (float)": 25100000.0,
-    "Release date (datetime)": "1961-06-21 00:00:00",
+    "Release date (datetime)": "June 21 1961",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -2459,7 +2459,7 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1961-07-12 00:00:00",
+    "Release date (datetime)": "July 12 1961",
     "imdb": "6.9",
     "metascore": "N/A",
     "rotten_tomatoes": "55%"
@@ -2490,7 +2490,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1961-07-17 00:00:00",
+    "Release date (datetime)": "July 17 1961",
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -2537,7 +2537,7 @@
     "Running time (int)": 105,
     "Budget (float)": 3000000.0,
     "Box office (float)": 4600000.0,
-    "Release date (datetime)": "1961-12-14 00:00:00",
+    "Release date (datetime)": "December 14 1961",
     "imdb": "6.3",
     "metascore": "55",
     "rotten_tomatoes": "36%"
@@ -2576,7 +2576,7 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "1962-04-05 00:00:00",
+    "Release date (datetime)": "April 05 1962",
     "imdb": "5.4",
     "metascore": "N/A",
     "rotten_tomatoes": "55%"
@@ -2613,7 +2613,7 @@
     "Running time (int)": 130,
     "Budget (float)": 3000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": "1962-05-17 00:00:00",
+    "Release date (datetime)": "May 17 1962",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": "36%"
@@ -2650,7 +2650,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1962-06-06 00:00:00",
+    "Release date (datetime)": "June 06 1962",
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": "46%"
@@ -2673,7 +2673,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1962-09-26 00:00:00",
+    "Release date (datetime)": "September 26 1962",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "75%"
@@ -2722,7 +2722,7 @@
     "Running time (int)": 67,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1962-11-07 00:00:00",
+    "Release date (datetime)": "November 07 1962",
     "imdb": "7.0",
     "metascore": "N/A",
     "rotten_tomatoes": "33%"
@@ -2769,7 +2769,7 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 21745500.0,
-    "Release date (datetime)": "1962-11-14 00:00:00",
+    "Release date (datetime)": "November 14 1962",
     "imdb": "6.6",
     "metascore": "N/A",
     "rotten_tomatoes": "63%"
@@ -2806,7 +2806,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 22100000.0,
-    "Release date (datetime)": "1963-01-16 00:00:00",
+    "Release date (datetime)": "January 16 1963",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "88%"
@@ -2849,7 +2849,7 @@
     "Running time (int)": 118,
     "Budget (float)": null,
     "Box office (float)": 2550000.0,
-    "Release date (datetime)": "1963-03-29 00:00:00",
+    "Release date (datetime)": "March 29 1963",
     "imdb": "6.6",
     "metascore": "N/A",
     "rotten_tomatoes": "72%"
@@ -2884,7 +2884,7 @@
     "Running time (int)": 103,
     "Budget (float)": null,
     "Box office (float)": 3000000.0,
-    "Release date (datetime)": "1963-06-01 00:00:00",
+    "Release date (datetime)": "June 01 1963",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -2928,7 +2928,7 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 4350000.0,
-    "Release date (datetime)": "1963-07-07 00:00:00",
+    "Release date (datetime)": "July 07 1963",
     "imdb": "7.1",
     "metascore": "N/A",
     "rotten_tomatoes": "76%"
@@ -2970,7 +2970,7 @@
     "Running time (int)": 80,
     "Budget (float)": null,
     "Box office (float)": 4200000.0,
-    "Release date (datetime)": "1963-11-20 00:00:00",
+    "Release date (datetime)": "November 20 1963",
     "imdb": "7.1",
     "metascore": "87",
     "rotten_tomatoes": "89%"
@@ -3008,7 +3008,7 @@
     "Running time (int)": 79,
     "Budget (float)": 3000000.0,
     "Box office (float)": 22200000.0,
-    "Release date (datetime)": "1963-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1963",
     "imdb": "7.2",
     "metascore": "61",
     "rotten_tomatoes": "66%"
@@ -3044,7 +3044,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 1600000.0,
-    "Release date (datetime)": "1964-03-12 00:00:00",
+    "Release date (datetime)": "March 12 1964",
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": "54%"
@@ -3083,7 +3083,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "1964-02-11 00:00:00",
+    "Release date (datetime)": "February 11 1964",
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": "63%"
@@ -3133,7 +3133,7 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 2250000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.2",
     "metascore": "N/A",
     "rotten_tomatoes": "73%"
@@ -3168,7 +3168,7 @@
     "Running time (int)": 118,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "1964-07-02 00:00:00",
+    "Release date (datetime)": "July 02 1964",
     "imdb": "6.7",
     "metascore": "N/A",
     "rotten_tomatoes": "61%"
@@ -3218,7 +3218,7 @@
     "Running time (int)": 139,
     "Budget (float)": 4.4,
     "Box office (float)": 103100000.0,
-    "Release date (datetime)": "1964-08-27 00:00:00",
+    "Release date (datetime)": "August 27 1964",
     "imdb": "7.8",
     "metascore": "88",
     "rotten_tomatoes": "98%"
@@ -3254,7 +3254,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 1275000.0,
-    "Release date (datetime)": "1964-12-18 00:00:00",
+    "Release date (datetime)": "December 18 1964",
     "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -3294,7 +3294,7 @@
     "Running time (int)": 131,
     "Budget (float)": null,
     "Box office (float)": 3500000.0,
-    "Release date (datetime)": "1965-01-28 00:00:00",
+    "Release date (datetime)": "January 28 1965",
     "imdb": "6.7",
     "metascore": "N/A",
     "rotten_tomatoes": "56%"
@@ -3330,7 +3330,7 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "1965-08-18 00:00:00",
+    "Release date (datetime)": "August 18 1965",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "42%"
@@ -3371,7 +3371,7 @@
     "Running time (int)": 116,
     "Budget (float)": null,
     "Box office (float)": 28068222.0,
-    "Release date (datetime)": "1965-12-02 00:00:00",
+    "Release date (datetime)": "December 02 1965",
     "imdb": "6.8",
     "metascore": "71",
     "rotten_tomatoes": "94%"
@@ -3411,7 +3411,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 6200000.0,
-    "Release date (datetime)": "1966-02-04 00:00:00",
+    "Release date (datetime)": "February 04 1966",
     "imdb": "6.7",
     "metascore": "N/A",
     "rotten_tomatoes": "74%"
@@ -3452,7 +3452,7 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 22565634.0,
-    "Release date (datetime)": "1966-06-25 00:00:00",
+    "Release date (datetime)": "June 25 1966",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "41%"
@@ -3488,7 +3488,7 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1966-10-01 00:00:00",
+    "Release date (datetime)": "October 01 1966",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "9%"
@@ -3536,7 +3536,7 @@
     "Running time (int)": 131,
     "Budget (float)": null,
     "Box office (float)": 16207116.0,
-    "Release date (datetime)": "1966-12-01 00:00:00",
+    "Release date (datetime)": "December 01 1966",
     "imdb": "7.2",
     "metascore": "N/A",
     "rotten_tomatoes": "77%"
@@ -3566,7 +3566,7 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": 3000000.0,
-    "Release date (datetime)": "1967-02-08 00:00:00",
+    "Release date (datetime)": "February 08 1967",
     "imdb": "5.9",
     "metascore": "N/A",
     "rotten_tomatoes": "45%"
@@ -3606,7 +3606,7 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": 1900000.0,
-    "Release date (datetime)": "1967-03-08 00:00:00",
+    "Release date (datetime)": "March 08 1967",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -3650,7 +3650,7 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "1967-07-12 00:00:00",
+    "Release date (datetime)": "July 12 1967",
     "imdb": "6.6",
     "metascore": "N/A",
     "rotten_tomatoes": "58%"
@@ -3699,7 +3699,7 @@
     "Running time (int)": 78,
     "Budget (float)": 4000000.0,
     "Box office (float)": 378000000.0,
-    "Release date (datetime)": "1967-10-18 00:00:00",
+    "Release date (datetime)": "October 18 1967",
     "imdb": "7.4",
     "metascore": "77",
     "rotten_tomatoes": "94%"
@@ -3741,7 +3741,7 @@
     "Running time (int)": 75,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1967-10-19 00:00:00",
+    "Release date (datetime)": "October 19 1967",
     "imdb": "6.9",
     "metascore": "N/A",
     "rotten_tomatoes": "61%"
@@ -3801,7 +3801,7 @@
     "Running time (int)": 164,
     "Budget (float)": 5000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": "1967-06-23 00:00:00",
+    "Release date (datetime)": "June 23 1967",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -3839,7 +3839,7 @@
     "Running time (int)": 106,
     "Budget (float)": null,
     "Box office (float)": 21540050.0,
-    "Release date (datetime)": "1968-02-08 00:00:00",
+    "Release date (datetime)": "February 08 1968",
     "imdb": "6.9",
     "metascore": "71",
     "rotten_tomatoes": "82%"
@@ -3882,10 +3882,10 @@
     "Running time (int)": 110,
     "Budget (float)": null,
     "Box office (float)": 2250000.0,
-    "Release date (datetime)": "1968-03-21 00:00:00",
+    "Release date (datetime)": "March 21 1968",
     "imdb": "6.5",
     "metascore": "N/A",
-    "rotten_tomatoes": "62%"
+    "rotten_tomatoes": "61%"
   },
   {
     "title": "Never a Dull Moment",
@@ -3917,7 +3917,7 @@
     "Running time (int)": 99,
     "Budget (float)": null,
     "Box office (float)": 4150000.0,
-    "Release date (datetime)": "1968-06-26 00:00:00",
+    "Release date (datetime)": "June 26 1968",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "51%"
@@ -3955,7 +3955,7 @@
     "Running time (int)": 113,
     "Budget (float)": null,
     "Box office (float)": 3300000.0,
-    "Release date (datetime)": "1968-12-20 00:00:00",
+    "Release date (datetime)": "December 20 1968",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "70%"
@@ -3991,7 +3991,7 @@
     "Running time (int)": 108,
     "Budget (float)": 5000000.0,
     "Box office (float)": 51264000.0,
-    "Release date (datetime)": "1969-07-23 00:00:00",
+    "Release date (datetime)": "July 23 1969",
     "imdb": "6.5",
     "metascore": "48",
     "rotten_tomatoes": "76%"
@@ -4017,7 +4017,7 @@
     "Running time (int)": 112,
     "Budget (float)": null,
     "Box office (float)": 1300000.0,
-    "Release date (datetime)": "1969-03-21 00:00:00",
+    "Release date (datetime)": "March 21 1969",
     "imdb": "5.9",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -4052,7 +4052,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1969-06-11 00:00:00",
+    "Release date (datetime)": "June 11 1969",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "44%"
@@ -4084,7 +4084,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 5500000.0,
-    "Release date (datetime)": "1969-12-31 00:00:00",
+    "Release date (datetime)": "December 31 1969",
     "imdb": "6.1",
     "metascore": "54",
     "rotten_tomatoes": "50%"
@@ -4127,7 +4127,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1970-02-11 00:00:00",
+    "Release date (datetime)": "February 11 1970",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": "27%"
@@ -4163,7 +4163,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 18607492.0,
-    "Release date (datetime)": "1970-07-01 00:00:00",
+    "Release date (datetime)": "July 01 1970",
     "imdb": "5.5",
     "metascore": "N/A",
     "rotten_tomatoes": "49%"
@@ -4196,7 +4196,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "1970-12-15 00:00:00",
+    "Release date (datetime)": "December 15 1970",
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -4249,7 +4249,7 @@
     "Running time (int)": 79,
     "Budget (float)": 4000000.0,
     "Box office (float)": 191000000.0,
-    "Release date (datetime)": "1970-12-11 00:00:00",
+    "Release date (datetime)": "December 11 1970",
     "imdb": "7.1",
     "metascore": "66",
     "rotten_tomatoes": "64%"
@@ -4285,7 +4285,7 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1971-03-17 00:00:00",
+    "Release date (datetime)": "March 17 1971",
     "imdb": "6.0",
     "metascore": "55",
     "rotten_tomatoes": "83%"
@@ -4311,7 +4311,7 @@
     "Running time (int)": 113,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1971-06-22 00:00:00",
+    "Release date (datetime)": "June 22 1971",
     "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": "20%"
@@ -4345,7 +4345,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 5100000.0,
-    "Release date (datetime)": "1971-06-30 00:00:00",
+    "Release date (datetime)": "June 30 1971",
     "imdb": "5.9",
     "metascore": "45",
     "rotten_tomatoes": "17%"
@@ -4393,7 +4393,7 @@
     "Running time (int)": 118,
     "Budget (float)": 6300000.0,
     "Box office (float)": 17900000.0,
-    "Release date (datetime)": "1971-10-07 00:00:00",
+    "Release date (datetime)": "October 07 1971",
     "imdb": "7.1",
     "metascore": "59",
     "rotten_tomatoes": "66%"
@@ -4424,7 +4424,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1972-03-22 00:00:00",
+    "Release date (datetime)": "March 22 1972",
     "imdb": "5.7",
     "metascore": "N/A",
     "rotten_tomatoes": "48%"
@@ -4455,7 +4455,7 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 4610000.0,
-    "Release date (datetime)": "1972-07-12 00:00:00",
+    "Release date (datetime)": "July 12 1972",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "80%"
@@ -4484,7 +4484,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1972-07-05 00:00:00",
+    "Release date (datetime)": "July 05 1972",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "43%"
@@ -4521,7 +4521,7 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1972-10-18 00:00:00",
+    "Release date (datetime)": "October 18 1972",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -4570,7 +4570,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 6100000.0,
-    "Release date (datetime)": "1972-12-22 00:00:00",
+    "Release date (datetime)": "December 22 1972",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "60%"
@@ -4602,7 +4602,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": 22583370.0,
-    "Release date (datetime)": "1973-02-01 00:00:00",
+    "Release date (datetime)": "February 01 1973",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": "34%"
@@ -4643,7 +4643,7 @@
     "Running time (int)": 93,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1973-03-23 00:00:00",
+    "Release date (datetime)": "March 23 1973",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "33%"
@@ -4675,7 +4675,7 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": 2000000.0,
-    "Release date (datetime)": "1973-06-20 00:00:00",
+    "Release date (datetime)": "June 20 1973",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "38%"
@@ -4722,7 +4722,7 @@
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
     "Box office (float)": 32000000.0,
-    "Release date (datetime)": "1973-11-08 00:00:00",
+    "Release date (datetime)": "November 08 1973",
     "imdb": "6.6",
     "metascore": "53",
     "rotten_tomatoes": "43%"
@@ -4757,7 +4757,7 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": 7000000.0,
-    "Release date (datetime)": "1973-12-14 00:00:00",
+    "Release date (datetime)": "December 14 1973",
     "imdb": "5.3",
     "metascore": "N/A",
     "rotten_tomatoes": "33%"
@@ -4797,7 +4797,7 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 38229000.0,
-    "Release date (datetime)": "1974-06-06 00:00:00",
+    "Release date (datetime)": "June 06 1974",
     "imdb": "5.7",
     "metascore": "49",
     "rotten_tomatoes": "80%"
@@ -4834,7 +4834,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
-    "Release date (datetime)": "1974-07-31 00:00:00",
+    "Release date (datetime)": "July 31 1974",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "33%"
@@ -4867,7 +4867,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1974-08-01 00:00:00",
+    "Release date (datetime)": "August 01 1974",
     "imdb": "5.9",
     "metascore": "N/A",
     "rotten_tomatoes": "29%"
@@ -4909,7 +4909,7 @@
     "Running time (int)": 93,
     "Budget (float)": 8000000.0,
     "Box office (float)": 10000000.0,
-    "Release date (datetime)": "1974-12-20 00:00:00",
+    "Release date (datetime)": "December 20 1974",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "43%"
@@ -4944,7 +4944,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 6600000.0,
-    "Release date (datetime)": "1975-02-06 00:00:00",
+    "Release date (datetime)": "February 06 1975",
     "imdb": "6.1",
     "metascore": "63",
     "rotten_tomatoes": "39%"
@@ -4984,7 +4984,7 @@
     "Running time (int)": 97,
     "Budget (float)": null,
     "Box office (float)": 20000000.0,
-    "Release date (datetime)": "1975-03-21 00:00:00",
+    "Release date (datetime)": "March 21 1975",
     "imdb": "6.4",
     "metascore": "60",
     "rotten_tomatoes": "76%"
@@ -5026,7 +5026,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 36853000.0,
-    "Release date (datetime)": "1975-07-24 00:00:00",
+    "Release date (datetime)": "July 24 1975",
     "imdb": "6.5",
     "metascore": "59",
     "rotten_tomatoes": "56%"
@@ -5061,10 +5061,10 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 5500000.0,
-    "Release date (datetime)": "1975-07-09 00:00:00",
+    "Release date (datetime)": "July 09 1975",
     "imdb": "6.0",
     "metascore": "N/A",
-    "rotten_tomatoes": "68%"
+    "rotten_tomatoes": "69%"
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
@@ -5113,7 +5113,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1975-10-08 00:00:00",
+    "Release date (datetime)": "October 08 1975",
     "imdb": "7.2",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -5155,7 +5155,7 @@
     "Running time (int)": 91,
     "Budget (float)": 1000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1975-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1975",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "60%"
@@ -5192,7 +5192,7 @@
     "Running time (int)": 112,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1976-02-11 00:00:00",
+    "Release date (datetime)": "February 11 1976",
     "imdb": "6.6",
     "metascore": "N/A",
     "rotten_tomatoes": "67%"
@@ -5232,7 +5232,7 @@
     "Running time (int)": 115,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1976-07-01 00:00:00",
+    "Release date (datetime)": "July 01 1976",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "46%"
@@ -5272,7 +5272,7 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": 21873000.0,
-    "Release date (datetime)": "1976-07-07 00:00:00",
+    "Release date (datetime)": "July 07 1976",
     "imdb": "5.9",
     "metascore": "52",
     "rotten_tomatoes": "59%"
@@ -5310,7 +5310,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 10500000.0,
-    "Release date (datetime)": "1976-12-17 00:00:00",
+    "Release date (datetime)": "December 17 1976",
     "imdb": "5.9",
     "metascore": "60",
     "rotten_tomatoes": "50%"
@@ -5345,7 +5345,7 @@
     "Running time (int)": 95,
     "Budget (float)": 5000000.0,
     "Box office (float)": 36000000.0,
-    "Release date (datetime)": "1976-12-18 00:00:00",
+    "Release date (datetime)": "December 18 1976",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -5387,7 +5387,7 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1976-05-26 00:00:00",
+    "Release date (datetime)": "May 26 1976",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -5447,7 +5447,7 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1977-03-11 00:00:00",
+    "Release date (datetime)": "March 11 1977",
     "imdb": "7.6",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -5471,7 +5471,7 @@
     "Running time (int)": 48,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1977-06-22 00:00:00",
+    "Release date (datetime)": "June 22 1977",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "20%"
@@ -5535,7 +5535,7 @@
     "Running time (int)": 77,
     "Budget (float)": 7500000.0,
     "Box office (float)": 169000000.0,
-    "Release date (datetime)": "1977-06-22 00:00:00",
+    "Release date (datetime)": "June 22 1977",
     "imdb": "6.9",
     "metascore": "74",
     "rotten_tomatoes": "81%"
@@ -5578,7 +5578,7 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": 29000000.0,
-    "Release date (datetime)": "1977-06-24 00:00:00",
+    "Release date (datetime)": "June 24 1977",
     "imdb": "5.7",
     "metascore": "38",
     "rotten_tomatoes": "60%"
@@ -5623,7 +5623,7 @@
     "Running time (int)": 128,
     "Budget (float)": 10000000.0,
     "Box office (float)": 36.0,
-    "Release date (datetime)": "1977-11-03 00:00:00",
+    "Release date (datetime)": "November 03 1977",
     "imdb": "6.7",
     "metascore": "71",
     "rotten_tomatoes": "88%"
@@ -5655,7 +5655,7 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1977-12-16 00:00:00",
+    "Release date (datetime)": "December 16 1977",
     "imdb": "6.8",
     "metascore": "68",
     "rotten_tomatoes": "71%"
@@ -5691,7 +5691,7 @@
     "Running time (int)": 94,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1978-03-10 00:00:00",
+    "Release date (datetime)": "March 10 1978",
     "imdb": "5.8",
     "metascore": "51",
     "rotten_tomatoes": "50%"
@@ -5724,7 +5724,7 @@
     "Running time (int)": 104,
     "Budget (float)": 3500000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1978-06-30 00:00:00",
+    "Release date (datetime)": "June 30 1978",
     "imdb": "6.1",
     "metascore": "58",
     "rotten_tomatoes": "67%"
@@ -5758,7 +5758,7 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1978-07-05 00:00:00",
+    "Release date (datetime)": "July 05 1978",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "65%"
@@ -5798,7 +5798,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1979-02-09 00:00:00",
+    "Release date (datetime)": "February 09 1979",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "78%"
@@ -5838,7 +5838,7 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 20931111.0,
-    "Release date (datetime)": "1979-06-27 00:00:00",
+    "Release date (datetime)": "June 27 1979",
     "imdb": "6.2",
     "metascore": "37",
     "rotten_tomatoes": "54%"
@@ -5875,7 +5875,7 @@
     "Running time (int)": 93,
     "Budget (float)": 5250000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1979-07-19 00:00:00",
+    "Release date (datetime)": "July 19 1979",
     "imdb": "5.3",
     "metascore": "66",
     "rotten_tomatoes": "32%"
@@ -5923,7 +5923,7 @@
     "Running time (int)": 98,
     "Budget (float)": 20000000.0,
     "Box office (float)": 35800000.0,
-    "Release date (datetime)": "1979-12-18 00:00:00",
+    "Release date (datetime)": "December 18 1979",
     "imdb": "6.0",
     "metascore": "52",
     "rotten_tomatoes": "38%"
@@ -5955,7 +5955,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1979-12-21 00:00:00",
+    "Release date (datetime)": "December 21 1979",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -5999,7 +5999,7 @@
     "Running time (int)": 112,
     "Budget (float)": null,
     "Box office (float)": 2900000.0,
-    "Release date (datetime)": "1980-02-08 00:00:00",
+    "Release date (datetime)": "February 08 1980",
     "imdb": "6.5",
     "metascore": "28",
     "rotten_tomatoes": "70%"
@@ -6045,7 +6045,7 @@
     "Running time (int)": 84,
     "Budget (float)": 9000000.0,
     "Box office (float)": 5000000.0,
-    "Release date (datetime)": "1980-04-17 00:00:00",
+    "Release date (datetime)": "April 17 1980",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -6089,7 +6089,7 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 18000000.0,
-    "Release date (datetime)": "1980-06-27 00:00:00",
+    "Release date (datetime)": "June 27 1980",
     "imdb": "5.0",
     "metascore": "55",
     "rotten_tomatoes": "40%"
@@ -6132,7 +6132,7 @@
     "Running time (int)": 97,
     "Budget (float)": 6000000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "1980-07-09 00:00:00",
+    "Release date (datetime)": "July 09 1980",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": "40%"
@@ -6181,10 +6181,10 @@
     "Running time (int)": 114,
     "Budget (float)": 20000000.0,
     "Box office (float)": 60000000.0,
-    "Release date (datetime)": "1980-12-06 00:00:00",
+    "Release date (datetime)": "December 06 1980",
     "imdb": "5.3",
     "metascore": "64",
-    "rotten_tomatoes": "61%"
+    "rotten_tomatoes": "63%"
   },
   {
     "title": "The Devil and Max Devlin",
@@ -6222,7 +6222,7 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": 16000000.0,
-    "Release date (datetime)": "1981-02-11 00:00:00",
+    "Release date (datetime)": "February 11 1981",
     "imdb": "5.1",
     "metascore": "N/A",
     "rotten_tomatoes": "18%"
@@ -6253,7 +6253,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1981-03-20 00:00:00",
+    "Release date (datetime)": "March 20 1981",
     "imdb": "7.8",
     "metascore": "85",
     "rotten_tomatoes": "95%"
@@ -6301,7 +6301,7 @@
     "Running time (int)": 109,
     "Budget (float)": 18000000.0,
     "Box office (float)": 14100000.0,
-    "Release date (datetime)": "1981-06-26 00:00:00",
+    "Release date (datetime)": "June 26 1981",
     "imdb": "6.7",
     "metascore": "68",
     "rotten_tomatoes": "84%"
@@ -6366,7 +6366,7 @@
     "Running time (int)": 83,
     "Budget (float)": 12000000.0,
     "Box office (float)": 63500000.0,
-    "Release date (datetime)": "1981-07-10 00:00:00",
+    "Release date (datetime)": "July 10 1981",
     "imdb": "7.3",
     "metascore": "65",
     "rotten_tomatoes": "70%"
@@ -6406,7 +6406,7 @@
     "Running time (int)": 90,
     "Budget (float)": 14000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1981-08-07 00:00:00",
+    "Release date (datetime)": "August 07 1981",
     "imdb": "5.8",
     "metascore": "N/A",
     "rotten_tomatoes": "23%"
@@ -6440,7 +6440,7 @@
     "Running time (int)": 107,
     "Budget (float)": null,
     "Box office (float)": 8000000.0,
-    "Release date (datetime)": "1982-02-05 00:00:00",
+    "Release date (datetime)": "February 05 1982",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "80%"
@@ -6480,7 +6480,7 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1982-07-09 00:00:00",
+    "Release date (datetime)": "July 09 1982",
     "imdb": "6.8",
     "metascore": "58",
     "rotten_tomatoes": "72%"
@@ -6522,7 +6522,7 @@
     "Running time (int)": 103,
     "Budget (float)": 5000000.0,
     "Box office (float)": 7400000.0,
-    "Release date (datetime)": "1982-07-30 00:00:00",
+    "Release date (datetime)": "July 30 1982",
     "imdb": "6.5",
     "metascore": "78",
     "rotten_tomatoes": "85%"
@@ -6558,7 +6558,7 @@
     "Running time (int)": 91,
     "Budget (float)": null,
     "Box office (float)": 4304286.0,
-    "Release date (datetime)": "1983-03-11 00:00:00",
+    "Release date (datetime)": "March 11 1983",
     "imdb": "5.4",
     "metascore": "N/A",
     "rotten_tomatoes": "33%"
@@ -6600,7 +6600,7 @@
     "Running time (int)": 95,
     "Budget (float)": 20000000.0,
     "Box office (float)": 8400000.0,
-    "Release date (datetime)": "1983-04-29 00:00:00",
+    "Release date (datetime)": "April 29 1983",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "60%"
@@ -6653,7 +6653,7 @@
     "Running time (int)": 105,
     "Budget (float)": 11000000.0,
     "Box office (float)": 27600000.0,
-    "Release date (datetime)": "1983-10-07 00:00:00",
+    "Release date (datetime)": "October 07 1983",
     "imdb": "7.5",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -6706,7 +6706,7 @@
     "Running time (int)": 113,
     "Budget (float)": 28000000.0,
     "Box office (float)": 11100000.0,
-    "Release date (datetime)": "1985-06-21 00:00:00",
+    "Release date (datetime)": "June 21 1985",
     "imdb": "6.8",
     "metascore": "42",
     "rotten_tomatoes": "53%"
@@ -6774,7 +6774,7 @@
     "Running time (int)": 80,
     "Budget (float)": 44000000.0,
     "Box office (float)": 21300000.0,
-    "Release date (datetime)": "1985-07-26 00:00:00",
+    "Release date (datetime)": "July 26 1985",
     "imdb": "6.4",
     "metascore": "59",
     "rotten_tomatoes": "53%"
@@ -6815,7 +6815,7 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": 9700000.0,
-    "Release date (datetime)": "1985-09-27 00:00:00",
+    "Release date (datetime)": "September 27 1985",
     "imdb": "7.1",
     "metascore": "66",
     "rotten_tomatoes": "91%"
@@ -6860,7 +6860,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 13000000.0,
-    "Release date (datetime)": "1985-11-22 00:00:00",
+    "Release date (datetime)": "November 22 1985",
     "imdb": "6.5",
     "metascore": "N/A",
     "rotten_tomatoes": "47%"
@@ -6921,7 +6921,7 @@
     "Running time (int)": 74,
     "Budget (float)": 14000000.0,
     "Box office (float)": 38700000.0,
-    "Release date (datetime)": "1986-07-02 00:00:00",
+    "Release date (datetime)": "July 02 1986",
     "imdb": "7.2",
     "metascore": "73",
     "rotten_tomatoes": "80%"
@@ -6973,7 +6973,7 @@
     "Running time (int)": 90,
     "Budget (float)": 9000000.0,
     "Box office (float)": 18564613.0,
-    "Release date (datetime)": "1986-08-01 00:00:00",
+    "Release date (datetime)": "August 01 1986",
     "imdb": "6.9",
     "metascore": "64",
     "rotten_tomatoes": "84%"
@@ -7010,7 +7010,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 22300000.0,
-    "Release date (datetime)": "1987-06-05 00:00:00",
+    "Release date (datetime)": "June 05 1987",
     "imdb": "6.3",
     "metascore": "53",
     "rotten_tomatoes": "55%"
@@ -7056,7 +7056,7 @@
     "Running time (int)": 110,
     "Budget (float)": 8700000.0,
     "Box office (float)": 13687027.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -7118,7 +7118,7 @@
     "Running time (int)": 74,
     "Budget (float)": 31000000.0,
     "Box office (float)": 121000000.0,
-    "Release date (datetime)": "1988-11-18 00:00:00",
+    "Release date (datetime)": "November 18 1988",
     "imdb": "6.7",
     "metascore": "58",
     "rotten_tomatoes": "50%"
@@ -7161,7 +7161,7 @@
     "Running time (int)": 93,
     "Budget (float)": 18000000.0,
     "Box office (float)": 222700000.0,
-    "Release date (datetime)": "1989-06-23 00:00:00",
+    "Release date (datetime)": "June 23 1989",
     "imdb": "6.4",
     "metascore": "63",
     "rotten_tomatoes": "77%"
@@ -7206,7 +7206,7 @@
     "Running time (int)": 84,
     "Budget (float)": 5000000.0,
     "Box office (float)": 8153677.0,
-    "Release date (datetime)": "1989-08-18 00:00:00",
+    "Release date (datetime)": "August 18 1989",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -7263,7 +7263,7 @@
     "Running time (int)": 83,
     "Budget (float)": 40000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "1989-11-17 00:00:00",
+    "Release date (datetime)": "November 17 1989",
     "imdb": "7.6",
     "metascore": "88",
     "rotten_tomatoes": "93%"
@@ -7311,7 +7311,7 @@
     "Running time (int)": 69,
     "Budget (float)": 20000000.0,
     "Box office (float)": 18100000.0,
-    "Release date (datetime)": "1990-08-03 00:00:00",
+    "Release date (datetime)": "August 03 1990",
     "imdb": "6.9",
     "metascore": "N/A",
     "rotten_tomatoes": "88%"
@@ -7360,7 +7360,7 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": 47400000.0,
-    "Release date (datetime)": "1990-11-16 00:00:00",
+    "Release date (datetime)": "November 16 1990",
     "imdb": "6.9",
     "metascore": "70",
     "rotten_tomatoes": "70%"
@@ -7409,7 +7409,7 @@
     "Running time (int)": 107,
     "Budget (float)": 14000000.0,
     "Box office (float)": 34800000.0,
-    "Release date (datetime)": "1991-01-18 00:00:00",
+    "Release date (datetime)": "January 18 1991",
     "imdb": "6.7",
     "metascore": "62",
     "rotten_tomatoes": "65%"
@@ -7459,7 +7459,7 @@
     "Running time (int)": 93,
     "Budget (float)": 8700000.0,
     "Box office (float)": 15100000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "6.7",
     "metascore": "N/A",
     "rotten_tomatoes": "69%"
@@ -7497,7 +7497,7 @@
     "Running time (int)": 88,
     "Budget (float)": null,
     "Box office (float)": 7300000.0,
-    "Release date (datetime)": "1991-05-24 00:00:00",
+    "Release date (datetime)": "May 24 1991",
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "73%"
@@ -7554,7 +7554,7 @@
     "Running time (int)": 108,
     "Budget (float)": 35000000.0,
     "Box office (float)": 46700000.0,
-    "Release date (datetime)": "1991-06-21 00:00:00",
+    "Release date (datetime)": "June 21 1991",
     "imdb": "6.5",
     "metascore": "61",
     "rotten_tomatoes": "66%"
@@ -7615,7 +7615,7 @@
     "Running time (int)": 84,
     "Budget (float)": 25000000.0,
     "Box office (float)": 440100000.0,
-    "Release date (datetime)": "1991-09-29 00:00:00",
+    "Release date (datetime)": "September 29 1991",
     "imdb": "8.0",
     "metascore": "95",
     "rotten_tomatoes": "94%"
@@ -7665,7 +7665,7 @@
     "Running time (int)": 121,
     "Budget (float)": 15000000.0,
     "Box office (float)": 2800000.0,
-    "Release date (datetime)": "1992-04-10 00:00:00",
+    "Release date (datetime)": "April 10 1992",
     "imdb": "7.0",
     "metascore": "46",
     "rotten_tomatoes": "39%"
@@ -7717,7 +7717,7 @@
     "Running time (int)": 89,
     "Budget (float)": 40000000.0,
     "Box office (float)": 96000000.0,
-    "Release date (datetime)": "1992-07-17 00:00:00",
+    "Release date (datetime)": "July 17 1992",
     "imdb": "4.9",
     "metascore": "50",
     "rotten_tomatoes": "40%"
@@ -7758,7 +7758,7 @@
     "Running time (int)": 104,
     "Budget (float)": 14000000.0,
     "Box office (float)": 50800000.0,
-    "Release date (datetime)": "1992-10-02 00:00:00",
+    "Release date (datetime)": "October 02 1992",
     "imdb": "6.5",
     "metascore": "46",
     "rotten_tomatoes": "23%"
@@ -7828,7 +7828,7 @@
     "Running time (int)": 90,
     "Budget (float)": 28000000.0,
     "Box office (float)": 504100000.0,
-    "Release date (datetime)": "1992-11-25 00:00:00",
+    "Release date (datetime)": "November 25 1992",
     "imdb": "8.0",
     "metascore": "86",
     "rotten_tomatoes": "95%"
@@ -7877,7 +7877,7 @@
     "Running time (int)": 86,
     "Budget (float)": 12000000.0,
     "Box office (float)": 27200000.0,
-    "Release date (datetime)": "1992-12-11 00:00:00",
+    "Release date (datetime)": "December 11 1992",
     "imdb": "7.7",
     "metascore": "64",
     "rotten_tomatoes": "76%"
@@ -7924,7 +7924,7 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 57000000.0,
-    "Release date (datetime)": "1993-02-03 00:00:00",
+    "Release date (datetime)": "February 03 1993",
     "imdb": "7.0",
     "metascore": "N/A",
     "rotten_tomatoes": "87%"
@@ -7973,7 +7973,7 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": 12900000.0,
-    "Release date (datetime)": "1993-03-12 00:00:00",
+    "Release date (datetime)": "March 12 1993",
     "imdb": "6.6",
     "metascore": "N/A",
     "rotten_tomatoes": "45%"
@@ -8013,7 +8013,7 @@
     "Running time (int)": 107,
     "Budget (float)": 6500000.0,
     "Box office (float)": 24100000.0,
-    "Release date (datetime)": "1993-04-02 00:00:00",
+    "Release date (datetime)": "April 02 1993",
     "imdb": "6.2",
     "metascore": "N/A",
     "rotten_tomatoes": "73%"
@@ -8057,10 +8057,10 @@
     "Running time (int)": 96,
     "Budget (float)": 28000000.0,
     "Box office (float)": 44900000.0,
-    "Release date (datetime)": "1993-07-16 00:00:00",
+    "Release date (datetime)": "July 16 1993",
     "imdb": "6.9",
     "metascore": "43",
-    "rotten_tomatoes": "39%"
+    "rotten_tomatoes": "38%"
   },
   {
     "title": "Cool Runnings",
@@ -8102,7 +8102,7 @@
     "Running time (int)": 98,
     "Budget (float)": 17000000.0,
     "Box office (float)": 154900000.0,
-    "Release date (datetime)": "1993-10-01 00:00:00",
+    "Release date (datetime)": "October 01 1993",
     "imdb": "7.0",
     "metascore": "60",
     "rotten_tomatoes": "76%"
@@ -8149,7 +8149,7 @@
     "Running time (int)": 105,
     "Budget (float)": 30000000.0,
     "Box office (float)": 53900000.0,
-    "Release date (datetime)": "1993-11-12 00:00:00",
+    "Release date (datetime)": "November 12 1993",
     "imdb": "5.7",
     "metascore": "35",
     "rotten_tomatoes": "26%"
@@ -8188,7 +8188,7 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": 21000000.0,
-    "Release date (datetime)": "1994-01-14 00:00:00",
+    "Release date (datetime)": "January 14 1994",
     "imdb": "6.6",
     "metascore": "56",
     "rotten_tomatoes": "62%"
@@ -8233,7 +8233,7 @@
     "Running time (int)": 94,
     "Budget (float)": 13000000.0,
     "Box office (float)": 39000000.0,
-    "Release date (datetime)": "1994-02-11 00:00:00",
+    "Release date (datetime)": "February 11 1994",
     "imdb": "5.3",
     "metascore": "42",
     "rotten_tomatoes": "9%"
@@ -8277,7 +8277,7 @@
     "Running time (int)": 106,
     "Budget (float)": null,
     "Box office (float)": 45600000.0,
-    "Release date (datetime)": "1994-03-25 00:00:00",
+    "Release date (datetime)": "March 25 1994",
     "imdb": "6.1",
     "metascore": "N/A",
     "rotten_tomatoes": "20%"
@@ -8308,7 +8308,7 @@
     "Running time (int)": 102,
     "Budget (float)": null,
     "Box office (float)": 8878839.0,
-    "Release date (datetime)": "1994-04-15 00:00:00",
+    "Release date (datetime)": "April 15 1994",
     "imdb": "5.5",
     "metascore": "N/A",
     "rotten_tomatoes": "71%"
@@ -8379,7 +8379,7 @@
     "Running time (int)": 88,
     "Budget (float)": 45000000.0,
     "Box office (float)": 968500000.0,
-    "Release date (datetime)": "1994-06-15 00:00:00",
+    "Release date (datetime)": "June 15 1994",
     "imdb": "8.5",
     "metascore": "88",
     "rotten_tomatoes": "93%"
@@ -8426,7 +8426,7 @@
     "Running time (int)": 102,
     "Budget (float)": 31000000.0,
     "Box office (float)": 50200000.0,
-    "Release date (datetime)": "1994-07-15 00:00:00",
+    "Release date (datetime)": "July 15 1994",
     "imdb": "6.2",
     "metascore": "44",
     "rotten_tomatoes": "33%"
@@ -8463,7 +8463,7 @@
     "Running time (int)": 102,
     "Budget (float)": null,
     "Box office (float)": 3337685.0,
-    "Release date (datetime)": "1994-10-28 00:00:00",
+    "Release date (datetime)": "October 28 1994",
     "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": "60%"
@@ -8508,7 +8508,7 @@
     "Running time (int)": 97,
     "Budget (float)": 22000000.0,
     "Box office (float)": 189800000.0,
-    "Release date (datetime)": "1994-11-11 00:00:00",
+    "Release date (datetime)": "November 11 1994",
     "imdb": "6.5",
     "metascore": "57",
     "rotten_tomatoes": "72%"
@@ -8568,7 +8568,7 @@
     "Running time (int)": 111,
     "Budget (float)": 30000000.0,
     "Box office (float)": 43200000.0,
-    "Release date (datetime)": "1994-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1994",
     "imdb": "7.1",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -8622,7 +8622,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 17600000.0,
-    "Release date (datetime)": "1995-02-17 00:00:00",
+    "Release date (datetime)": "February 17 1995",
     "imdb": "6.7",
     "metascore": "42",
     "rotten_tomatoes": "29%"
@@ -8669,7 +8669,7 @@
     "Running time (int)": 96,
     "Budget (float)": 22000000.0,
     "Box office (float)": 40070995.0,
-    "Release date (datetime)": "1995-03-03 00:00:00",
+    "Release date (datetime)": "March 03 1995",
     "imdb": "5.4",
     "metascore": "35",
     "rotten_tomatoes": "9%"
@@ -8716,7 +8716,7 @@
     "Running time (int)": 98,
     "Budget (float)": 32000000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "1995-03-24 00:00:00",
+    "Release date (datetime)": "March 24 1995",
     "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -8762,7 +8762,7 @@
     "Running time (int)": 78,
     "Budget (float)": null,
     "Box office (float)": 37600000.0,
-    "Release date (datetime)": "1995-04-07 00:00:00",
+    "Release date (datetime)": "April 07 1995",
     "imdb": "6.9",
     "metascore": "N/A",
     "rotten_tomatoes": "58%"
@@ -8825,7 +8825,7 @@
     "Running time (int)": 81,
     "Budget (float)": 55000000.0,
     "Box office (float)": 346100000.0,
-    "Release date (datetime)": "1995-06-10 00:00:00",
+    "Release date (datetime)": "June 10 1995",
     "imdb": "6.7",
     "metascore": "58",
     "rotten_tomatoes": "55%"
@@ -8871,7 +8871,7 @@
     "Running time (int)": 108,
     "Budget (float)": 24000000.0,
     "Box office (float)": 24670346.0,
-    "Release date (datetime)": "1995-07-28 00:00:00",
+    "Release date (datetime)": "July 28 1995",
     "imdb": "5.1",
     "metascore": "48",
     "rotten_tomatoes": "31%"
@@ -8923,7 +8923,7 @@
     "Running time (int)": 89,
     "Budget (float)": 15000000.0,
     "Box office (float)": 13400000.0,
-    "Release date (datetime)": "1995-08-11 00:00:00",
+    "Release date (datetime)": "August 11 1995",
     "imdb": "4.7",
     "metascore": "34",
     "rotten_tomatoes": "5%"
@@ -8961,7 +8961,7 @@
     "Running time (int)": 99,
     "Budget (float)": 12000000.0,
     "Box office (float)": 17700000.0,
-    "Release date (datetime)": "1995-09-29 00:00:00",
+    "Release date (datetime)": "September 29 1995",
     "imdb": "5.6",
     "metascore": "N/A",
     "rotten_tomatoes": "0%"
@@ -8996,7 +8996,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1995-01-22 00:00:00",
+    "Release date (datetime)": "January 22 1995",
     "imdb": "7.8",
     "metascore": "N/A",
     "rotten_tomatoes": "88%"
@@ -9053,7 +9053,7 @@
     "Running time (int)": 81,
     "Budget (float)": 30000000.0,
     "Box office (float)": 373000000.0,
-    "Release date (datetime)": "1995-11-19 00:00:00",
+    "Release date (datetime)": "November 19 1995",
     "imdb": "8.3",
     "metascore": "95",
     "rotten_tomatoes": "100%"
@@ -9093,7 +9093,7 @@
     "Running time (int)": 92,
     "Budget (float)": null,
     "Box office (float)": 23900000.0,
-    "Release date (datetime)": "1995-12-22 00:00:00",
+    "Release date (datetime)": "December 22 1995",
     "imdb": "5.5",
     "metascore": "N/A",
     "rotten_tomatoes": "25%"
@@ -9143,7 +9143,7 @@
     "Running time (int)": 100,
     "Budget (float)": 31000000.0,
     "Box office (float)": 34300000.0,
-    "Release date (datetime)": "1996-02-16 00:00:00",
+    "Release date (datetime)": "February 16 1996",
     "imdb": "7.0",
     "metascore": "64",
     "rotten_tomatoes": "70%"
@@ -9189,7 +9189,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": 32700000.000000004,
-    "Release date (datetime)": "1996-03-08 00:00:00",
+    "Release date (datetime)": "March 08 1996",
     "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": "53%"
@@ -9254,7 +9254,7 @@
     "Running time (int)": 79,
     "Budget (float)": 38000000.0,
     "Box office (float)": 37700000.0,
-    "Release date (datetime)": "1996-04-12 00:00:00",
+    "Release date (datetime)": "April 12 1996",
     "imdb": "6.7",
     "metascore": "78",
     "rotten_tomatoes": "91%"
@@ -9308,7 +9308,7 @@
     "Running time (int)": 91,
     "Budget (float)": 100000000.0,
     "Box office (float)": 325300000.0,
-    "Release date (datetime)": "1996-06-21 00:00:00",
+    "Release date (datetime)": "June 21 1996",
     "imdb": "6.9",
     "metascore": "74",
     "rotten_tomatoes": "71%"
@@ -9343,7 +9343,7 @@
     "Running time (int)": 101,
     "Budget (float)": 15000000.0,
     "Box office (float)": 26491793.0,
-    "Release date (datetime)": "1996-08-30 00:00:00",
+    "Release date (datetime)": "August 30 1996",
     "imdb": "5.3",
     "metascore": "48",
     "rotten_tomatoes": "20%"
@@ -9391,7 +9391,7 @@
     "Running time (int)": 104,
     "Budget (float)": null,
     "Box office (float)": 22900000.0,
-    "Release date (datetime)": "1996-10-04 00:00:00",
+    "Release date (datetime)": "October 04 1996",
     "imdb": "5.5",
     "metascore": "N/A",
     "rotten_tomatoes": "20%"
@@ -9434,7 +9434,7 @@
     "Running time (int)": 103,
     "Budget (float)": 75000000.0,
     "Box office (float)": 320700000.0,
-    "Release date (datetime)": "1996-11-27 00:00:00",
+    "Release date (datetime)": "November 27 1996",
     "imdb": "5.7",
     "metascore": "49",
     "rotten_tomatoes": "41%"
@@ -9483,7 +9483,7 @@
     "Running time (int)": 86,
     "Budget (float)": null,
     "Box office (float)": 18300000.0,
-    "Release date (datetime)": "1997-02-14 00:00:00",
+    "Release date (datetime)": "February 14 1997",
     "imdb": "4.7",
     "metascore": "36",
     "rotten_tomatoes": "13%"
@@ -9534,7 +9534,7 @@
     "Running time (int)": 105,
     "Budget (float)": 32000000.0,
     "Box office (float)": 59900000.0,
-    "Release date (datetime)": "1997-03-07 00:00:00",
+    "Release date (datetime)": "March 07 1997",
     "imdb": "5.2",
     "metascore": "42",
     "rotten_tomatoes": "19%"
@@ -9598,7 +9598,7 @@
     "Running time (int)": 93,
     "Budget (float)": 85000000.0,
     "Box office (float)": 252700000.0,
-    "Release date (datetime)": "1997-06-13 00:00:00",
+    "Release date (datetime)": "June 13 1997",
     "imdb": "7.3",
     "metascore": "74",
     "rotten_tomatoes": "84%"
@@ -9655,7 +9655,7 @@
     "Running time (int)": 92,
     "Budget (float)": 55000000.0,
     "Box office (float)": 174400000.0,
-    "Release date (datetime)": "1997-07-16 00:00:00",
+    "Release date (datetime)": "July 16 1997",
     "imdb": "5.5",
     "metascore": "53",
     "rotten_tomatoes": "56%"
@@ -9704,7 +9704,7 @@
     "Running time (int)": 98,
     "Budget (float)": 3000000.0,
     "Box office (float)": 27800000.0,
-    "Release date (datetime)": "1997-08-01 00:00:00",
+    "Release date (datetime)": "August 01 1997",
     "imdb": "5.2",
     "metascore": "N/A",
     "rotten_tomatoes": "45%"
@@ -9745,7 +9745,7 @@
     "Running time (int)": 95,
     "Budget (float)": 16000000.0,
     "Box office (float)": 15400000.0,
-    "Release date (datetime)": "1997-10-10 00:00:00",
+    "Release date (datetime)": "October 10 1997",
     "imdb": "7.3",
     "metascore": "69",
     "rotten_tomatoes": null
@@ -9796,7 +9796,7 @@
     "Running time (int)": 93,
     "Budget (float)": 80000000.0,
     "Box office (float)": 178000000.0,
-    "Release date (datetime)": "1997-11-16 00:00:00",
+    "Release date (datetime)": "November 16 1997",
     "imdb": "5.3",
     "metascore": "37",
     "rotten_tomatoes": "24%"
@@ -9846,7 +9846,7 @@
     "Running time (int)": 87,
     "Budget (float)": 30000000.0,
     "Box office (float)": 28900000.0,
-    "Release date (datetime)": "1997-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1997",
     "imdb": "4.0",
     "metascore": "18",
     "rotten_tomatoes": "7%"
@@ -9887,7 +9887,7 @@
     "Running time (int)": 93,
     "Budget (float)": 24000000.0,
     "Box office (float)": 4400000.0,
-    "Release date (datetime)": "1998-03-27 00:00:00",
+    "Release date (datetime)": "March 27 1998",
     "imdb": "4.1",
     "metascore": "N/A",
     "rotten_tomatoes": "7%"
@@ -9936,7 +9936,7 @@
     "Running time (int)": 87,
     "Budget (float)": 90000000.0,
     "Box office (float)": 304300000.0,
-    "Release date (datetime)": "1998-06-19 00:00:00",
+    "Release date (datetime)": "June 19 1998",
     "imdb": "7.6",
     "metascore": "71",
     "rotten_tomatoes": "86%"
@@ -9976,7 +9976,7 @@
     "Running time (int)": 128,
     "Budget (float)": 15000000.0,
     "Box office (float)": 92100000.0,
-    "Release date (datetime)": "1998-07-29 00:00:00",
+    "Release date (datetime)": "July 29 1998",
     "imdb": "6.5",
     "metascore": "64",
     "rotten_tomatoes": "86%"
@@ -10021,7 +10021,7 @@
     "Running time (int)": 86,
     "Budget (float)": 30000000.0,
     "Box office (float)": 12200000.0,
-    "Release date (datetime)": "1998-11-13 00:00:00",
+    "Release date (datetime)": "November 13 1998",
     "imdb": "5.5",
     "metascore": "N/A",
     "rotten_tomatoes": "23%"
@@ -10067,7 +10067,7 @@
     "Running time (int)": 95,
     "Budget (float)": 120000000.0,
     "Box office (float)": 363300000.0,
-    "Release date (datetime)": "1998-11-20 00:00:00",
+    "Release date (datetime)": "November 20 1998",
     "imdb": "7.2",
     "metascore": "77",
     "rotten_tomatoes": "92%"
@@ -10120,7 +10120,7 @@
     "Running time (int)": 114,
     "Budget (float)": 90000000.0,
     "Box office (float)": 50600000.0,
-    "Release date (datetime)": "1998-12-25 00:00:00",
+    "Release date (datetime)": "December 25 1998",
     "imdb": "5.6",
     "metascore": "51",
     "rotten_tomatoes": "54%"
@@ -10166,7 +10166,7 @@
     "Running time (int)": 93,
     "Budget (float)": 65000000.0,
     "Box office (float)": 36800000.0,
-    "Release date (datetime)": "1999-02-12 00:00:00",
+    "Release date (datetime)": "February 12 1999",
     "imdb": "5.1",
     "metascore": "33",
     "rotten_tomatoes": "12%"
@@ -10220,7 +10220,7 @@
     "Running time (int)": 83,
     "Budget (float)": 5000000.0,
     "Box office (float)": 19400000.0,
-    "Release date (datetime)": "1999-03-26 00:00:00",
+    "Release date (datetime)": "March 26 1999",
     "imdb": "5.0",
     "metascore": "N/A",
     "rotten_tomatoes": "26%"
@@ -10265,7 +10265,7 @@
     "Running time (int)": 83,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "1999-05-14 00:00:00",
+    "Release date (datetime)": "May 14 1999",
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -10341,7 +10341,7 @@
     "Running time (int)": 88,
     "Budget (float)": 130000000.0,
     "Box office (float)": 448200000.0,
-    "Release date (datetime)": "1999-06-12 00:00:00",
+    "Release date (datetime)": "June 12 1999",
     "imdb": "7.3",
     "metascore": "79",
     "rotten_tomatoes": "89%"
@@ -10404,7 +10404,7 @@
     "Running time (int)": 78,
     "Budget (float)": 90000000.0,
     "Box office (float)": 134400000.0,
-    "Release date (datetime)": "1999-07-23 00:00:00",
+    "Release date (datetime)": "July 23 1999",
     "imdb": "4.2",
     "metascore": "36",
     "rotten_tomatoes": "21%"
@@ -10459,7 +10459,7 @@
     "Running time (int)": 112,
     "Budget (float)": 10000000.0,
     "Box office (float)": 6200000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "8.0",
     "metascore": "86",
     "rotten_tomatoes": "95%"
@@ -10511,7 +10511,7 @@
     "Running time (int)": 92,
     "Budget (float)": 90000000.0,
     "Box office (float)": 497400000.0,
-    "Release date (datetime)": "1999-11-13 00:00:00",
+    "Release date (datetime)": "November 13 1999",
     "imdb": "7.9",
     "metascore": "88",
     "rotten_tomatoes": "100%"
@@ -10563,7 +10563,7 @@
     "Running time (int)": 74,
     "Budget (float)": 85000000.0,
     "Box office (float)": 90900000.0,
-    "Release date (datetime)": "1999-12-16 00:00:00",
+    "Release date (datetime)": "December 16 1999",
     "imdb": "7.2",
     "metascore": "59",
     "rotten_tomatoes": "81%"
@@ -10612,7 +10612,7 @@
     "Running time (int)": 78,
     "Budget (float)": 15000000.0,
     "Box office (float)": 96200000.0,
-    "Release date (datetime)": "2000-02-11 00:00:00",
+    "Release date (datetime)": "February 11 2000",
     "imdb": "6.3",
     "metascore": "53",
     "rotten_tomatoes": "62%"
@@ -10669,7 +10669,7 @@
     "Running time (int)": 82,
     "Budget (float)": 127500000.0,
     "Box office (float)": 349800000.0,
-    "Release date (datetime)": "2000-05-19 00:00:00",
+    "Release date (datetime)": "May 19 2000",
     "imdb": "6.5",
     "metascore": "56",
     "rotten_tomatoes": "64%"
@@ -10714,7 +10714,7 @@
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
     "Box office (float)": 110300000.0,
-    "Release date (datetime)": "2000-07-07 00:00:00",
+    "Release date (datetime)": "July 07 2000",
     "imdb": "8.3",
     "metascore": "N/A",
     "rotten_tomatoes": "100%"
@@ -10749,11 +10749,11 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$136.7 million",
+    "Box office": "$136.8 million",
     "Running time (int)": 113,
     "Budget (float)": 30000000.0,
-    "Box office (float)": 136700000.0,
-    "Release date (datetime)": "2000-09-29 00:00:00",
+    "Box office (float)": 136800000.0,
+    "Release date (datetime)": "September 29 2000",
     "imdb": "7.8",
     "metascore": "48",
     "rotten_tomatoes": "73%"
@@ -10799,7 +10799,7 @@
     "Running time (int)": 100,
     "Budget (float)": 85000000.0,
     "Box office (float)": 183600000.0,
-    "Release date (datetime)": "2000-11-22 00:00:00",
+    "Release date (datetime)": "November 22 2000",
     "imdb": "4.9",
     "metascore": "35",
     "rotten_tomatoes": "31%"
@@ -10844,7 +10844,7 @@
     "Running time (int)": 78,
     "Budget (float)": 100000000.0,
     "Box office (float)": 169600000.0,
-    "Release date (datetime)": "2000-12-15 00:00:00",
+    "Release date (datetime)": "December 15 2000",
     "imdb": "7.4",
     "metascore": "70",
     "rotten_tomatoes": "85%"
@@ -10887,7 +10887,7 @@
       "R. Lee Ermey",
       "James Woods"
     ],
-    "Music by": "Denis M. Hannigan",
+    "Music by": "John Debney",
     "Edited by": "Tony Mizgalski",
     "Production companies": [
       "Walt Disney Pictures",
@@ -10909,7 +10909,7 @@
     "Running time (int)": 83,
     "Budget (float)": 23000000.0,
     "Box office (float)": 44500000.0,
-    "Release date (datetime)": "2001-02-10 00:00:00",
+    "Release date (datetime)": "February 10 2001",
     "imdb": "6.6",
     "metascore": "43",
     "rotten_tomatoes": "60%"
@@ -10964,7 +10964,7 @@
     "Running time (int)": 96,
     "Budget (float)": 90.0,
     "Box office (float)": 186100000.0,
-    "Release date (datetime)": "2001-06-03 00:00:00",
+    "Release date (datetime)": "June 03 2001",
     "imdb": "6.9",
     "metascore": "52",
     "rotten_tomatoes": "49%"
@@ -11011,7 +11011,7 @@
     "Running time (int)": 115,
     "Budget (float)": 26000000.0,
     "Box office (float)": 165300000.0,
-    "Release date (datetime)": "2001-08-03 00:00:00",
+    "Release date (datetime)": "August 03 2001",
     "imdb": "6.3",
     "metascore": "52",
     "rotten_tomatoes": "48%"
@@ -11060,7 +11060,7 @@
     "Running time (int)": 86,
     "Budget (float)": 25000000.0,
     "Box office (float)": 18600000.0,
-    "Release date (datetime)": "2001-10-05 00:00:00",
+    "Release date (datetime)": "October 05 2001",
     "imdb": "5.4",
     "metascore": "40",
     "rotten_tomatoes": "29%"
@@ -11109,7 +11109,7 @@
     "Running time (int)": 92,
     "Budget (float)": 115000000.0,
     "Box office (float)": 577400000.0,
-    "Release date (datetime)": "2001-10-28 00:00:00",
+    "Release date (datetime)": "October 28 2001",
     "imdb": "8.1",
     "metascore": "79",
     "rotten_tomatoes": "96%"
@@ -11156,7 +11156,7 @@
     "Running time (int)": 99,
     "Budget (float)": 33000000.0,
     "Box office (float)": 115000000.0,
-    "Release date (datetime)": "2002-01-18 00:00:00",
+    "Release date (datetime)": "January 18 2002",
     "imdb": "5.2",
     "metascore": "29",
     "rotten_tomatoes": "25%"
@@ -11205,7 +11205,7 @@
     "Running time (int)": 73,
     "Budget (float)": 20000000.0,
     "Box office (float)": 115100000.0,
-    "Release date (datetime)": "2002-02-10 00:00:00",
+    "Release date (datetime)": "February 10 2002",
     "imdb": "5.8",
     "metascore": "49",
     "rotten_tomatoes": "46%"
@@ -11241,7 +11241,7 @@
     "Running time (int)": 128,
     "Budget (float)": 22000000.0,
     "Box office (float)": 80700000.0,
-    "Release date (datetime)": "2002-03-29 00:00:00",
+    "Release date (datetime)": "March 29 2002",
     "imdb": "6.9",
     "metascore": "72",
     "rotten_tomatoes": "84%"
@@ -11287,7 +11287,7 @@
     "Running time (int)": 85,
     "Budget (float)": 80000000.0,
     "Box office (float)": 273100000.0,
-    "Release date (datetime)": "2002-06-21 00:00:00",
+    "Release date (datetime)": "June 21 2002",
     "imdb": "7.2",
     "metascore": "73",
     "rotten_tomatoes": "86%"
@@ -11328,7 +11328,7 @@
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
     "Box office (float)": 18000000.0,
-    "Release date (datetime)": "2002-07-21 00:00:00",
+    "Release date (datetime)": "July 21 2002",
     "imdb": "4.2",
     "metascore": "37",
     "rotten_tomatoes": "31%"
@@ -11368,7 +11368,7 @@
     "Running time (int)": 125,
     "Budget (float)": 15.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2001-07-20 00:00:00",
+    "Release date (datetime)": "July 20 2001",
     "imdb": "8.6",
     "metascore": "96",
     "rotten_tomatoes": "97%"
@@ -11419,7 +11419,7 @@
     "Running time (int)": 96,
     "Budget (float)": 15000000.0,
     "Box office (float)": 19300000.0,
-    "Release date (datetime)": "2002-10-11 00:00:00",
+    "Release date (datetime)": "October 11 2002",
     "imdb": "6.6",
     "metascore": "66",
     "rotten_tomatoes": "60%"
@@ -11474,7 +11474,7 @@
     "Running time (int)": 104,
     "Budget (float)": 65000000.0,
     "Box office (float)": 172900000.0,
-    "Release date (datetime)": "2002-11-01 00:00:00",
+    "Release date (datetime)": "November 01 2002",
     "imdb": "5.6",
     "metascore": "48",
     "rotten_tomatoes": "56%"
@@ -11534,7 +11534,7 @@
     "Running time (int)": 95,
     "Budget (float)": 140000000.0,
     "Box office (float)": 109600000.0,
-    "Release date (datetime)": "2002-11-27 00:00:00",
+    "Release date (datetime)": "November 27 2002",
     "imdb": "7.2",
     "metascore": "60",
     "rotten_tomatoes": "69%"
@@ -11584,7 +11584,7 @@
     "Running time (int)": 72,
     "Budget (float)": 20000000.0,
     "Box office (float)": 135700000.0,
-    "Release date (datetime)": "2003-02-14 00:00:00",
+    "Release date (datetime)": "February 14 2003",
     "imdb": "5.4",
     "metascore": "38",
     "rotten_tomatoes": "18%"
@@ -11638,7 +11638,7 @@
     "Running time (int)": 75,
     "Budget (float)": 46000000.0,
     "Box office (float)": 62900000.0,
-    "Release date (datetime)": "2003-03-16 00:00:00",
+    "Release date (datetime)": "March 16 2003",
     "imdb": "6.2",
     "metascore": "62",
     "rotten_tomatoes": "70%"
@@ -11692,7 +11692,7 @@
     "Running time (int)": 61,
     "Budget (float)": 13000000.0,
     "Box office (float)": 28700000.0,
-    "Release date (datetime)": "2003-03-31 00:00:00",
+    "Release date (datetime)": "March 31 2003",
     "imdb": "6.8",
     "metascore": "67",
     "rotten_tomatoes": "80%"
@@ -11742,7 +11742,7 @@
     "Running time (int)": 117,
     "Budget (float)": 20000000.0,
     "Box office (float)": 71400000.0,
-    "Release date (datetime)": "2003-04-18 00:00:00",
+    "Release date (datetime)": "April 18 2003",
     "imdb": "7.0",
     "metascore": "71",
     "rotten_tomatoes": "78%"
@@ -11790,7 +11790,7 @@
     "Running time (int)": 94,
     "Budget (float)": 17000000.0,
     "Box office (float)": 55500000.0,
-    "Release date (datetime)": "2003-05-02 00:00:00",
+    "Release date (datetime)": "May 02 2003",
     "imdb": "5.5",
     "metascore": "56",
     "rotten_tomatoes": "41%"
@@ -11833,7 +11833,7 @@
     "Running time (int)": 100,
     "Budget (float)": 94000000.0,
     "Box office (float)": 940300000.0,
-    "Release date (datetime)": "2003-05-30 00:00:00",
+    "Release date (datetime)": "May 30 2003",
     "imdb": "8.1",
     "metascore": "90",
     "rotten_tomatoes": "99%"
@@ -11891,7 +11891,7 @@
     "Running time (int)": 143,
     "Budget (float)": 140000000.0,
     "Box office (float)": 654300000.0,
-    "Release date (datetime)": "2003-06-28 00:00:00",
+    "Release date (datetime)": "June 28 2003",
     "imdb": "7.5",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -11936,7 +11936,7 @@
     "Running time (int)": 97,
     "Budget (float)": 26000000.0,
     "Box office (float)": 160800000.0,
-    "Release date (datetime)": "2003-08-04 00:00:00",
+    "Release date (datetime)": "August 04 2003",
     "imdb": "6.2",
     "metascore": "70",
     "rotten_tomatoes": "88%"
@@ -11995,7 +11995,7 @@
     "Running time (int)": 85,
     "Budget (float)": 46000000.0,
     "Box office (float)": 250400000.0,
-    "Release date (datetime)": "2003-11-01 00:00:00",
+    "Release date (datetime)": "November 01 2003",
     "imdb": "6.8",
     "metascore": "48",
     "rotten_tomatoes": "37%"
@@ -12036,7 +12036,7 @@
     "Running time (int)": 86,
     "Budget (float)": 90000000.0,
     "Box office (float)": 182300000.0,
-    "Release date (datetime)": "2003-11-26 00:00:00",
+    "Release date (datetime)": "November 26 2003",
     "imdb": "5.0",
     "metascore": "34",
     "rotten_tomatoes": "14%"
@@ -12080,7 +12080,7 @@
     "Running time (int)": 50,
     "Budget (float)": null,
     "Box office (float)": 9638389.0,
-    "Release date (datetime)": "2003-12-25 00:00:00",
+    "Release date (datetime)": "December 25 2003",
     "imdb": "5.6",
     "metascore": "51",
     "rotten_tomatoes": "45%"
@@ -12125,7 +12125,7 @@
     "Running time (int)": 74,
     "Budget (float)": 10000000.0,
     "Box office (float)": 6500000.0,
-    "Release date (datetime)": "2004-01-16 00:00:00",
+    "Release date (datetime)": "January 16 2004",
     "imdb": "7.1",
     "metascore": "N/A",
     "rotten_tomatoes": "86%"
@@ -12172,7 +12172,7 @@
     "Running time (int)": 136,
     "Budget (float)": 28000000.0,
     "Box office (float)": 64500000.0,
-    "Release date (datetime)": "2004-02-06 00:00:00",
+    "Release date (datetime)": "February 06 2004",
     "imdb": "7.5",
     "metascore": "68",
     "rotten_tomatoes": "81%"
@@ -12214,7 +12214,7 @@
     "Running time (int)": 89,
     "Budget (float)": 15000000.0,
     "Box office (float)": 33100000.0,
-    "Release date (datetime)": "2004-02-20 00:00:00",
+    "Release date (datetime)": "February 20 2004",
     "imdb": "4.7",
     "metascore": "33",
     "rotten_tomatoes": "14%"
@@ -12264,7 +12264,7 @@
     "Running time (int)": 76,
     "Budget (float)": 110000000.0,
     "Box office (float)": 145500000.0,
-    "Release date (datetime)": "2004-04-02 00:00:00",
+    "Release date (datetime)": "April 02 2004",
     "imdb": "5.4",
     "metascore": "50",
     "rotten_tomatoes": "53%"
@@ -12309,7 +12309,7 @@
     "Running time (int)": 40,
     "Budget (float)": null,
     "Box office (float)": 1108356.0,
-    "Release date (datetime)": "2004-04-22 00:00:00",
+    "Release date (datetime)": "April 22 2004",
     "imdb": "6.1",
     "metascore": "53",
     "rotten_tomatoes": null
@@ -12367,7 +12367,7 @@
     "Running time (int)": 120,
     "Budget (float)": 110000000.0,
     "Box office (float)": 72200000.0,
-    "Release date (datetime)": "2004-04-06 00:00:00",
+    "Release date (datetime)": "April 06 2004",
     "imdb": "5.9",
     "metascore": "49",
     "rotten_tomatoes": "32%"
@@ -12397,7 +12397,7 @@
     "Running time (int)": 84,
     "Budget (float)": null,
     "Box office (float)": 314402.0,
-    "Release date (datetime)": "2004-07-02 00:00:00",
+    "Release date (datetime)": "July 02 2004",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -12448,7 +12448,7 @@
     "Running time (int)": 113,
     "Budget (float)": 45000000.0,
     "Box office (float)": 134700000.0,
-    "Release date (datetime)": "2004-08-11 00:00:00",
+    "Release date (datetime)": "August 11 2004",
     "imdb": "5.8",
     "metascore": "43",
     "rotten_tomatoes": "26%"
@@ -12491,7 +12491,7 @@
     "Running time (int)": 115,
     "Budget (float)": 92000000.0,
     "Box office (float)": 633000000.0,
-    "Release date (datetime)": "2004-10-27 00:00:00",
+    "Release date (datetime)": "October 27 2004",
     "imdb": "8.0",
     "metascore": "90",
     "rotten_tomatoes": null
@@ -12543,7 +12543,7 @@
     "Running time (int)": 131,
     "Budget (float)": 100000000.0,
     "Box office (float)": 347500000.0,
-    "Release date (datetime)": "2004-11-19 00:00:00",
+    "Release date (datetime)": "November 19 2004",
     "imdb": "6.9",
     "metascore": "39",
     "rotten_tomatoes": "46%"
@@ -12592,7 +12592,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 9000000.0,
-    "Release date (datetime)": "2005-01-28 00:00:00",
+    "Release date (datetime)": "January 28 2005",
     "imdb": "6.4",
     "metascore": "71",
     "rotten_tomatoes": "84%"
@@ -12633,7 +12633,7 @@
     "Running time (int)": 68,
     "Budget (float)": 20000000.0,
     "Box office (float)": 52900000.0,
-    "Release date (datetime)": "2005-02-11 00:00:00",
+    "Release date (datetime)": "February 11 2005",
     "imdb": "6.4",
     "metascore": "64",
     "rotten_tomatoes": "80%"
@@ -12678,7 +12678,7 @@
     "Running time (int)": 95,
     "Budget (float)": 56000000.0,
     "Box office (float)": 198600000.0,
-    "Release date (datetime)": "2005-03-04 00:00:00",
+    "Release date (datetime)": "March 04 2005",
     "imdb": "5.6",
     "metascore": "30",
     "rotten_tomatoes": "21%"
@@ -12715,7 +12715,7 @@
     "Running time (int)": 97,
     "Budget (float)": 25000000.0,
     "Box office (float)": 27600000.0,
-    "Release date (datetime)": "2005-03-18 00:00:00",
+    "Release date (datetime)": "March 18 2005",
     "imdb": "6.0",
     "metascore": "55",
     "rotten_tomatoes": "52%"
@@ -12765,7 +12765,7 @@
     "Running time (int)": 101,
     "Budget (float)": 50000000.0,
     "Box office (float)": 144100000.0,
-    "Release date (datetime)": "2005-06-22 00:00:00",
+    "Release date (datetime)": "June 22 2005",
     "imdb": "4.8",
     "metascore": "47",
     "rotten_tomatoes": "40%"
@@ -12812,7 +12812,7 @@
     "Running time (int)": 119,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "8.2",
     "metascore": "80",
     "rotten_tomatoes": "87%"
@@ -12852,7 +12852,7 @@
     "Running time (int)": 100,
     "Budget (float)": 35000000.0,
     "Box office (float)": 86400000.0,
-    "Release date (datetime)": "2005-07-29 00:00:00",
+    "Release date (datetime)": "July 29 2005",
     "imdb": "6.2",
     "metascore": "62",
     "rotten_tomatoes": "73%"
@@ -12909,7 +12909,7 @@
     "Running time (int)": 76,
     "Budget (float)": 35000000.0,
     "Box office (float)": 61700000.0,
-    "Release date (datetime)": "2005-03-25 00:00:00",
+    "Release date (datetime)": "March 25 2005",
     "imdb": "5.5",
     "metascore": "45",
     "rotten_tomatoes": "32%"
@@ -12949,7 +12949,7 @@
     "Running time (int)": 120,
     "Budget (float)": 25000000.0,
     "Box office (float)": 15400000.0,
-    "Release date (datetime)": "2005-09-30 00:00:00",
+    "Release date (datetime)": "September 30 2005",
     "imdb": "7.4",
     "metascore": "55",
     "rotten_tomatoes": "63%"
@@ -12997,10 +12997,10 @@
     "Running time (int)": 81,
     "Budget (float)": 150000000.0,
     "Box office (float)": 314400000.0,
-    "Release date (datetime)": "2005-10-30 00:00:00",
+    "Release date (datetime)": "October 30 2005",
     "imdb": "5.7",
     "metascore": "48",
-    "rotten_tomatoes": "37%"
+    "rotten_tomatoes": "36%"
   },
   {
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -13056,7 +13056,7 @@
     "Running time (int)": 143,
     "Budget (float)": 180000000.0,
     "Box office (float)": 745000000.0,
-    "Release date (datetime)": "2005-12-07 00:00:00",
+    "Release date (datetime)": "December 07 2005",
     "imdb": "6.9",
     "metascore": "75",
     "rotten_tomatoes": "76%"
@@ -13103,7 +13103,7 @@
     "Running time (int)": 106,
     "Budget (float)": 30000000.0,
     "Box office (float)": 42900000.0,
-    "Release date (datetime)": "2006-01-13 00:00:00",
+    "Release date (datetime)": "January 13 2006",
     "imdb": "7.2",
     "metascore": "58",
     "rotten_tomatoes": "100%"
@@ -13143,7 +13143,7 @@
     "Running time (int)": 40,
     "Budget (float)": 1000000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "2006-01-27 00:00:00",
+    "Release date (datetime)": "January 27 2006",
     "imdb": "7.2",
     "metascore": "58",
     "rotten_tomatoes": null
@@ -13189,7 +13189,7 @@
     "Running time (int)": 120,
     "Budget (float)": 40000000.0,
     "Box office (float)": 120500000.0,
-    "Release date (datetime)": "2006-02-17 00:00:00",
+    "Release date (datetime)": "February 17 2006",
     "imdb": "7.3",
     "metascore": "64",
     "rotten_tomatoes": "72%"
@@ -13241,7 +13241,7 @@
     "Running time (int)": 99,
     "Budget (float)": 50000000.0,
     "Box office (float)": 87100000.0,
-    "Release date (datetime)": "2006-03-10 00:00:00",
+    "Release date (datetime)": "March 10 2006",
     "imdb": "4.4",
     "metascore": "43",
     "rotten_tomatoes": "26%"
@@ -13300,7 +13300,7 @@
     "Running time (int)": 82,
     "Budget (float)": 80000000.0,
     "Box office (float)": 102300000.0,
-    "Release date (datetime)": "2006-04-14 00:00:00",
+    "Release date (datetime)": "April 14 2006",
     "imdb": "5.3",
     "metascore": "47",
     "rotten_tomatoes": "50%"
@@ -13351,7 +13351,7 @@
     "Running time (int)": 117,
     "Budget (float)": 120000000.0,
     "Box office (float)": 462000000.0,
-    "Release date (datetime)": "2006-05-26 00:00:00",
+    "Release date (datetime)": "May 26 2006",
     "imdb": "7.1",
     "metascore": "73",
     "rotten_tomatoes": "74%"
@@ -13405,7 +13405,7 @@
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
     "Box office (float)": 1066000000.0,
-    "Release date (datetime)": "2006-06-24 00:00:00",
+    "Release date (datetime)": "June 24 2006",
     "imdb": "7.3",
     "metascore": "53",
     "rotten_tomatoes": "53%"
@@ -13440,7 +13440,7 @@
     "Running time (int)": 104,
     "Budget (float)": 30000000.0,
     "Box office (float)": 58500000.0,
-    "Release date (datetime)": "2006-08-25 00:00:00",
+    "Release date (datetime)": "August 25 2006",
     "imdb": "7.1",
     "metascore": "63",
     "rotten_tomatoes": "72%"
@@ -13496,7 +13496,7 @@
     "Running time (int)": 76,
     "Budget (float)": 26000000.0,
     "Box office (float)": 91500000.0,
-    "Release date (datetime)": "1993-10-29 00:00:00",
+    "Release date (datetime)": "October 29 1993",
     "imdb": "8.0",
     "metascore": "82",
     "rotten_tomatoes": "95%"
@@ -13551,7 +13551,7 @@
     "Running time (int)": 92,
     "Budget (float)": 12000000.0,
     "Box office (float)": 110800000.0,
-    "Release date (datetime)": "2006-11-03 00:00:00",
+    "Release date (datetime)": "November 03 2006",
     "imdb": "4.8",
     "metascore": "32",
     "rotten_tomatoes": "17%"
@@ -13604,7 +13604,7 @@
     "Running time (int)": 95,
     "Budget (float)": 20.0,
     "Box office (float)": 137600000.0,
-    "Release date (datetime)": "2007-02-16 00:00:00",
+    "Release date (datetime)": "February 16 2007",
     "imdb": "7.1",
     "metascore": "74",
     "rotten_tomatoes": "85%"
@@ -13660,7 +13660,7 @@
     "Running time (int)": 94,
     "Budget (float)": 150000000.0,
     "Box office (float)": 169300000.0,
-    "Release date (datetime)": "2007-03-23 00:00:00",
+    "Release date (datetime)": "March 23 2007",
     "imdb": "6.8",
     "metascore": "61",
     "rotten_tomatoes": "67%"
@@ -13716,7 +13716,7 @@
     "Running time (int)": 167,
     "Budget (float)": 300000000.0,
     "Box office (float)": 961000000.0,
-    "Release date (datetime)": "2007-05-19 00:00:00",
+    "Release date (datetime)": "May 19 2007",
     "imdb": "7.1",
     "metascore": "50",
     "rotten_tomatoes": "44%"
@@ -13768,7 +13768,7 @@
     "Running time (int)": 111,
     "Budget (float)": 150000000.0,
     "Box office (float)": 620700000.0,
-    "Release date (datetime)": "2007-06-22 00:00:00",
+    "Release date (datetime)": "June 22 2007",
     "imdb": "8.0",
     "metascore": "96",
     "rotten_tomatoes": "96%"
@@ -13819,7 +13819,7 @@
     "Running time (int)": 82,
     "Budget (float)": 25000000.0,
     "Box office (float)": 65300000.0,
-    "Release date (datetime)": "2007-08-03 00:00:00",
+    "Release date (datetime)": "August 03 2007",
     "imdb": "4.7",
     "metascore": "37",
     "rotten_tomatoes": "16%"
@@ -13851,7 +13851,7 @@
     "Running time (int)": 87,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2007-08-28 00:00:00",
+    "Release date (datetime)": "August 28 2007",
     "imdb": "7.8",
     "metascore": "N/A",
     "rotten_tomatoes": "86%"
@@ -13899,7 +13899,7 @@
     "Running time (int)": 110,
     "Budget (float)": 22000000.0,
     "Box office (float)": 146600000.0,
-    "Release date (datetime)": "2007-09-23 00:00:00",
+    "Release date (datetime)": "September 23 2007",
     "imdb": "6.1",
     "metascore": "44",
     "rotten_tomatoes": "29%"
@@ -13945,7 +13945,7 @@
     "Running time (int)": 107,
     "Budget (float)": 85000000.0,
     "Box office (float)": 340500000.0,
-    "Release date (datetime)": "2007-10-20 00:00:00",
+    "Release date (datetime)": "October 20 2007",
     "imdb": "7.0",
     "metascore": "75",
     "rotten_tomatoes": "93%"
@@ -14012,7 +14012,7 @@
     "Running time (int)": 124,
     "Budget (float)": 130000000.0,
     "Box office (float)": 459200000.0,
-    "Release date (datetime)": "2007-12-21 00:00:00",
+    "Release date (datetime)": "December 21 2007",
     "imdb": "6.5",
     "metascore": "48",
     "rotten_tomatoes": "36%"
@@ -14050,7 +14050,7 @@
     "Running time (int)": 74,
     "Budget (float)": 7000000.0,
     "Box office (float)": 70600000.0,
-    "Release date (datetime)": "2008-02-01 00:00:00",
+    "Release date (datetime)": "February 01 2008",
     "imdb": "2.4",
     "metascore": "59",
     "rotten_tomatoes": "71%"
@@ -14093,7 +14093,7 @@
     "Running time (int)": 83,
     "Budget (float)": 25000000.0,
     "Box office (float)": 51500000.0,
-    "Release date (datetime)": "2008-03-07 00:00:00",
+    "Release date (datetime)": "March 07 2008",
     "imdb": "4.3",
     "metascore": "36",
     "rotten_tomatoes": "12%"
@@ -14145,7 +14145,7 @@
     "Running time (int)": 150,
     "Budget (float)": 225000000.0,
     "Box office (float)": 419700000.0,
-    "Release date (datetime)": "2008-05-07 00:00:00",
+    "Release date (datetime)": "May 07 2008",
     "imdb": "6.5",
     "metascore": "62",
     "rotten_tomatoes": "66%"
@@ -14193,7 +14193,7 @@
     "Running time (int)": 97,
     "Budget (float)": 180000000.0,
     "Box office (float)": 521299999.99999994,
-    "Release date (datetime)": "2008-06-23 00:00:00",
+    "Release date (datetime)": "June 23 2008",
     "imdb": "8.4",
     "metascore": "95",
     "rotten_tomatoes": "95%"
@@ -14243,7 +14243,7 @@
     "Running time (int)": 91,
     "Budget (float)": 20000000.0,
     "Box office (float)": 149300000.0,
-    "Release date (datetime)": "2008-10-03 00:00:00",
+    "Release date (datetime)": "October 03 2008",
     "imdb": "3.8",
     "metascore": "41",
     "rotten_tomatoes": "40%"
@@ -14270,7 +14270,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": 275776.0,
-    "Release date (datetime)": "2008-10-17 00:00:00",
+    "Release date (datetime)": "October 17 2008",
     "imdb": "5.8",
     "metascore": "51",
     "rotten_tomatoes": "33%"
@@ -14314,7 +14314,7 @@
     "Running time (int)": 111,
     "Budget (float)": 11000000.0,
     "Box office (float)": 252900000.0,
-    "Release date (datetime)": "2008-10-17 00:00:00",
+    "Release date (datetime)": "October 17 2008",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -14355,7 +14355,7 @@
     "Running time (int)": 96,
     "Budget (float)": 150000000.0,
     "Box office (float)": 310000000.0,
-    "Release date (datetime)": "2008-11-21 00:00:00",
+    "Release date (datetime)": "November 21 2008",
     "imdb": "6.8",
     "metascore": "67",
     "rotten_tomatoes": "89%"
@@ -14409,7 +14409,7 @@
     "Running time (int)": 99,
     "Budget (float)": 80000000.0,
     "Box office (float)": 212900000.0,
-    "Release date (datetime)": "2008-12-25 00:00:00",
+    "Release date (datetime)": "December 25 2008",
     "imdb": "6.0",
     "metascore": "33",
     "rotten_tomatoes": "27%"
@@ -14447,8 +14447,8 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2007-06-29 00:00:00",
-    "imdb": "5.1",
+    "Release date (datetime)": "June 29 2007",
+    "imdb": "5.2",
     "metascore": "N/A",
     "rotten_tomatoes": null
   },
@@ -14495,7 +14495,7 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": 23100000.0,
-    "Release date (datetime)": "2009-02-27 00:00:00",
+    "Release date (datetime)": "February 27 2009",
     "imdb": "1.6",
     "metascore": "45",
     "rotten_tomatoes": "23%"
@@ -14546,7 +14546,7 @@
     "Running time (int)": 98,
     "Budget (float)": 50000000.0,
     "Box office (float)": 106400000.0,
-    "Release date (datetime)": "2009-03-11 00:00:00",
+    "Release date (datetime)": "March 11 2009",
     "imdb": "5.7",
     "metascore": "52",
     "rotten_tomatoes": "42%"
@@ -14598,7 +14598,7 @@
     "Running time (int)": 97,
     "Budget (float)": 30000000.0,
     "Box office (float)": 170.0,
-    "Release date (datetime)": "2009-04-10 00:00:00",
+    "Release date (datetime)": "April 10 2009",
     "imdb": "4.5",
     "metascore": "47",
     "rotten_tomatoes": "43%"
@@ -14667,7 +14667,7 @@
     "Running time (int)": 99,
     "Budget (float)": 47000000.0,
     "Box office (float)": 109000000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "8.0",
     "metascore": "72",
     "rotten_tomatoes": "86%"
@@ -14715,7 +14715,7 @@
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
     "Box office (float)": 735100000.0,
-    "Release date (datetime)": "2009-05-29 00:00:00",
+    "Release date (datetime)": "May 29 2009",
     "imdb": "8.2",
     "metascore": "88",
     "rotten_tomatoes": "98%"
@@ -14735,7 +14735,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "5.2",
     "metascore": "N/A",
     "rotten_tomatoes": "27%"
@@ -14785,7 +14785,7 @@
     "Running time (int)": 90,
     "Budget (float)": 150000000.0,
     "Box office (float)": 292800000.0,
-    "Release date (datetime)": "2009-07-24 00:00:00",
+    "Release date (datetime)": "July 24 2009",
     "imdb": "5.1",
     "metascore": "41",
     "rotten_tomatoes": "22%"
@@ -14836,7 +14836,7 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2008-07-19 00:00:00",
+    "Release date (datetime)": "July 19 2008",
     "imdb": "7.7",
     "metascore": "86",
     "rotten_tomatoes": "91%"
@@ -14858,7 +14858,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "6.4",
     "metascore": "55",
     "rotten_tomatoes": "59%"
@@ -14893,7 +14893,7 @@
     "Running time (int)": 101,
     "Budget (float)": 8000000.0,
     "Box office (float)": 11300000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -14940,10 +14940,10 @@
     "Running time (int)": 96,
     "Budget (float)": 175000000.0,
     "Box office (float)": 325000000.0,
-    "Release date (datetime)": "2009-11-03 00:00:00",
+    "Release date (datetime)": "November 03 2009",
     "imdb": "6.8",
     "metascore": "55",
-    "rotten_tomatoes": "52%"
+    "rotten_tomatoes": "53%"
   },
   {
     "title": "Old Dogs",
@@ -14991,7 +14991,7 @@
     "Running time (int)": 88,
     "Budget (float)": 35000000.0,
     "Box office (float)": 96800000.0,
-    "Release date (datetime)": "2009-11-25 00:00:00",
+    "Release date (datetime)": "November 25 2009",
     "imdb": "5.4",
     "metascore": "19",
     "rotten_tomatoes": "5%"
@@ -15053,7 +15053,7 @@
     "Running time (int)": 97,
     "Budget (float)": 105000000.0,
     "Box office (float)": 270000000.0,
-    "Release date (datetime)": "2009-11-25 00:00:00",
+    "Release date (datetime)": "November 25 2009",
     "imdb": "7.1",
     "metascore": "73",
     "rotten_tomatoes": "85%"
@@ -15109,7 +15109,7 @@
     "Running time (int)": 108,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1024999999.9999999,
-    "Release date (datetime)": "2010-02-25 00:00:00",
+    "Release date (datetime)": "February 25 2010",
     "imdb": "6.4",
     "metascore": "53",
     "rotten_tomatoes": "51%"
@@ -15176,10 +15176,10 @@
     "Running time (int)": 104,
     "Budget (float)": 80000000.0,
     "Box office (float)": 82700000.0,
-    "Release date (datetime)": "2009-10-17 00:00:00",
+    "Release date (datetime)": "October 17 2009",
     "imdb": "7.8",
     "metascore": "75",
-    "rotten_tomatoes": "81%"
+    "rotten_tomatoes": "80%"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -15229,7 +15229,7 @@
     "Running time (int)": 116,
     "Budget (float)": 200000000.0,
     "Box office (float)": 336400000.0,
-    "Release date (datetime)": "2010-05-09 00:00:00",
+    "Release date (datetime)": "May 09 2010",
     "imdb": "6.6",
     "metascore": "50",
     "rotten_tomatoes": "37%"
@@ -15285,7 +15285,7 @@
     "Running time (int)": 103,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1067000000.0,
-    "Release date (datetime)": "2010-06-12 00:00:00",
+    "Release date (datetime)": "June 12 2010",
     "imdb": "8.2",
     "metascore": "92",
     "rotten_tomatoes": "98%"
@@ -15341,7 +15341,7 @@
     "Running time (int)": 109,
     "Budget (float)": 150000000.0,
     "Box office (float)": 215300000.0,
-    "Release date (datetime)": "2010-07-08 00:00:00",
+    "Release date (datetime)": "July 08 2010",
     "imdb": "6.1",
     "metascore": "46",
     "rotten_tomatoes": "40%"
@@ -15385,7 +15385,7 @@
     "Running time (int)": 115,
     "Budget (float)": 22000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2006-07-29 00:00:00",
+    "Release date (datetime)": "July 29 2006",
     "imdb": "6.4",
     "metascore": "47",
     "rotten_tomatoes": null
@@ -15436,7 +15436,7 @@
     "Running time (int)": 74,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": "75%"
@@ -15483,7 +15483,7 @@
     "Running time (int)": 123,
     "Budget (float)": 35000000.0,
     "Box office (float)": 60300000.0,
-    "Release date (datetime)": "2010-09-30 00:00:00",
+    "Release date (datetime)": "September 30 2010",
     "imdb": "7.2",
     "metascore": "61",
     "rotten_tomatoes": "63%"
@@ -15522,7 +15522,7 @@
     "Running time (int)": 108,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.6",
     "metascore": "N/A",
     "rotten_tomatoes": "77%"
@@ -15564,7 +15564,7 @@
     "Running time (int)": 100,
     "Budget (float)": 260000000.0,
     "Box office (float)": 592400000.0,
-    "Release date (datetime)": "2010-11-14 00:00:00",
+    "Release date (datetime)": "November 14 2010",
     "imdb": "7.7",
     "metascore": "71",
     "rotten_tomatoes": "89%"
@@ -15611,7 +15611,7 @@
     "Running time (int)": 101,
     "Budget (float)": null,
     "Box office (float)": 55513.0,
-    "Release date (datetime)": "2009-04-24 00:00:00",
+    "Release date (datetime)": "April 24 2009",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -15643,8 +15643,6 @@
       "Jeff Bridges",
       "Olivia Wilde",
       "Bruce Boxleitner",
-      "James Frain",
-      "Beau Garrett",
       "Michael Sheen"
     ],
     "Music by": [
@@ -15670,7 +15668,7 @@
     "Running time (int)": 125,
     "Budget (float)": 170000000.0,
     "Box office (float)": 400100000.0,
-    "Release date (datetime)": "2010-11-30 00:00:00",
+    "Release date (datetime)": "November 30 2010",
     "imdb": "6.8",
     "metascore": "49",
     "rotten_tomatoes": "51%"
@@ -15716,7 +15714,7 @@
     "Running time (int)": null,
     "Budget (float)": 3800000.0,
     "Box office (float)": 7000000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -15745,7 +15743,7 @@
     "Running time (int)": 90,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "4.8",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -15798,7 +15796,7 @@
     "Running time (int)": 88,
     "Budget (float)": 150000000.0,
     "Box office (float)": 39200000.0,
-    "Release date (datetime)": "2011-03-11 00:00:00",
+    "Release date (datetime)": "March 11 2011",
     "imdb": "5.4",
     "metascore": "49",
     "rotten_tomatoes": "37%"
@@ -15838,7 +15836,7 @@
     "Running time (int)": 109,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "4.0",
     "metascore": "N/A",
     "rotten_tomatoes": "50%"
@@ -15886,7 +15884,7 @@
     "Running time (int)": 89,
     "Budget (float)": 5000000.0,
     "Box office (float)": 30900000.0,
-    "Release date (datetime)": "2011-04-22 00:00:00",
+    "Release date (datetime)": "April 22 2011",
     "imdb": "7.6",
     "metascore": "61",
     "rotten_tomatoes": "73%"
@@ -15931,7 +15929,7 @@
     "Running time (int)": 104,
     "Budget (float)": 8000000.0,
     "Box office (float)": 10700000.0,
-    "Release date (datetime)": "2011-04-29 00:00:00",
+    "Release date (datetime)": "April 29 2011",
     "imdb": "5.4",
     "metascore": "50",
     "rotten_tomatoes": "36%"
@@ -15993,7 +15991,7 @@
     "Running time (int)": 137,
     "Budget (float)": 410600000.0,
     "Box office (float)": 1046000000.0,
-    "Release date (datetime)": "2011-05-07 00:00:00",
+    "Release date (datetime)": "May 07 2011",
     "imdb": "6.6",
     "metascore": "45",
     "rotten_tomatoes": "33%"
@@ -16042,7 +16040,7 @@
     "Running time (int)": 106,
     "Budget (float)": 200000000.0,
     "Box office (float)": 562100000.0,
-    "Release date (datetime)": "2011-06-18 00:00:00",
+    "Release date (datetime)": "June 18 2011",
     "imdb": "6.1",
     "metascore": "57",
     "rotten_tomatoes": "39%"
@@ -16109,7 +16107,7 @@
     "Running time (int)": 69,
     "Budget (float)": 30000000.0,
     "Box office (float)": 50100000.0,
-    "Release date (datetime)": "2011-04-06 00:00:00",
+    "Release date (datetime)": "April 06 2011",
     "imdb": "7.2",
     "metascore": "74",
     "rotten_tomatoes": "91%"
@@ -16155,7 +16153,7 @@
     "Running time (int)": 103,
     "Budget (float)": 45000000.0,
     "Box office (float)": 165200000.0,
-    "Release date (datetime)": "2011-11-04 00:00:00",
+    "Release date (datetime)": "November 04 2011",
     "imdb": "7.1",
     "metascore": "75",
     "rotten_tomatoes": "95%"
@@ -16205,7 +16203,7 @@
     "Running time (int)": 95,
     "Budget (float)": 23000000.0,
     "Box office (float)": 146000000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.6",
     "metascore": "80",
     "rotten_tomatoes": "95%"
@@ -16261,7 +16259,7 @@
     "Running time (int)": 132,
     "Budget (float)": 306600000.0,
     "Box office (float)": 284100000.0,
-    "Release date (datetime)": "2012-02-22 00:00:00",
+    "Release date (datetime)": "February 22 2012",
     "imdb": "6.6",
     "metascore": "51",
     "rotten_tomatoes": "52%"
@@ -16314,7 +16312,7 @@
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
     "Box office (float)": 34800000.0,
-    "Release date (datetime)": "2012-04-20 00:00:00",
+    "Release date (datetime)": "April 20 2012",
     "imdb": "7.2",
     "metascore": "57",
     "rotten_tomatoes": "76%"
@@ -16350,7 +16348,7 @@
     "Running time (int)": 96,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "67%"
@@ -16404,7 +16402,7 @@
     "Running time (int)": 93,
     "Budget (float)": 185000000.0,
     "Box office (float)": 540400000.0,
-    "Release date (datetime)": "2012-06-10 00:00:00",
+    "Release date (datetime)": "June 10 2012",
     "imdb": "7.1",
     "metascore": "69",
     "rotten_tomatoes": "78%"
@@ -16451,7 +16449,7 @@
     "Running time (int)": 104,
     "Budget (float)": 25000000.0,
     "Box office (float)": 56000000.0,
-    "Release date (datetime)": "2012-08-15 00:00:00",
+    "Release date (datetime)": "August 15 2012",
     "imdb": "6.6",
     "metascore": "47",
     "rotten_tomatoes": "36%"
@@ -16500,7 +16498,7 @@
     "Running time (int)": 87,
     "Budget (float)": 39000000.0,
     "Box office (float)": 81500000.0,
-    "Release date (datetime)": "2012-09-20 00:00:00",
+    "Release date (datetime)": "September 20 2012",
     "imdb": "6.9",
     "metascore": "74",
     "rotten_tomatoes": "87%"
@@ -16545,7 +16543,7 @@
     "Running time (int)": 101,
     "Budget (float)": 165000000.0,
     "Box office (float)": 471200000.0,
-    "Release date (datetime)": "2012-10-29 00:00:00",
+    "Release date (datetime)": "October 29 2012",
     "imdb": "7.7",
     "metascore": "72",
     "rotten_tomatoes": "87%"
@@ -16597,7 +16595,7 @@
     "Running time (int)": 130,
     "Budget (float)": 200.0,
     "Box office (float)": 493300000.0,
-    "Release date (datetime)": "2013-02-14 00:00:00",
+    "Release date (datetime)": "February 14 2013",
     "imdb": "6.3",
     "metascore": "44",
     "rotten_tomatoes": "57%"
@@ -16646,7 +16644,7 @@
     "Running time (int)": 77,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.4",
     "metascore": "N/A",
     "rotten_tomatoes": "79%"
@@ -16698,7 +16696,7 @@
     "Running time (int)": 104,
     "Budget (float)": 200000000.0,
     "Box office (float)": 743600000.0,
-    "Release date (datetime)": "2013-06-05 00:00:00",
+    "Release date (datetime)": "June 05 2013",
     "imdb": "7.3",
     "metascore": "65",
     "rotten_tomatoes": "80%"
@@ -16761,7 +16759,7 @@
     "Running time (int)": 149,
     "Budget (float)": 225.0,
     "Box office (float)": 260500000.0,
-    "Release date (datetime)": "2013-06-22 00:00:00",
+    "Release date (datetime)": "June 22 2013",
     "imdb": "6.4",
     "metascore": "37",
     "rotten_tomatoes": "30%"
@@ -16812,7 +16810,7 @@
     "Running time (int)": 92,
     "Budget (float)": 50000000.0,
     "Box office (float)": 239300000.0,
-    "Release date (datetime)": "2013-08-02 00:00:00",
+    "Release date (datetime)": "August 02 2013",
     "imdb": "5.7",
     "metascore": "39",
     "rotten_tomatoes": "25%"
@@ -16869,7 +16867,7 @@
     "Running time (int)": 102,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1280000000.0,
-    "Release date (datetime)": "2013-11-19 00:00:00",
+    "Release date (datetime)": "November 19 2013",
     "imdb": "7.4",
     "metascore": "75",
     "rotten_tomatoes": "90%"
@@ -16926,7 +16924,7 @@
     "Running time (int)": 125,
     "Budget (float)": 35000000.0,
     "Box office (float)": 117900000.0,
-    "Release date (datetime)": "2013-10-20 00:00:00",
+    "Release date (datetime)": "October 20 2013",
     "imdb": "7.5",
     "metascore": "65",
     "rotten_tomatoes": "79%"
@@ -16968,7 +16966,7 @@
     "Running time (int)": 107,
     "Budget (float)": 51000000.0,
     "Box office (float)": 80400000.0,
-    "Release date (datetime)": "2014-03-11 00:00:00",
+    "Release date (datetime)": "March 11 2014",
     "imdb": "6.4",
     "metascore": "61",
     "rotten_tomatoes": "80%"
@@ -17001,7 +16999,7 @@
     "Running time (int)": 77,
     "Budget (float)": 5000000.0,
     "Box office (float)": 21300000.0,
-    "Release date (datetime)": "2014-04-18 00:00:00",
+    "Release date (datetime)": "April 18 2014",
     "imdb": "7.4",
     "metascore": "68",
     "rotten_tomatoes": "90%"
@@ -17050,7 +17048,7 @@
     "Running time (int)": 124,
     "Budget (float)": 25000000.0,
     "Box office (float)": 39200000.0,
-    "Release date (datetime)": "2014-05-06 00:00:00",
+    "Release date (datetime)": "May 06 2014",
     "imdb": "7.0",
     "metascore": "56",
     "rotten_tomatoes": "65%"
@@ -17096,7 +17094,7 @@
     "Running time (int)": 97,
     "Budget (float)": 180.0,
     "Box office (float)": 758500000.0,
-    "Release date (datetime)": "2014-05-28 00:00:00",
+    "Release date (datetime)": "May 28 2014",
     "imdb": "7.0",
     "metascore": "56",
     "rotten_tomatoes": "54%"
@@ -17143,7 +17141,7 @@
     "Running time (int)": 84,
     "Budget (float)": 50000000.0,
     "Box office (float)": 147000000.0,
-    "Release date (datetime)": "2014-07-15 00:00:00",
+    "Release date (datetime)": "July 15 2014",
     "imdb": "6.0",
     "metascore": "48",
     "rotten_tomatoes": "45%"
@@ -17190,7 +17188,7 @@
     "Running time (int)": 127,
     "Budget (float)": 3200000.0,
     "Box office (float)": 11000000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "6.4",
     "metascore": "N/A",
     "rotten_tomatoes": "80%"
@@ -17241,7 +17239,7 @@
     "Running time (int)": 81,
     "Budget (float)": 28000000.0,
     "Box office (float)": 100700000.0,
-    "Release date (datetime)": "2014-10-06 00:00:00",
+    "Release date (datetime)": "October 06 2014",
     "imdb": "6.2",
     "metascore": "54",
     "rotten_tomatoes": "61%"
@@ -17299,7 +17297,7 @@
     "Running time (int)": 102,
     "Budget (float)": 165000000.0,
     "Box office (float)": 657800000.0,
-    "Release date (datetime)": "2014-10-23 00:00:00",
+    "Release date (datetime)": "October 23 2014",
     "imdb": "7.8",
     "metascore": "74",
     "rotten_tomatoes": "89%"
@@ -17355,7 +17353,7 @@
     "Running time (int)": 124,
     "Budget (float)": 50000000.0,
     "Box office (float)": 213100000.0,
-    "Release date (datetime)": "2014-12-08 00:00:00",
+    "Release date (datetime)": "December 08 2014",
     "imdb": "5.9",
     "metascore": "69",
     "rotten_tomatoes": "71%"
@@ -17404,10 +17402,10 @@
     "Running time (int)": 129,
     "Budget (float)": 25000000.0,
     "Box office (float)": 45700000.0,
-    "Release date (datetime)": "2015-02-09 00:00:00",
+    "Release date (datetime)": "February 09 2015",
     "imdb": "7.4",
     "metascore": "60",
-    "rotten_tomatoes": "81%"
+    "rotten_tomatoes": "80%"
   },
   {
     "title": "Cinderella",
@@ -17460,7 +17458,7 @@
     "Running time (int)": 106,
     "Budget (float)": 95000000.0,
     "Box office (float)": 543000000.0,
-    "Release date (datetime)": "2015-02-13 00:00:00",
+    "Release date (datetime)": "February 13 2015",
     "imdb": "6.9",
     "metascore": "67",
     "rotten_tomatoes": "83%"
@@ -17498,7 +17496,7 @@
     "Running time (int)": 82,
     "Budget (float)": 5.0,
     "Box office (float)": 17100000.0,
-    "Release date (datetime)": "2015-04-17 00:00:00",
+    "Release date (datetime)": "April 17 2015",
     "imdb": "7.3",
     "metascore": "72",
     "rotten_tomatoes": "93%"
@@ -17555,7 +17553,7 @@
     "Running time (int)": 130,
     "Budget (float)": 180.0,
     "Box office (float)": 209000000.0,
-    "Release date (datetime)": "2015-05-09 00:00:00",
+    "Release date (datetime)": "May 09 2015",
     "imdb": "6.4",
     "metascore": "60",
     "rotten_tomatoes": "50%"
@@ -17610,7 +17608,7 @@
     "Running time (int)": 95,
     "Budget (float)": 175000000.0,
     "Box office (float)": 858000000.0,
-    "Release date (datetime)": "2015-05-18 00:00:00",
+    "Release date (datetime)": "May 18 2015",
     "imdb": "8.1",
     "metascore": "94",
     "rotten_tomatoes": "98%"
@@ -17652,7 +17650,7 @@
     "Running time (int)": 154,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -17708,7 +17706,7 @@
     "Running time (int)": 94,
     "Budget (float)": 175000000.0,
     "Box office (float)": 332200000.0,
-    "Release date (datetime)": "2015-11-10 00:00:00",
+    "Release date (datetime)": "November 10 2015",
     "imdb": "6.7",
     "metascore": "66",
     "rotten_tomatoes": "76%"
@@ -17764,7 +17762,7 @@
     "Running time (int)": 117,
     "Budget (float)": 70.0,
     "Box office (float)": 52100000.0,
-    "Release date (datetime)": "2016-01-25 00:00:00",
+    "Release date (datetime)": "January 25 2016",
     "imdb": "6.8",
     "metascore": "58",
     "rotten_tomatoes": "63%"
@@ -17832,7 +17830,7 @@
     "Running time (int)": 108,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1024000000.0,
-    "Release date (datetime)": "2016-02-13 00:00:00",
+    "Release date (datetime)": "February 13 2016",
     "imdb": "8.0",
     "metascore": "78",
     "rotten_tomatoes": "98%"
@@ -17883,7 +17881,7 @@
     "Running time (int)": 106,
     "Budget (float)": 175.0,
     "Box office (float)": 966600000.0,
-    "Release date (datetime)": "2016-04-04 00:00:00",
+    "Release date (datetime)": "April 04 2016",
     "imdb": "7.4",
     "metascore": "77",
     "rotten_tomatoes": "94%"
@@ -17927,7 +17925,7 @@
     "Running time (int)": 98,
     "Budget (float)": null,
     "Box office (float)": 17000000.0,
-    "Release date (datetime)": "2016-04-23 00:00:00",
+    "Release date (datetime)": "April 23 2016",
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -17984,7 +17982,7 @@
     "Running time (int)": 114,
     "Budget (float)": 170000000.0,
     "Box office (float)": 299500000.0,
-    "Release date (datetime)": "2016-05-10 00:00:00",
+    "Release date (datetime)": "May 10 2016",
     "imdb": "6.2",
     "metascore": "34",
     "rotten_tomatoes": "29%"
@@ -18034,7 +18032,7 @@
     "Running time (int)": 97,
     "Budget (float)": 175.0,
     "Box office (float)": 1028999999.9999999,
-    "Release date (datetime)": "2016-06-08 00:00:00",
+    "Release date (datetime)": "June 08 2016",
     "imdb": "7.3",
     "metascore": "77",
     "rotten_tomatoes": "94%"
@@ -18093,7 +18091,7 @@
     "Running time (int)": 117,
     "Budget (float)": 140000000.0,
     "Box office (float)": 195200000.0,
-    "Release date (datetime)": "2016-05-14 00:00:00",
+    "Release date (datetime)": "May 14 2016",
     "imdb": "6.4",
     "metascore": "66",
     "rotten_tomatoes": "74%"
@@ -18139,7 +18137,7 @@
     "Running time (int)": 103,
     "Budget (float)": 65000000.0,
     "Box office (float)": 143700000.0,
-    "Release date (datetime)": "2016-08-08 00:00:00",
+    "Release date (datetime)": "August 08 2016",
     "imdb": "6.7",
     "metascore": "71",
     "rotten_tomatoes": "88%"
@@ -18193,7 +18191,7 @@
     "Running time (int)": 124,
     "Budget (float)": 15000000.0,
     "Box office (float)": 10400000.0,
-    "Release date (datetime)": "2016-09-10 00:00:00",
+    "Release date (datetime)": "September 10 2016",
     "imdb": "7.4",
     "metascore": "73",
     "rotten_tomatoes": "94%"
@@ -18256,7 +18254,7 @@
     "Running time (int)": 107,
     "Budget (float)": 150.0,
     "Box office (float)": 690800000.0,
-    "Release date (datetime)": "2016-11-14 00:00:00",
+    "Release date (datetime)": "November 14 2016",
     "imdb": "7.6",
     "metascore": "81",
     "rotten_tomatoes": "95%"
@@ -18310,7 +18308,7 @@
     "Running time (int)": 161,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "8.4",
     "metascore": "N/A",
     "rotten_tomatoes": "88%"
@@ -18362,7 +18360,7 @@
     "Running time (int)": 80,
     "Budget (float)": 8000000.0,
     "Box office (float)": 127400000.0,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.5",
     "metascore": "79",
     "rotten_tomatoes": "94%"
@@ -18418,7 +18416,7 @@
     "Running time (int)": 129,
     "Budget (float)": 160.0,
     "Box office (float)": 1264000000.0,
-    "Release date (datetime)": "2017-02-23 00:00:00",
+    "Release date (datetime)": "February 23 2017",
     "imdb": "8.0",
     "metascore": "95",
     "rotten_tomatoes": "94%"
@@ -18478,7 +18476,7 @@
     "Running time (int)": 76,
     "Budget (float)": 5.0,
     "Box office (float)": 25100000.0,
-    "Release date (datetime)": "2016-08-12 00:00:00",
+    "Release date (datetime)": "August 12 2016",
     "imdb": "7.2",
     "metascore": "57",
     "rotten_tomatoes": "85%"
@@ -18533,7 +18531,7 @@
     "Running time (int)": 129,
     "Budget (float)": 230.0,
     "Box office (float)": 794900000.0,
-    "Release date (datetime)": "2017-05-11 00:00:00",
+    "Release date (datetime)": "May 11 2017",
     "imdb": "6.5",
     "metascore": "39",
     "rotten_tomatoes": "29%"
@@ -18590,7 +18588,7 @@
     "Running time (int)": 102,
     "Budget (float)": 175000000.0,
     "Box office (float)": 383900000.0,
-    "Release date (datetime)": "2017-05-23 00:00:00",
+    "Release date (datetime)": "May 23 2017",
     "imdb": "6.7",
     "metascore": "59",
     "rotten_tomatoes": "69%"
@@ -18614,7 +18612,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2017-06-30 00:00:00",
+    "Release date (datetime)": "June 30 2017",
     "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -18670,7 +18668,7 @@
     "Running time (int)": 162,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -18724,7 +18722,7 @@
     "Running time (int)": 105,
     "Budget (float)": 175.0,
     "Box office (float)": 807800000.0,
-    "Release date (datetime)": "2017-10-20 00:00:00",
+    "Release date (datetime)": "October 20 2017",
     "imdb": "8.4",
     "metascore": "81",
     "rotten_tomatoes": "97%"
@@ -18779,7 +18777,7 @@
     "Running time (int)": 109,
     "Budget (float)": 100.0,
     "Box office (float)": 133400000.0,
-    "Release date (datetime)": "2018-02-26 00:00:00",
+    "Release date (datetime)": "February 26 2018",
     "imdb": "4.2",
     "metascore": "53",
     "rotten_tomatoes": "42%"
@@ -18828,7 +18826,7 @@
     "Running time (int)": 118,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1243000000.0,
-    "Release date (datetime)": "2018-06-05 00:00:00",
+    "Release date (datetime)": "June 05 2018",
     "imdb": "7.6",
     "metascore": "80",
     "rotten_tomatoes": "93%"
@@ -18885,7 +18883,7 @@
     "Running time (int)": 104,
     "Budget (float)": 70000000.0,
     "Box office (float)": 197700000.0,
-    "Release date (datetime)": "2018-07-30 00:00:00",
+    "Release date (datetime)": "July 30 2018",
     "imdb": "7.3",
     "metascore": "60",
     "rotten_tomatoes": null
@@ -18936,7 +18934,7 @@
     "Running time (int)": 99,
     "Budget (float)": 120.0,
     "Box office (float)": 174000000.0,
-    "Release date (datetime)": "2018-10-29 00:00:00",
+    "Release date (datetime)": "October 29 2018",
     "imdb": "5.5",
     "metascore": "39",
     "rotten_tomatoes": "32%"
@@ -18993,7 +18991,7 @@
     "Running time (int)": 112,
     "Budget (float)": 175000000.0,
     "Box office (float)": 529299999.99999994,
-    "Release date (datetime)": "2018-11-05 00:00:00",
+    "Release date (datetime)": "November 05 2018",
     "imdb": "7.0",
     "metascore": "71",
     "rotten_tomatoes": "88%"
@@ -19052,7 +19050,7 @@
     "Running time (int)": 131,
     "Budget (float)": 130000000.0,
     "Box office (float)": 349500000.0,
-    "Release date (datetime)": "2018-11-29 00:00:00",
+    "Release date (datetime)": "November 29 2018",
     "imdb": "6.7",
     "metascore": "66",
     "rotten_tomatoes": "79%"
@@ -19108,7 +19106,7 @@
     "Running time (int)": 112,
     "Budget (float)": 170000000.0,
     "Box office (float)": 353300000.0,
-    "Release date (datetime)": "2019-03-11 00:00:00",
+    "Release date (datetime)": "March 11 2019",
     "imdb": "7.2",
     "metascore": "96",
     "rotten_tomatoes": "98%"
@@ -19144,7 +19142,7 @@
     "Running time (int)": 76,
     "Budget (float)": null,
     "Box office (float)": 7.7,
-    "Release date (datetime)": "2019-04-17 00:00:00",
+    "Release date (datetime)": "April 17 2019",
     "imdb": "7.1",
     "metascore": "69",
     "rotten_tomatoes": "92%"
@@ -19201,7 +19199,7 @@
     "Running time (int)": 128,
     "Budget (float)": 183000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2019-05-08 00:00:00",
+    "Release date (datetime)": "May 08 2019",
     "imdb": "8.0",
     "metascore": "86",
     "rotten_tomatoes": "95%"
@@ -19268,7 +19266,7 @@
     "Running time (int)": 100,
     "Budget (float)": 200000000.0,
     "Box office (float)": 1073000000.0,
-    "Release date (datetime)": "2019-06-11 00:00:00",
+    "Release date (datetime)": "June 11 2019",
     "imdb": "7.8",
     "metascore": "84",
     "rotten_tomatoes": "97%"
@@ -19322,7 +19320,7 @@
     "Running time (int)": 118,
     "Budget (float)": 250.0,
     "Box office (float)": 1657000000.0,
-    "Release date (datetime)": "2019-07-09 00:00:00",
+    "Release date (datetime)": "July 09 2019",
     "imdb": "8.5",
     "metascore": "88",
     "rotten_tomatoes": "93%"
@@ -19380,7 +19378,7 @@
     "Running time (int)": 119,
     "Budget (float)": 185000000.0,
     "Box office (float)": 491700000.0,
-    "Release date (datetime)": "2019-10-18 00:00:00",
+    "Release date (datetime)": "October 18 2019",
     "imdb": "6.6",
     "metascore": "43",
     "rotten_tomatoes": "39%"
@@ -19431,7 +19429,7 @@
     "Running time (int)": 104,
     "Budget (float)": 60000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2019-11-12 00:00:00",
+    "Release date (datetime)": "November 12 2019",
     "imdb": "7.3",
     "metascore": "78",
     "rotten_tomatoes": "93%"
@@ -19466,7 +19464,7 @@
     "Running time (int)": 100,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2019-11-12 00:00:00",
+    "Release date (datetime)": "November 12 2019",
     "imdb": "6.3",
     "metascore": "48",
     "rotten_tomatoes": null
@@ -19524,7 +19522,7 @@
     "Running time (int)": 103,
     "Budget (float)": 150000000.0,
     "Box office (float)": 1450000000.0,
-    "Release date (datetime)": "2019-11-07 00:00:00",
+    "Release date (datetime)": "November 07 2019",
     "imdb": "6.9",
     "metascore": "64",
     "rotten_tomatoes": "77%"
@@ -19552,7 +19550,7 @@
     "Running time (int)": 114,
     "Budget (float)": 40000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2019-12-20 00:00:00",
+    "Release date (datetime)": "December 20 2019",
     "imdb": "8.0",
     "metascore": "69",
     "rotten_tomatoes": null
@@ -19601,7 +19599,7 @@
     "Running time (int)": 99,
     "Budget (float)": 42000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-01-25 00:00:00",
+    "Release date (datetime)": "January 25 2020",
     "imdb": "6.1",
     "metascore": "60",
     "rotten_tomatoes": null
@@ -19655,7 +19653,7 @@
     "Running time (int)": 102,
     "Budget (float)": 175.0,
     "Box office (float)": 141900000.0,
-    "Release date (datetime)": "2020-02-21 00:00:00",
+    "Release date (datetime)": "February 21 2020",
     "imdb": "7.4",
     "metascore": "61",
     "rotten_tomatoes": "88%"
@@ -19704,7 +19702,7 @@
     "Running time (int)": 107,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-03-13 00:00:00",
+    "Release date (datetime)": "March 13 2020",
     "imdb": "7.3",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -19740,7 +19738,7 @@
     "Running time (int)": 78,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2018-03-28 00:00:00",
+    "Release date (datetime)": "March 28 2018",
     "imdb": "7.5",
     "metascore": "79",
     "rotten_tomatoes": null
@@ -19774,7 +19772,7 @@
     "Running time (int)": 89,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-04-03 00:00:00",
+    "Release date (datetime)": "April 03 2020",
     "imdb": "7.2",
     "metascore": "70",
     "rotten_tomatoes": "73%"
@@ -19823,7 +19821,7 @@
     "Running time (int)": 95,
     "Budget (float)": 125000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-06-12 00:00:00",
+    "Release date (datetime)": "June 12 2020",
     "imdb": "4.2",
     "metascore": "31",
     "rotten_tomatoes": "8%"
@@ -19875,7 +19873,7 @@
     "Running time (int)": 160,
     "Budget (float)": 12500000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-07-03 00:00:00",
+    "Release date (datetime)": "July 03 2020",
     "imdb": "8.5",
     "metascore": "90",
     "rotten_tomatoes": null
@@ -19977,7 +19975,7 @@
     "Running time (int)": 85,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-07-31 00:00:00",
+    "Release date (datetime)": "July 31 2020",
     "imdb": "5.5",
     "metascore": "84",
     "rotten_tomatoes": null
@@ -20031,7 +20029,7 @@
     "Running time (int)": 100,
     "Budget (float)": 24000000.0,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-08-14 00:00:00",
+    "Release date (datetime)": "August 14 2020",
     "imdb": "6.3",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20076,7 +20074,7 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-08-21 00:00:00",
+    "Release date (datetime)": "August 21 2020",
     "imdb": "6.7",
     "metascore": "58",
     "rotten_tomatoes": null
@@ -20131,7 +20129,7 @@
     "Running time (int)": 115,
     "Budget (float)": 200000000.0,
     "Box office (float)": 70000000.0,
-    "Release date (datetime)": "2020-03-09 00:00:00",
+    "Release date (datetime)": "March 09 2020",
     "imdb": "7.6",
     "metascore": "71",
     "rotten_tomatoes": "86%"
@@ -20166,7 +20164,7 @@
     "Running time (int)": 113,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-12-04 00:00:00",
+    "Release date (datetime)": "December 04 2020",
     "imdb": "6.1",
     "metascore": "49",
     "rotten_tomatoes": null
@@ -20204,7 +20202,7 @@
     "Running time (int)": 119,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2020-12-11 00:00:00",
+    "Release date (datetime)": "December 11 2020",
     "imdb": "6.8",
     "metascore": "55",
     "rotten_tomatoes": null
@@ -20257,7 +20255,7 @@
     "Running time (int)": 101,
     "Budget (float)": 150000000.0,
     "Box office (float)": 121800000.0,
-    "Release date (datetime)": "2020-10-11 00:00:00",
+    "Release date (datetime)": "October 11 2020",
     "imdb": "8.1",
     "metascore": "83",
     "rotten_tomatoes": null
@@ -20299,7 +20297,7 @@
     "Running time (int)": 95,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2021-02-19 00:00:00",
+    "Release date (datetime)": "February 19 2021",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20344,7 +20342,7 @@
     "Running time (int)": 114,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2021-03-05 00:00:00",
+    "Release date (datetime)": "March 05 2021",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20394,7 +20392,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2021-05-28 00:00:00",
+    "Release date (datetime)": "May 28 2021",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20455,7 +20453,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2021-07-30 00:00:00",
+    "Release date (datetime)": "July 30 2021",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20497,7 +20495,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "8.0",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20533,7 +20531,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "2021-11-24 00:00:00",
+    "Release date (datetime)": "November 24 2021",
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null
@@ -20593,7 +20591,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.6",
     "metascore": "88",
     "rotten_tomatoes": "93%"
@@ -20633,7 +20631,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": null,
     "metascore": null,
     "rotten_tomatoes": null
@@ -20676,7 +20674,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "7.6",
     "metascore": "63",
     "rotten_tomatoes": "67%"
@@ -20720,7 +20718,7 @@
     "Running time (int)": null,
     "Budget (float)": null,
     "Box office (float)": null,
-    "Release date (datetime)": "None",
+    "Release date (datetime)": null,
     "imdb": "N/A",
     "metascore": "N/A",
     "rotten_tomatoes": null

@@ -10,12 +10,10 @@ def convert_date(date):
         date = date[0]
 
     date_str = strip_parentheses(date)
-    print(date_str)
 
     fmts = ['%B %d, %Y', '%d %B %Y']  # month-day-year or date-month-year
     for fmt in fmts:
         try:
             return datetime.strptime(date_str, fmt)
         except:
-            pass
             return None

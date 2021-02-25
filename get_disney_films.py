@@ -17,7 +17,6 @@ def scrape_disney_films():
             title = movie['title']
             movie_info_list.append(scrape_info_box(base_path + relative_path))
         except Exception as e:
-            print(movie.get_text())
             print(e)
 
     return movie_info_list
