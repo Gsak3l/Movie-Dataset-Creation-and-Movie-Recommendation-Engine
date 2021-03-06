@@ -19,29 +19,42 @@ def combined_features(row):
         print('Error', row)
 
 
-if __name__ == '__main__':
-    df = pd.read_csv('../Data Collected/many_movies_dataset.csv')
+def recommend_movies(movie_, df_):
+    df_ = pd.read_csv('../Data Collected/many_movies_dataset.csv')
 
     features = ['keywords', 'cast', 'genres', 'director']
     for feature in features:
-        df[feature] = df[feature].fillna('')  # cleaning up some data
+        df_[feature] = df_[feature].fillna('')  # cleaning up some data
 
-    df['combined_features'] = df.apply(combined_features, axis=1)
-    print(df['combined_features'])
+    df_['combined_features'] = df_.apply(combined_features, axis=1)
+    print(df_['combined_features'])
 
     cv = CountVectorizer()
-    count_matrix = cv.fit_transform(df['combined_features'])
+    count_matrix = cv.fit_transform(df_['combined_features'])
     cosine_sim = cosine_similarity(count_matrix)
 
-    movie_index = get_index_from_title('Avatar')  # aye aye aye, aye aye aye, fuego
+    movie_index = get_index_from_title(movie_)  # aye aye aye, aye aye aye, fuego
     similar_movies = list(enumerate(cosine_sim[movie_index]))
 
     sorted_similar_movies = sorted(similar_movies, key=lambda x: x[1], reverse=True)
 
     i = 0
-    for movie in sorted_similar_movies:
+    for element in sorted_similar_movies:
         if i != 0:
-            print(get_title_from_index(movie[0]))
+            print(get_title_from_index(element[0]))
         if i >= 10:
             break
         i += 1
+
+
+if __name__ == '__main__':
+    df = pd.read_csv('../Data Collected/many_movies_dataset.csv')
+    movie = input('Type a movie that you enjoy watching:')
+    recommend_movies(movie, df)
+
+""""
+HOW THIS WORKS
+This algorithm basically asks the user to type a movie
+that he liked, and then compares the description, genre, cast and director of this
+movie, with all the other movies in the csv file (about 4000).
+"""
