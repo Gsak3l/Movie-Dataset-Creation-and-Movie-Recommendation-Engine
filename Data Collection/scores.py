@@ -4,7 +4,7 @@ import requests
 
 def get_omdb_info(title):
     base_url = 'http://www.omdbapi.com/?'
-    parameters = {'apikey': 'e5a099f9', 't': title}
+    parameters = {'apikey': 'API KEY GOES HERE', 't': title}
     params_encoded = urllib.parse.urlencode(parameters)
     full_url = base_url + params_encoded
     return requests.get(full_url).json()
